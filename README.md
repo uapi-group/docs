@@ -4,7 +4,7 @@ This repo contains generic, org-wide documents like meeting minutes.
 
 # Glossary
 
-This section clarifies on terms and abbreviations used in specs and other documents hhroughout the organisation.
+This section clarifies on terms and abbreviations used in specs and other documents throughout the organisation.
 
 - *DDI* - Discoverable Disk Image
 - *DPS* - Discovery Partition Specification
