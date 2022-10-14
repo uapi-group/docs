@@ -1,18 +1,8 @@
 # Image-based Linux summit, 5th - 6th October 2022
+
 The first image-based Linux summit took place on the 5th and the 6th of October, 2022. It was conducted as a loosely structured  The following parties were present at the summit (in no particular order):
-- Distros: Ubuntu Core, Debian, GnomeOS, Fedora CoreOS, Endless OS, Arch Linux, SuSE, Flatcar
-- Projects: systemd, image-builder, mkosi, TPM2 Linux subsystem / secure boot loader, bitstream, BTRFS, rpm-ostree
-## Glossary
-- *DDI* - Discoverable Disk Image
-- *DPS* - Discovery Partition Specification
-- *MOK* - Machine Owner Key (shim)
-- *UKI* - Unified Kernel Images (sd-stub + kernel + initrd + more)
-- *BLS* - Boot Loader Specification
-- *PCR* – TPM Platform Configuration Registers
-- *TPM* – Trusted Platform Module (security chip)
-- *sysext* – System Extension Image (type of DDI that is overlayed on top of /usr/ via overlayfs and can extend the underlying OS vendor resources in a composable, immutable fashion)
-- *syscfg* – System Configuration Image (type of DDI that is overlayed on top of /etc/ via overlayfs and can extend the underlying OS' configuration in a composable, immutable fashion)
-- *SBAT* – UEFI Secure Boot Advanced Targeting
+- Distros / Entities: Ubuntu Core, Debian, GnomeOS, Fedora CoreOS, Endless OS, Arch Linux, SuSE, Flatcar, Microsoft
+- Projects: systemd, image-builder/osbuild, mkosi, tpm2-software, System Transparency, buildstream, BTRFS, rpm-ostree
 
 ### Actionables and tasks
 Action items listed here can be found as **TODO #[x]** in the full meeting minutes below, with [x] being the action item number.
@@ -32,6 +22,7 @@ Action items listed here can be found as **TODO #[x]** in the full meeting minut
     - make sysext, UKI builds fully reproducible. calculate the signature server side, rebuild locally and apply (to make sig optional in case of legacy  / non-UEFI system)
     - support iso9660 - [tracked here](https://github.com/systemd/mkosi/issues/1220), also see **TODO 10**
     - switch to systemd-repart for unprivileged image builds
+    - SPDX manifest file **TODO 17**
 6. Extend Discoverable partitions specifications to
     - add policy language to restrict what the initrd will load from the disk
     - allow recovery partition GUID
@@ -53,7 +44,7 @@ Action items listed here can be found as **TODO #[x]** in the full meeting minut
 12. Standardise UEFI environment for systemd-repart to trigger full / partial reset.
     - Also define a systemd target to reboot into for factory reset (full or partial) for interactive / desktop systems to offer on a boot menu
     - Add support to repart for full repartitioning (full factory reset) if the disk UUID was set to `0xFFFF`… (similar to existing support for partition factory reset on UUID `00000`…)
-    - To handle app config, add support to systemd-tempfiles for removing files in factory reset mode.
+    - To handle app config, add support to systemd-tempfiles for removing files in factory reset mode: https://github.com/systemd/systemd/pull/24983
 13. Discoverable Partition Spec: add specifications for partition flags to indicate the partition’s purpose (e.g. boot, sysext, recovery, etc.)
     - systemd-sysupdate would ignore recovery partitions and not consider these part of an A/B update scheme 
 14. systemd-sysupdate, systemd boot: add protection against unwanted roll-back (downgrade attack) by use of TPM counters.
@@ -61,17 +52,18 @@ Action items listed here can be found as **TODO #[x]** in the full meeting minut
     - mkinitcpio already implements objcopy functions which could be reused
 16. systemd-sysupdate download helper to become ‘pluggable’, so casync or other can be used instead of the built-in downloader (http).
 17. Add Glossary as a separate file to the same uapi-group repository where minutes etc. are stored.
+18. Add SPDX/SBOM field in os-release that points to local file or URL **TODO #18**
 
 ## Meeting minutes
 
 ### OS images and integrity
-- UKI (unified kernel image):is a new kernel/initrd format, see: https://github.com/systemd/systemd/pull/24351 
+- UKI (unified kernel image): a new kernel/initrd format, see: https://github.com/systemd/systemd/pull/24351 
    - limited to 4GB to fit into EFI space
    - Secure, immutable, all in a single file (easy to update)
-   - Baked-in Initrd, cmdline, root credentials (signed list of TPM PCR 11 values, key that signs the list)
-   - simplified storage of OS secrets like disk encryption keys, making updates less brittle
-   - Credentials next to the UKI are also gathered and passed to the boot
-   - wrapped in a PE file signed for secure boot
+   - Baked-in initrd, cmdline, root credentials (signed list of TPM PCR 11 values, key that signs the list)
+   - simplified storage of OS secrets, like disk encryption keys, making updates less brittle
+   - Credentials next to the UKI are also gathered and passed to the booted system
+   - wrapped in a PE file, signed for UEFI Secure Boot
    - There is a Red Hat feature request to allow multiple kernel cmdline in a single UKI, bootloader generates menu based on that (eg: debug mode, safe mode, etc.)
    - Lack of bootloader-passed, custom command line could create issues later. **TODO #3** to fix this.
 - Root fs: UKI cmdline can have verity roothash, credentials can extended that
@@ -82,7 +74,7 @@ Action items listed here can be found as **TODO #[x]** in the full meeting minut
    - https://github.com/systemd/mkosi-initrd
    - https://lpc.events/event/16/contributions/1188/attachments/993/1949/lpc2022-new-design-for-initrds.pdf
       - https://www.youtube.com/watch?v=rDPo5onf-Rc&t=11088s
-   - Layered initrd, signed/read-only/measured, built server-side and deployed and loaded on need
+   - Layered initrd, signed/read-only/measured, built server-side and deployed and loaded on demand
    - Base initrd in UKI works on most systems, is extendable via sysext (e.g. optional support for hardware)
    - mkosi-initrd can build base and layers from packages only
    - Some work is ongoing on dracut to support this, in a hybrid mode where it builds the initrd/extensions from dracut modules, but no dracut runtime logic on the running system
@@ -134,6 +126,8 @@ Action items listed here can be found as **TODO #[x]** in the full meeting minut
       - verity-protected, de-duplicated by default, garbage collection
       - Simple enough to be accessed from firmware too
 - Would enable use of single partition instead of A/B, could be added to the bottom of GPT and grow at the front. Pool of images - DDIs/UKIs or anything else - available everywhere with implicit and automatic trust in that partition.
+
+
 ### OS A/B booting and safe and robust A/B partition updates
 -  grub vs. sd-boot
    - legacy hardware / non-EFI
@@ -141,6 +135,8 @@ Action items listed here can be found as **TODO #[x]** in the full meeting minut
    - shim only supports grub (signature) as bootloader for secure boot currently
       - Issue could be mitigated if grub could boot UKIs
 #### Handling user configuration changes
+- systemd had /usr/share/factory/ and specifiers in tmpfiles.d to populate /etc from there
+- Other projects (ostree, libeconf) populate from /usr/etc/
 - 3-way merge of configurations in `/etc`?
    1. Previous version default config
    2. Previous version w/ user changes
@@ -157,17 +153,19 @@ Action items listed here can be found as **TODO #[x]** in the full meeting minut
    - sshd has ssh-keygen for example
    - Not fully adopted on all distros for first boot generation 
    - needs buy-in of each project to ship such tool
-- User management: Fedora has started moving away from `/etc` to `systemd-sysuser`
+- User management: Fedora has started moving away from `/etc/passwd` and `/etc/group` to `systemd-sysusers`
 
 - systemd project just published [syscfg proposal](https://github.com/systemd/systemd/issues/24864), see **TODO #1**
-   - Could systemd-syscfg look at configuration-release `CFG_LEVEL=` and make sure it matches `/usr/CFG_LEVEL`, and find the right image?
-   - Add window for version support, on top of `==``
-   - systemd-repart can build syscfg DDIs, should be multi-call (call as e.g. systemd-makesyscfg build config DDI)
-- long term, systemd sysext aims to use `/etc` as immutable / service factory default stack of configuration images and `/etc/local` as user modifications.
+   - Core concept is that even for configuration, one can always trace any file back to its source in a cryptographically secure way
+   - Could systemd-syscfg look at configuration-release `SYSCFG_LEVEL=` and make sure it matches `/usr/`'s `SYSCFG_LEVEL=`, and find the right image, or refuse a wrong one?
+   - Add sliding window for version support, on top of `==``
+   - systemd-repart will be able to build syscfg DDIs, should be multi-call (call as e.g. systemd-makesyscfg build config DDI)
+- long term, systemd sysext aims to use `/etc` as immutable / service factory default stack of configuration images and `/etc/local` as local user modifications.
    - distinguish between verified, secure config and binaries
    - make node state cryptographically deterministic and only deploy workloads if we can prove a node to run trusted binaries in a trusted configuration
+   - tie a specific configuration to a specific time window, which allows e.g. a secret to be unlocked only in a given week and not afterwards
 
-- syscfg pollback: how to do it at system level?
+- syscfg rollback: how to do it at system level?
    - At service level (`ConfigurationImages=`) it’s easier as there’s a single one that has a clear signal on reload
    - At system level problem is combinatorial explosion, could try with counters - each config image has a counter, start with highest and count down
    - Also needs rollback protection, idea: TPM2 monotonic counter establishes (sliding) range window of allowed versions
@@ -184,6 +182,7 @@ Action items listed here can be found as **TODO #[x]** in the full meeting minut
   - secrets are encrypted using TPMs, and only decrypted on demand immediately before consumption
   - meant as a replacement for passing creds in env variables
   - exposes secrets as files
+
 #### Updating OS Images and overlays
 - Build/deploy: can we learn from OCI?
    - Current OCI users use tarballs and merge them, no offline/online security
@@ -242,13 +241,14 @@ Action items listed here can be found as **TODO #[x]** in the full meeting minut
 - RAUC: https://github.com/rauc/rauc
    - Embedded updater, with A/B slots, integrates with many bootloaders/filesystems
 #### TPM provisioning, enrolling, measurement, remote attestation
+- Set up a Linux PCR registry, with a public list of which project claims which PCR, to allow vendor-independent coordination
 - [Keylime](https://keylime.dev/) is used in SUSE
    - Measures using IMA hashes
    - Initrd measured twice
 - Fedora CoreOS also looking into keylime for on boot remote attestation
 - DICE as a reference architecture
    - https://trustedcomputinggroup.org/wp-content/uploads/TCG_DICE_Attestation_Architecture_r22_02dec2020.pdf
-   - https://www.microsoft.com/en-us/research/project/dice-device-identifier-composition-engine/
+   - https://www.microsoft.com/en-us/research/project/dice-deviceidentifier-composition-engine/
 ### OS factory reset
 - Full reset vs. selective to keep wanted local data
    - Selective reset would allow reconfiguration for OSes which apply config at provisioning time (Flatcar, FCOS).
@@ -266,7 +266,7 @@ Action items listed here can be found as **TODO #[x]** in the full meeting minut
       - Repart also supports filling the partition if the UUID is set to 0000…
       - Add the same for 0xFFFFF to signal full factory reset (full repartitioning) for the disk GPT
 - How to restore factory config, and apps stored outside the OS image?
-   - Tmpfiles support for removing stuff only on factory reset mode
+   - Tmpfiles support for removing stuff only on factory reset mode: https://github.com/systemd/systemd/pull/24983
 - Handling recovery partitions (Ubuntu core)
    - Image could be updated but usually isn’t (security vs. robustness)
 https://ubuntu.com/tutorials/how-to-ubuntu-core-recovery-mode#1-overview
@@ -274,17 +274,22 @@ https://ubuntu.com/tutorials/how-to-ubuntu-core-recovery-mode#1-overview
 
 - TPM counters could be used to guard against unwanted rollbacks (downgrade attack).
    - To still allow regular rollback,sliding window of allowed counter values could be used
-   - Counters can only go up, TPM can be reset but lose all keys. Updating moves window forward.
+   - Counters can only go up, need root to change. TPM can be reset by root, but lose all keys. Updating moves window forward.
    - Systemd at boot will bump counter, with graceful fallback in case counters do not work/not available
    - Vendors increase upper end on new release, increase lower end when cutting out older release
-   - Signed PCR policy will include info about which counters to accept
+   - Signed PCR policy will include info about acceptable counters window
+   - Client will be brought up to speed, as counter can be increased by any value
    - TPM monotonic counter support in tpm2-tools: https://www.mankier.com/1/tpm2_nvincrement
+   - By spec, at least 3 counters per TPM, but nothing uses them anywhere
+   - Does not allow multi-boot systems, as counters would not match
    - Tracked in **TODO #14** systemd to support rollback protection with counters
 - Shim supports secure boot advanced targeting (SBAT), stores counter in signed EFI variable, supports multiple vendors/distros. See https://github.com/rhboot/shim/blob/main/SBAT.md for a deep dive.
    - When booting a new version, old version can be marked as invalid, as EFI variables encode component names and minimum version
+   - uses authenticated variables to store the policy (distro + version)
+   - allows multi-boot systems, and cross-vendor/downstream distributions
    - sd-boot/sd-stub already embeds SBAT csv
    - initrd could be covered, too, with additional optional SBAT entries
-   - **TODO #15** add support for SBAT of inner UKI images (initrd), add SBAT to verity signature in DDI
+   - **TODO #15** add support for SBAT of inner UKI images (initrd), add SBAT to verity signature JSON in DDI, if kernel includes SBAT either sd-boot needs to check it through shim, or combined them in the outer UKI SBAT
 ### Distributing OS images
 - rpm-ostree builds OS images on the server side and distributes the resulting tree
    - Optionally, a new layer can be built  locally and overlaid on the base
@@ -335,6 +340,20 @@ https://ubuntu.com/tutorials/how-to-ubuntu-core-recovery-mode#1-overview
    - Idea: create a TPM signed report which includes manifest for images, and also metadata about node itself (PSI etc), orchestrator collects these from nodes on a timer and produces credential that can only be decrypted by that specific node in that specific state
    - sysupdate transport is built-in (http) but should be pluggable - see **TODO #16**
 
+- SBOM
+   - mkosi builds and publishes manifest file in custom JSON
+   - Flatcar has an SPDX SBOM, a JSON file with version/license info, now it also added SLSA provenance
+     ( https://flatcar-linux.org/docs/latest/reference/supply-chain/ )
+   - SUSE: https://documentation.suse.com/sbp/server-linux/html/SBP-SLSA4/index.html
+   - SPDX (https://spdx.dev/ ) and CyclonDX to build a standard manifest file
+   - provenance/tracking
+     - https://github.com/hughsie/python-uswid
+     - https://datatracker.ietf.org/doc/draft-ietf-sacm-coswid/
+     - https://slsa.dev/provenance/v0.1
+   - **TODO #17**: add SPDX support to mkosi
+   - **TODO #18**: add SPDX field to extension-release/os-release
+     ´SPDX=<URL>´ or ´SPDX=<path>´ for self-contained DDI
+
 - Live updates for kernel and userspace w/o downtime
    - “rocket surgery”, many pitfalls  
    - driver states / network queues etc. a problem, needs 100% control over hardware
@@ -345,4 +364,7 @@ https://ubuntu.com/tutorials/how-to-ubuntu-core-recovery-mode#1-overview
    - systemd-suspend uses freezer cgroup to stop everything except pid1
       - But needs to re-arrange cgroup tree, which might break things
    - systemd interested in hierarchical model of freezing, in which states can be passed up
-   - userspace "reboot" ("exitrd"), shut down everything and re-initialise to default.target
+   - userspace "reboot" (possibly with an "exitrd", which is different from "initrd", and resets some kernel state like /dev/), shut down everything and re-initialise to default.target, after switching to new root/usr DDI
+     - But need to figure out how to deal with TPM secrets that are phase-specific, but not different from kexec
+     - Could stop measuring after the "first" boot phases
+
