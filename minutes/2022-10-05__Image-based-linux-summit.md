@@ -95,6 +95,7 @@ Action items listed here can be found as **TODO #[x]** in the full meeting minut
 - [Discoverable Partitions Specification](https://systemd.io/DISCOVERABLE_PARTITIONS/)
    - Please file PRs to extend the specification to [systemd's repository](https://github.com/systemd/systemd/blob/main/docs/DISCOVERABLE_PARTITIONS.md)
    - Input collected in Summit see **TODO #6**
+   - DDI: Discoverable Disk Image, uses DPS and signed dm-verity. Inspired by Canonical's Snaps, uses the same technique and builds on top of it.
 
 - Distro-independent sysext images? Vision: Kubernetes project can publish their own Kubernetes sysext, runs well on all distros, is self-updating client side, so Kubernetes upstream can keep it up to date just by publishing new versions.
    - Could be done by promoting building tools for Go/Rust static binaries. Flatcar has a lab / playground for this, [for example for Docker](https://github.com/flatcar/sysext-bakery).
