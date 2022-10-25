@@ -1,4 +1,4 @@
-# UAPI group generic documents and meeting minutes
+# UAPI Group Generic Documents and Meeting Minutes
 
 This repo contains generic, org-wide documents like meeting minutes.
 
@@ -6,13 +6,13 @@ This repo contains generic, org-wide documents like meeting minutes.
 
 This section clarifies on terms and abbreviations used in specs and other documents throughout the organisation.
 
-### General terms and abbreviations
+### General Terms and Abbreviations
 - *MOK* - Machine Owner Key (shim)
 - *PCR* – TPM Platform Configuration Registers
 - *TPM* – Trusted Platform Module (security chip)
 - *SBAT* – UEFI Secure Boot Advanced Targeting
 
-### Terms and abbreviations specific to UAPI group specifications
+### Terms and Abbreviations specific to UAPI Group Specifications
 - *DDI*[1] - Discoverable Disk Image
 - *DPS*[1] - Discovery Partition Specification
 - *UKI*[1] - Unified Kernel Images (sd-stub + kernel + initrd + more)
@@ -22,7 +22,7 @@ This section clarifies on terms and abbreviations used in specs and other docume
 
 [1] *TODO* add reference to spec as soon as it's up at https://github.com/uapi-group/specifications.
 
-## Minutes and summaries
+## Minutes and Summaries
 
 Listed below are references to the latest UAPI group meeting / conference summaries and minutes.
 
