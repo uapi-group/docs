@@ -24,6 +24,7 @@ theme = "hugo-book"
 
 [params]
   BookPortableLinks = true
+  BookSection = '*'
   BookRepo = 'https://github.com/uapi-group/docs'
   BookCommitPath = 'commit'
   BookEditPath = 'edit/main'
