@@ -2,7 +2,7 @@
 
 The first image-based Linux summit took place on the 5th and the 6th of October, 2022. It was conducted as a loosely structured BoF-style event.
 The following parties were present at the summit (in no particular order):
-- Distros / Entities: Ubuntu Core, Debian, Gnome OS, Fedora CoreOS, Endless OS, Arch Linux, SuSE, Flatcar, Microsoft, Amazon, Meta
+- Distros / Entities: Ubuntu Core, Debian, GNOME OS, Fedora CoreOS, Endless OS, Arch Linux, SuSE, Flatcar, Microsoft, Amazon, Meta
 - Projects: systemd, image-builder/osbuild, mkosi, tpm2-software, System Transparency, buildstream, BTRFS, rpm-ostree
 
 ## Actionables and tasks
@@ -188,7 +188,7 @@ Action items listed here can be found as **TODO #[x]** in the full meeting minut
    - During meeting Greenboot was nudged to use boot-complete
 - SuSE has openSUSE [Health-checker](https://github.com/openSUSE/health-checker)
 - Ubuntu has a health check too
-- Gnome OS [nudge to use boot-complete](https://gitlab.gnome.org/GNOME/gnome-build-meta/-/issues/560)
+- GNOME OS [nudge to use boot-complete](https://gitlab.gnome.org/GNOME/gnome-build-meta/-/issues/560)
 - Endless OS has rudimentary check, "did a user GNOME session start? If so, grub-editenv - unset recordfail")
 
 #### Future Developments
