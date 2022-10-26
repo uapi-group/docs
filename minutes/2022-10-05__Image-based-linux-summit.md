@@ -2,7 +2,7 @@
 
 The first image-based Linux summit took place on the 5th and the 6th of October, 2022. It was conducted as a loosely structured BoF-style event.
 The following parties were present at the summit (in no particular order):
-- Distros / Entities: Ubuntu Core, Debian, GNOME OS, Fedora CoreOS, Endless OS, Arch Linux, SuSE, Flatcar, Microsoft, Amazon, Meta
+- Distros / Entities: Ubuntu Core, Debian, GNOME OS, Fedora CoreOS, Endless OS, Arch Linux, SUSE, Flatcar, Microsoft, Amazon, Meta
 - Projects: systemd, image-builder/osbuild, mkosi, tpm2-software, System Transparency, buildstream, BTRFS, rpm-ostree
 
 ## Actionables and tasks
@@ -144,7 +144,7 @@ Action items listed here can be found as **TODO #[x]** in the full meeting minut
 
 - OSTree copies from `/usr/etc/` to `/etc/` at first boot
    - On update, new configs are copied, user changes remain untouched (== config merge in per-file granularity)
-- OpenSuSE uses the [libeconf](https://opensuse.github.io/libeconf/) project, and MicroOS uses BTRFS snapshots: when a new snapshot is created, chroot into it and run the rpm scriptlets, then makes it read-only. User modifications are done via OverlayFS and stored in /var, which is outside the snapshot.
+- OpenSUSE uses the [libeconf](https://opensuse.github.io/libeconf/) project, and MicroOS uses BTRFS snapshots: when a new snapshot is created, chroot into it and run the rpm scriptlets, then makes it read-only. User modifications are done via OverlayFS and stored in /var, which is outside the snapshot.
 - Programs could forward-convert config via ExecStartPre that figures out config differences semantically
    - sshd has ssh-keygen for example
    - Not fully adopted on all distros for first boot generation 
@@ -172,7 +172,7 @@ Action items listed here can be found as **TODO #[x]** in the full meeting minut
 - OSTree uses `/usr/etc/` and `/etc/`, prefers local (`/etc/`) files in case of conflicts
    - enforces reboots after config changes
 - Some distros address this at packaging level, push package maintainers to default to `/usr/etc/`
-   - [UsrEtc on SuSE](https://en.opensuse.org/openSUSE:Packaging_UsrEtc)
+   - [UsrEtc on SUSE](https://en.opensuse.org/openSUSE:Packaging_UsrEtc)
 
 - credential handling in `/etc/`: `systemd-credentials` can inject sensitive information into system services
   - secrets are encrypted using TPMs, and only decrypted on demand immediately before consumption
@@ -186,7 +186,7 @@ Action items listed here can be found as **TODO #[x]** in the full meeting minut
    - OCI layers are linear and one way merge
 - Fedora IoT / RHEL 4 Edge uses [Greenboot](https://github.com/fedora-iot/greenboot)
    - During meeting Greenboot was nudged to use boot-complete
-- SuSE has openSUSE [Health-checker](https://github.com/openSUSE/health-checker)
+- SUSE has openSUSE [Health-checker](https://github.com/openSUSE/health-checker)
 - Ubuntu has a health check too
 - GNOME OS [nudge to use boot-complete](https://gitlab.gnome.org/GNOME/gnome-build-meta/-/issues/560)
 - Endless OS has rudimentary check, "did a user GNOME session start? If so, grub-editenv - unset recordfail")
@@ -261,7 +261,7 @@ Action items listed here can be found as **TODO #[x]** in the full meeting minut
 - Endless OS currently just erases users & data, implemented as enabling a [systemd service for next boot which disables itself once run](https://github.com/endlessm/eos-boot-helper/tree/master/factory-reset)
 - Flatcar uses a flag file in the ESP which is picked up and acted on by Ignition in the initrd, causing re-deployment of user config
 - Ubuntu core supports [reset via recovery partition (image file in ESP)](https://ubuntu.com/core/docs/use-recovery-mode)
-- SuSE MicroOS keeps BTRS snapshot #1 around, and it can be selected from cli or bootloader menu
+- SUSE MicroOS keeps BTRFS snapshot #1 around, and it can be selected from cli or bootloader menu
 
 #### Future Developments
 - Full reset vs. selectively keeping wanted local data
@@ -354,7 +354,7 @@ Action items listed here can be found as **TODO #[x]** in the full meeting minut
 - SBOM
    - mkosi builds and publishes manifest file in custom JSON
    - Flatcar has an SPDX SBOM, a JSON file with version/license info, now it also added [SLSA provenance](https://flatcar-linux.org/docs/latest/reference/supply-chain/)
-   - [SuSE](https://documentation.suse.com/sbp/server-linux/html/SBP-SLSA4/index.html)
+   - [SUSE](https://documentation.suse.com/sbp/server-linux/html/SBP-SLSA4/index.html)
    - [SPDX](https://spdx.dev/) and CyclonDX to build a standard manifest file
    - provenance/tracking
      - [uswid](https://github.com/hughsie/python-uswid)
