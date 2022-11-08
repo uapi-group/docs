@@ -17,7 +17,7 @@ The goal is to provide free and open source software developers and communities 
 
 The Kernel Devroom will be running all day on Sunday, 5 February, starting at 9am and finishing at 5pm.
 
-We’re looking for talk or demo proposals in one of the following 3 sizes:
+We’re looking for talk or demo proposals in one of the following 4 sizes:
 
 - 10 minutes (e.g., a short demo)
 - 20 minutes (e.g., a project update)
