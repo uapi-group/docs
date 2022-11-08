@@ -62,6 +62,6 @@ The Kernel Devroom aims to cover a wide range of different topics so don't be sh
 
 ## Code of Conduct
 
-We'd like to remind all speakers and attendees that all of the presentations and discussions in our devroom are held under the guidelines set in the [FOSDEM Code of Conduct] https://fosdem.org/2023/practical/conduct/ and we expect attendees, speakers, and volunteers to follow the CoC at all times.
+We'd like to remind all speakers and attendees that all of the presentations and discussions in our devroom are held under the guidelines set in the [FOSDEM Code of Conduct](https://fosdem.org/2023/practical/conduct/) and we expect attendees, speakers, and volunteers to follow the CoC at all times.
 
 If you submit a proposal and it is accepted, you will be required to confirm that you accept the FOSDEM CoC. If you have any questions about the CoC or wish to have one of the devroom organizers review your presentation slides or any other content for CoC compliance, please email us and we will do our best to assist you.
