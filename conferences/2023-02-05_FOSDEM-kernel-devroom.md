@@ -19,10 +19,10 @@ The Kernel Devroom will be running all day on Sunday, 5 February, starting at 9a
 
 We’re looking for talk or demo proposals in one of the following 3 sizes:
 
-- 10 minutes (e.g., short demo)
-- 20 minutes (e.g., project update)
-- 30 minutes (e.g., introduction to new technology or deep dive on complex feature)
-- 40 minutes (e.g., deep dive on complex feature)
+- 10 minutes (e.g., a short demo)
+- 20 minutes (e.g., a project update)
+- 30 minutes (e.g., introduction to a new technology or a deep dive on a complex feature)
+- 40 minutes (e.g., a deep dive on a complex feature)
 
 In all cases, please allow for at least 5 minutes of questions (10min preferred for the 30min slots).
 In general, shorter content will be more likely to get approved as we want to cover a wide range of topics.
