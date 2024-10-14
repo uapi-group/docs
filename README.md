@@ -6,6 +6,7 @@ This repo contains generic, org-wide documents like meeting minutes.
 
 Listed below are references to the latest UAPI group meeting / conference summaries and minutes.
 
+* [Summary](minutes/2024-09-24__Image-based-linux-summit.md) of the third Image-Based Linux Summit, September 24th 2024 in Berlin
 * [All Systems Go 2024 talks and recordings](conferences/2024-09-25__All-Systems-Go.md). Links to recordings of All Systems Go! 2024.
 * [Summary](minutes/2023-09-12__Image-based-linux-summit.md) of the second Image-Based Linux Summit, September 12th 2023 in Berlin
 * [All Systems Go 2023 talks and recordings](conferences/2023-09-13__All-Systems-Go.md). Links to recordings of All Systems Go! 2023.
