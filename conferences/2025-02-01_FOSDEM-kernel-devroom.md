@@ -42,7 +42,7 @@ Please select the "Kernel" as the __track__ and ensure you include the following
 | Event   |  Abstract    |  Short abstract of one or two paragraphs.                                          |
 | Event   |  Duration    |  Please indicate the length of your talk; 10 min, 20 min, 30, or 40 min            |
 
-__The CfP deadline is Saturday, 6 December 2024.__
+__The CfP deadline is Saturday, 1 December 2024.__
 
 ## Topics
 
