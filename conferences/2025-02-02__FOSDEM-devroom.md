@@ -14,7 +14,7 @@ The schedule will be [available on the FOSDEM website](https://fosdem.org/2025/s
 <h2>Call for Participation</h2>
 We are looking for your talk proposals!<br />
 Talks are <b>20 minutes (+5 for questions)</b>, on-site.<br />
-<b>CfP deadline is Saturday, Dec 6, 2024.</b>
+<b>CfP deadline is Sunday, Dec 1, 2024.</b>
 </div>
 
 **Topics include**:
