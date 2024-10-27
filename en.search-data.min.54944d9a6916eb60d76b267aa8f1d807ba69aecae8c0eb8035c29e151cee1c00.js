@@ -56,7 +56,7 @@ FOSDEM is an annual free event for software developers to meet, share ideas and 
 Our half-day devroom will open on Sunday morning at 9am and close at 1pm. Drop in for talks on Image-based Linux and secure / attestable systems, and for a chat with UAPI folks. The schedule will be available on the FOSDEM website.
 Call for Participation We are looking for your talk proposals!
 Talks are 20 minutes (+5 for questions), on-site.
-CfP deadline is Saturday, Dec 6, 2024. Topics include:
+CfP deadline is Sunday, Dec 1, 2024. Topics include:
 Image-based Linux distributions: intro, concepts, updates, differences with other distros OS and kernel image formats Cross-distro specifications and standards (e.g.: https://uapi-group.org) Trustable boot, device attestation, TPM usage and tooling A/B update implementations Reproducible builds as well as topics related to the above.
 To apply:
 Go to https://pretalx.fosdem.org/fosdem-2025/cfp and fill in the proposal form. If you don’t have an account yet, create one first. In the submission form, make sure to select
