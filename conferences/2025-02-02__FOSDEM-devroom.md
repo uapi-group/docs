@@ -6,8 +6,12 @@ FOSDEM is an annual free event for software developers to meet, share ideas and 
 It takes place on February 1 and 2 at the ULB Solbosch Campus in Brussels, Belgium.
 Learn more at https://fosdem.org/2025/.
 
-Our half-day devroom will open on Sunday morning at 9am and close at 1pm.
-Drop in for talks on Image-based Linux and secure / attestable systems, and for a chat with UAPI folks.
+<div align="center">
+<h2>Image-Based Linux and Boot Integrity Devroom</h2>
+<b>Sunday February 2, 9:00—13:00</b>
+Drop in for talks on image-based Linux and secure / attestable systems, and for a chat with UAPI folks.
+</div>
+
 The schedule will be [available on the FOSDEM website](https://fosdem.org/2025/schedule/track/image-based-linux/).
 
 <div align="center">
