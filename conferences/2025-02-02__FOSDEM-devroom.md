@@ -8,8 +8,9 @@ Learn more at https://fosdem.org/2025/.
 
 <div align="center">
 <h2>Image-Based Linux and Boot Integrity Devroom</h2>
-<b>Sunday February 2, 9:00—13:00</b>
-Drop in for talks on image-based Linux and secure / attestable systems, and for a chat with UAPI folks.
+<b>Sunday February 2, 9:00—13:00</b><br />
+Drop in for talks on image-based Linux and secure / attestable systems,<br />
+and for a chat with UAPI folks.
 </div>
 
 The schedule will be [available on the FOSDEM website](https://fosdem.org/2025/schedule/track/image-based-linux/).
