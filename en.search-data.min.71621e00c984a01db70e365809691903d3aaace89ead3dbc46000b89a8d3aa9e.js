@@ -53,7 +53,7 @@ Filesystems and Storage io_uring Tracing eBPF Fuzzing System Boot Security Virtu
 If you submit a proposal and it is accepted, you will be required to confirm that you accept the FOSDEM CoC. If you have any questions about the CoC or wish to have one of the devroom organizers review your presentation slides or any other content for CoC compliance, please email us and we will do our best to assist you.
 `}),e.add({id:7,href:"/docs/conferences/2025-02-02__fosdem-devroom/",title:"2025 02 02 Fosdem Devroom",section:"Conferences",content:` Image-Based Linux and Boot Integrity Devroom @ FOSDEM 25 # The UAPI group, a community for people with an interest in innovating how we build, deploy, run, and update modern security-focused Linux operating systems, will host a devroom at FOSDEM 2025. A \u0026ldquo;devroom\u0026rdquo; (a FOSDEM term) is a co-located mini-conference with its own separate track.
 FOSDEM is an annual free event for software developers to meet, share ideas and collaborate. It takes place on February 1 and 2 at the ULB Solbosch Campus in Brussels, Belgium. Learn more at https://fosdem.org/2025/.
-Our half-day devroom will open on Sunday morning at 9am and close at 1pm. Drop in for talks on Image-based Linux and secure / attestable systems, and for a chat with UAPI folks. The schedule will be available on the FOSDEM website.
+Image-Based Linux and Boot Integrity Devroom Sunday February 2, 9:00—13:00 Drop in for talks on image-based Linux and secure / attestable systems, and for a chat with UAPI folks. The schedule will be available on the FOSDEM website.
 Call for Participation We are looking for your talk proposals!
 Talks are 20 minutes (+5 for questions), on-site.
 CfP deadline is Sunday, Dec 1, 2024. Topics include:
