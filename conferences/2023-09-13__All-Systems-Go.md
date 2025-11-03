@@ -6,5 +6,4 @@ The UAPI Group was well-represented with many speakers and related talks. Learn 
 Please see each [individual talk on the schedule](https://cfp.all-systems-go.io/all-systems-go-2023/schedule/#).
 
 ## Talks recordings
-Please find the [full list of talks recordings on Youtube](https://www.youtube.com/playlist?list=PLWYdJViL9EioDNHn7xIqQJLyCayNPKeYf).
-
+Please find the [full list of talks recordings on media.ccc.de](https://media.ccc.de/c/asg2023/).
