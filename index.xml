@@ -1,14 +1,1340 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UAPI group generic documents and meeting minutes</title><link>https://uapi-group.org/docs/</link><description>Recent content on UAPI group generic documents and meeting minutes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://uapi-group.org/docs/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://uapi-group.org/docs/conferences/2023-02-04__fosdem-devroom/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/conferences/2023-02-04__fosdem-devroom/</guid><description>Image-Based Linux and Secure/Measured Boot Devroom @ FOSDEM 23 # The UAPI group, a community for people with an interest in innovating how we build, deploy, run, and update modern security-focused Linux operating systems, will host a devroom at FOSDEM 2023. A &amp;ldquo;devroom&amp;rdquo; (a FOSDEM term) is a co-located mini-conference with its own separate track.
-FOSDEM is an annual free event for software developers to meet, share ideas and collaborate.</description></item><item><title/><link>https://uapi-group.org/docs/conferences/2023-02-05_fosdem-kernel-devroom/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/conferences/2023-02-05_fosdem-kernel-devroom/</guid><description>Kernel Devroom @ FOSDEM 23 # We are pleased to announce the Call for Participation (CfP) for the FOSDEM 2023 Kernel Devroom.
-FOSDEM 2023 will be over the weekend of the 4th and 5th of February in Brussels, Belgium. FOSDEM is a free and non-commercial event organised by the community for the community. The goal is to provide free and open source software developers and communities a place to meet to:</description></item><item><title/><link>https://uapi-group.org/docs/conferences/2023-09-13__all-systems-go/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/conferences/2023-09-13__all-systems-go/</guid><description>All Systems Go! 2023 # All Systems Go! is a conference focused on foundational user-space Linux technologies. Its goal is to provide a gathering place for both contributors and users of projects that make up the foundation of modern Linux systems. The UAPI Group was well-represented with many speakers and related talks. Learn more at https://all-systems-go.io/
-Talks abstracts and slide decks # Please see each individual talk on the schedule.</description></item><item><title/><link>https://uapi-group.org/docs/conferences/2024-02-04_fosdem-kernel-devroom/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/conferences/2024-02-04_fosdem-kernel-devroom/</guid><description>Kernel Devroom @ FOSDEM 24 # We are pleased to announce the Call for Participation (CfP) for the FOSDEM 2024 Kernel Devroom.
-FOSDEM 2024 will be over the weekend of the 3rd and 4th of February in Brussels, Belgium. FOSDEM is a free and non-commercial event organised by the community for the community. The goal is to provide free and open source software developers and communities a place to meet to:</description></item><item><title/><link>https://uapi-group.org/docs/conferences/2024-09-18__lpc-uapi-mc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/conferences/2024-09-18__lpc-uapi-mc/</guid><description>Kernel &amp;lt;-&amp;gt; Userspace/Init/System Management boundaries and APIs MicroConference @ LPC 24 # We are pleased to announce the Call for Participation (CfP) for the LPC 2024 Kernel &amp;lt;-&amp;gt; Userspace/Init/System Management boundaries and APIs MicroConference.
-LPC 2024 will be held in Vienna, Austria, September 18th to 20th 2024.
-The focus of this microconference will be on topics related to the APIs and interfaces sitting at the boundary between the kernel and init systems/system management layers, with a special attention directed towards current pain points and omissions.</description></item><item><title/><link>https://uapi-group.org/docs/conferences/2024-09-25__all-systems-go/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/conferences/2024-09-25__all-systems-go/</guid><description>All Systems Go! 2024 # All Systems Go! is a conference focused on foundational user-space Linux technologies. Its goal is to provide a gathering place for both contributors and users of projects that make up the foundation of modern Linux systems. The UAPI Group was well-represented with many speakers and related talks. Learn more at https://all-systems-go.io/.
-Talk abstracts and slide decks # Please see each individual talk on the schedule.</description></item><item><title/><link>https://uapi-group.org/docs/conferences/2025-02-01_fosdem-kernel-devroom/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/conferences/2025-02-01_fosdem-kernel-devroom/</guid><description>Kernel Devroom @ FOSDEM 25 # We are pleased to announce the Call for Participation (CfP) for the FOSDEM 2025 Kernel Devroom.
-FOSDEM 2025 will be over the weekend of the 1st and 2nd of February in Brussels, Belgium. FOSDEM is a free and non-commercial event organised by the community for the community. The goal is to provide free and open source software developers and communities a place to meet to:</description></item><item><title/><link>https://uapi-group.org/docs/conferences/2025-02-02__fosdem-devroom/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/conferences/2025-02-02__fosdem-devroom/</guid><description>Image-Based Linux and Boot Integrity Devroom @ FOSDEM 25 # The UAPI group, a community for people with an interest in innovating how we build, deploy, run, and update modern security-focused Linux operating systems, will host a devroom at FOSDEM 2025. A &amp;ldquo;devroom&amp;rdquo; (a FOSDEM term) is a co-located mini-conference with its own separate track.
-FOSDEM is an annual free event for software developers to meet, share ideas and collaborate.</description></item><item><title/><link>https://uapi-group.org/docs/conferences/2025-09-30__all-systems-go/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/conferences/2025-09-30__all-systems-go/</guid><description>All Systems Go! 2025 # All Systems Go! is a conference focused on foundational user-space Linux technologies. Its goal is to provide a gathering place for both contributors and users of projects that make up the foundation of modern Linux systems. The UAPI Group was well-represented with many speakers and related talks. Learn more at https://all-systems-go.io/.
-Talk abstracts and slide decks # Please see each individual talk on the schedule.</description></item><item><title/><link>https://uapi-group.org/docs/conferences/2026-01-31_fosdem-kernel-devroom/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/conferences/2026-01-31_fosdem-kernel-devroom/</guid><description>Kernel Devroom @ FOSDEM 26 # We are pleased to announce the Call for Participation (CfP) for the FOSDEM 2026 Kernel Devroom.
-FOSDEM 2026 will be over the weekend of the 31st of January and 1st of February in Brussels, Belgium. FOSDEM is a free and non-commercial event organised by the community for the community. The goal is to provide free and open source software developers and communities a place to meet to:</description></item><item><title/><link>https://uapi-group.org/docs/minutes/2022-10-05__image-based-linux-summit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/minutes/2022-10-05__image-based-linux-summit/</guid><description>Image-based Linux summit, 5th - 6th October 2022, Berlin # The first image-based Linux summit took place on the 5th and the 6th of October, 2022. It was conducted as a loosely structured BoF-style event. The following parties were present at the summit (in no particular order):
-Distros / Entities: Ubuntu Core, Debian, GNOME OS, Fedora CoreOS, Endless OS, Arch Linux, SUSE, Flatcar, Microsoft, Amazon, Meta Projects: systemd, image-builder/osbuild, mkosi, tpm2-software, System Transparency, buildstream, BTRFS, rpm-ostree Actionables and tasks # Action items listed here can be found as TODO #[x] in the full meeting minutes below, with [x] being the action item number.</description></item><item><title/><link>https://uapi-group.org/docs/minutes/2023-09-12__image-based-linux-summit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/minutes/2023-09-12__image-based-linux-summit/</guid><description>﻿Image-Based Linux Summit Berlin 12th September 2023 # Attendee&amp;rsquo;s projects # Systemd Meta: mkosi, systemd, remote attestation SUSE: Aeon/MicroOS/Tumbleweed Redhat: image-builder/osbuild, systemd, systemd-boot Microsoft: confidential containers, flatcar, Azure Boost, Mariner Edgeless Systems: Constellation, confidential containers NixOS: systemd-{repart,stub,boot,cryptenroll}, Tvix Store, Lanzaboote, UKIs, NixOS Bootspec,, PE binary manipulation in Rust Canonical: Ubuntu Core, snaps, foundations/bootloader/package management System Transparency: UKI, UAPI specs, systemd-cryptenroll, remote attestation, TPM eventlog, mkosi Amazon Linux Freedesktop-sdk GNOME OS carbonOS Summary of Last Year’s Progress # UAPI Group established Website!</description></item><item><title/><link>https://uapi-group.org/docs/minutes/2024-09-24__image-based-linux-summit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/minutes/2024-09-24__image-based-linux-summit/</guid><description>﻿Image-Based Linux Summit Berlin 24th September 2024 # Attendee&amp;rsquo;s projects # systemd mkosi SUSE: MicroOS/Tumbleweed Red Hat: image-builder/osbuild, bootc, systemd, systemd-boot Microsoft: confidential containers, Flatcar, Azure Boost, Mariner/Azure Linux Edgeless Systems: Constellation, Contrast (confidential containers), uplosi NixOS: systemd-{repart,stub,boot,cryptenroll}, tvix-store, Lanzaboote, UKIs, NixOS Bootspec, PE binary manipulation in Rust Canonical: Ubuntu Core, snaps, foundations/bootloader/package management System Transparency: UKI, UAPI specs, systemd-cryptenroll, remote attestation, TPM eventlog, mkosi Freedesktop-sdk GNOME OS Pengutronix: OE/Yocto, nspawn, RAUC, verity, OPTEE Arch Linux: sbctl/go-uefi, signstar, mkinitcpio, arch-install-scripts PostmarketOS Summary of Last Year’s Progress # Flatcar: Sysexts widely adopted: In-system (shipped with OS), optional but system dependent (updated in lock-step with OS, like podman/ZFS), Custom / user provided (updated from custom servers via sysupdate) Composable OS is more flexible, some traction with contributors, even vendors (Akamai) Mutable sysexts feature available in systemd-256 and newer.</description></item><item><title/><link>https://uapi-group.org/docs/minutes/2025-10-02__image-based-linux-summit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/minutes/2025-10-02__image-based-linux-summit/</guid><description>Image-Based Linux Summit Berlin October 2nd 2025 # 🖼️ 🐧 🗻 🥙
-Attendee&amp;rsquo;s projects # systemd mkosi SUSE: MicroOS/Tumbleweed Red Hat: image-builder/osbuild, bootc, systemd, systemd-boot, composefs Fedora: Bootc, CoreOS, Atomic Desktops (Silverblue, Kinoite) Microsoft: confidential containers, Flatcar, Azure Boost NixOS: systemd-{repart,stub,boot,cryptenroll}, snix-store, Lanzaboote, UKIs, NixOS Bootspec, userborn, Sécurix Canonical: Ubuntu Core, snaps, foundations/bootloader/package management Freedesktop-sdk GNOME OS Arch Linux: sbctl/go-uefi, signstar(os), mkinitcpio, arch-install-scripts, devtools, buildbtw / vmexec, voa postmarketOS: mkosi and immutable images, dev tooling Devicetree selection for OS installers Cockpit https://github.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UAPI group generic documents and meeting minutes</title><link>https://uapi-group.org/docs/</link><description>Recent content on UAPI group generic documents and meeting minutes</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://uapi-group.org/docs/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://uapi-group.org/docs/conferences/2023-02-04__fosdem-devroom/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/conferences/2023-02-04__fosdem-devroom/</guid><description>&lt;h1 id="image-based-linux-and-securemeasured-boot-devroom--fosdem-23">
+ Image-Based Linux and Secure/Measured Boot Devroom @ FOSDEM 23
+ &lt;a class="anchor" href="#image-based-linux-and-securemeasured-boot-devroom--fosdem-23">#&lt;/a>
+&lt;/h1>
+&lt;p>The UAPI group, a community for people with an interest in innovating how we build, deploy, run, and update modern security-focused Linux operating systems, will host a devroom at FOSDEM 2023.
+A &amp;ldquo;devroom&amp;rdquo; (a FOSDEM term) is a co-located mini-conference with its own separate track.&lt;/p>
+&lt;p>FOSDEM is an annual free event for software developers to meet, share ideas and collaborate.
+It took place on February 4 and 5 at the ULB Solbosch Campus in Brussels, Belgium.
+Learn more at 
+ &lt;a href="https://fosdem.org/2023/">https://fosdem.org/2023/&lt;/a>.&lt;/p></description></item><item><title/><link>https://uapi-group.org/docs/conferences/2023-02-05_fosdem-kernel-devroom/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/conferences/2023-02-05_fosdem-kernel-devroom/</guid><description>&lt;h1 id="kernel-devroom--fosdem-23">
+ Kernel Devroom @ FOSDEM 23
+ &lt;a class="anchor" href="#kernel-devroom--fosdem-23">#&lt;/a>
+&lt;/h1>
+&lt;p>We are pleased to announce the Call for Participation (CfP) for the FOSDEM 2023 Kernel Devroom.&lt;/p>
+&lt;p>FOSDEM 2023 will be over the weekend of the 4th and 5th of February in Brussels, Belgium.
+FOSDEM is a free and non-commercial event organised by the community for the community.
+The goal is to provide free and open source software developers and communities a place to meet to:&lt;/p></description></item><item><title/><link>https://uapi-group.org/docs/conferences/2023-09-13__all-systems-go/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/conferences/2023-09-13__all-systems-go/</guid><description>&lt;h1 id="all-systems-go-2023">
+ All Systems Go! 2023
+ &lt;a class="anchor" href="#all-systems-go-2023">#&lt;/a>
+&lt;/h1>
+&lt;p>All Systems Go! is a conference focused on foundational user-space Linux technologies. Its goal is to provide a gathering place for both contributors and users of projects that make up the foundation of modern Linux systems.
+The UAPI Group was well-represented with many speakers and related talks. Learn more at 
+ &lt;a href="https://all-systems-go.io/">https://all-systems-go.io/&lt;/a>&lt;/p>
+&lt;h2 id="talks-abstracts-and-slide-decks">
+ Talks abstracts and slide decks
+ &lt;a class="anchor" href="#talks-abstracts-and-slide-decks">#&lt;/a>
+&lt;/h2>
+&lt;p>Please see each 
+ &lt;a href="https://cfp.all-systems-go.io/all-systems-go-2023/schedule/#">individual talk on the schedule&lt;/a>.&lt;/p></description></item><item><title/><link>https://uapi-group.org/docs/conferences/2024-02-04_fosdem-kernel-devroom/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/conferences/2024-02-04_fosdem-kernel-devroom/</guid><description>&lt;h1 id="kernel-devroom--fosdem-24">
+ Kernel Devroom @ FOSDEM 24
+ &lt;a class="anchor" href="#kernel-devroom--fosdem-24">#&lt;/a>
+&lt;/h1>
+&lt;p>We are pleased to announce the Call for Participation (CfP) for the FOSDEM 2024 Kernel Devroom.&lt;/p>
+&lt;p>FOSDEM 2024 will be over the weekend of the 3rd and 4th of February in Brussels, Belgium.
+FOSDEM is a free and non-commercial event organised by the community for the community.
+The goal is to provide free and open source software developers and communities a place to meet to:&lt;/p></description></item><item><title/><link>https://uapi-group.org/docs/conferences/2024-09-18__lpc-uapi-mc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/conferences/2024-09-18__lpc-uapi-mc/</guid><description>&lt;h1 id="kernel---userspaceinitsystem-management-boundaries-and-apis-microconference--lpc-24">
+ Kernel &amp;lt;-&amp;gt; Userspace/Init/System Management boundaries and APIs MicroConference @ LPC 24
+ &lt;a class="anchor" href="#kernel---userspaceinitsystem-management-boundaries-and-apis-microconference--lpc-24">#&lt;/a>
+&lt;/h1>
+&lt;p>We are pleased to announce the Call for Participation (CfP) for the 
+ &lt;a href="https://lpc.events/">LPC 2024&lt;/a>
+Kernel &amp;lt;-&amp;gt; Userspace/Init/System Management boundaries and APIs MicroConference.&lt;/p>
+&lt;p>LPC 2024 will be held in Vienna, Austria, September 18th to 20th 2024.&lt;/p>
+&lt;p>The focus of this microconference will be on topics related to the APIs and interfaces sitting at
+the boundary between the kernel and init systems/system management layers, with a special attention
+directed towards current pain points and omissions.&lt;/p></description></item><item><title/><link>https://uapi-group.org/docs/conferences/2024-09-25__all-systems-go/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/conferences/2024-09-25__all-systems-go/</guid><description>&lt;h1 id="all-systems-go-2024">
+ All Systems Go! 2024
+ &lt;a class="anchor" href="#all-systems-go-2024">#&lt;/a>
+&lt;/h1>
+&lt;p>All Systems Go! is a conference focused on foundational user-space Linux technologies.
+Its goal is to provide a gathering place for both contributors and users of projects that make up the foundation of modern Linux systems.
+The UAPI Group was well-represented with many speakers and related talks. Learn more at 
+ &lt;a href="https://all-systems-go.io/">https://all-systems-go.io/&lt;/a>.&lt;/p>
+&lt;h2 id="talk-abstracts-and-slide-decks">
+ Talk abstracts and slide decks
+ &lt;a class="anchor" href="#talk-abstracts-and-slide-decks">#&lt;/a>
+&lt;/h2>
+&lt;p>Please see each 
+ &lt;a href="https://cfp.all-systems-go.io/all-systems-go-2024/schedule/#">individual talk on the schedule&lt;/a>.&lt;/p></description></item><item><title/><link>https://uapi-group.org/docs/conferences/2025-02-01_fosdem-kernel-devroom/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/conferences/2025-02-01_fosdem-kernel-devroom/</guid><description>&lt;h1 id="kernel-devroom--fosdem-25">
+ Kernel Devroom @ FOSDEM 25
+ &lt;a class="anchor" href="#kernel-devroom--fosdem-25">#&lt;/a>
+&lt;/h1>
+&lt;p>We are pleased to announce the Call for Participation (CfP) for the FOSDEM 2025 Kernel Devroom.&lt;/p>
+&lt;p>FOSDEM 2025 will be over the weekend of the 1st and 2nd of February in Brussels, Belgium.
+FOSDEM is a free and non-commercial event organised by the community for the community.
+The goal is to provide free and open source software developers and communities a place to meet to:&lt;/p></description></item><item><title/><link>https://uapi-group.org/docs/conferences/2025-02-02__fosdem-devroom/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/conferences/2025-02-02__fosdem-devroom/</guid><description>&lt;h1 id="image-based-linux-and-boot-integrity-devroom--fosdem-25">
+ Image-Based Linux and Boot Integrity Devroom @ FOSDEM 25
+ &lt;a class="anchor" href="#image-based-linux-and-boot-integrity-devroom--fosdem-25">#&lt;/a>
+&lt;/h1>
+&lt;p>The UAPI group, a community for people with an interest in innovating how we build, deploy, run, and update modern security-focused Linux operating systems, will host a devroom at FOSDEM 2025.
+A &amp;ldquo;devroom&amp;rdquo; (a FOSDEM term) is a co-located mini-conference with its own separate track.&lt;/p>
+&lt;p>FOSDEM is an annual free event for software developers to meet, share ideas and collaborate.
+It takes place on February 1 and 2 at the ULB Solbosch Campus in Brussels, Belgium.
+Learn more at 
+ &lt;a href="https://fosdem.org/2025/">https://fosdem.org/2025/&lt;/a>.&lt;/p></description></item><item><title/><link>https://uapi-group.org/docs/conferences/2025-09-30__all-systems-go/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/conferences/2025-09-30__all-systems-go/</guid><description>&lt;h1 id="all-systems-go-2025">
+ All Systems Go! 2025
+ &lt;a class="anchor" href="#all-systems-go-2025">#&lt;/a>
+&lt;/h1>
+&lt;p>All Systems Go! is a conference focused on foundational user-space Linux technologies.
+Its goal is to provide a gathering place for both contributors and users of projects that make up the foundation of modern Linux systems.
+The UAPI Group was well-represented with many speakers and related talks. Learn more at 
+ &lt;a href="https://all-systems-go.io/">https://all-systems-go.io/&lt;/a>.&lt;/p>
+&lt;h2 id="talk-abstracts-and-slide-decks">
+ Talk abstracts and slide decks
+ &lt;a class="anchor" href="#talk-abstracts-and-slide-decks">#&lt;/a>
+&lt;/h2>
+&lt;p>Please see each 
+ &lt;a href="https://cfp.all-systems-go.io/all-systems-go-2025/schedule/#">individual talk on the schedule&lt;/a>.&lt;/p></description></item><item><title/><link>https://uapi-group.org/docs/conferences/2026-01-31_fosdem-kernel-devroom/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/conferences/2026-01-31_fosdem-kernel-devroom/</guid><description>&lt;h1 id="kernel-devroom--fosdem-26">
+ Kernel Devroom @ FOSDEM 26
+ &lt;a class="anchor" href="#kernel-devroom--fosdem-26">#&lt;/a>
+&lt;/h1>
+&lt;p>We are pleased to announce the Call for Participation (CfP) for the FOSDEM 2026 Kernel Devroom.&lt;/p>
+&lt;p>FOSDEM 2026 will be over the weekend of the 31st of January and 1st of February in Brussels, Belgium.
+FOSDEM is a free and non-commercial event organised by the community for the community.
+The goal is to provide free and open source software developers and communities a place to meet to:&lt;/p></description></item><item><title/><link>https://uapi-group.org/docs/minutes/2022-10-05__image-based-linux-summit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/minutes/2022-10-05__image-based-linux-summit/</guid><description>&lt;h1 id="image-based-linux-summit-5th---6th-october-2022-berlin">
+ Image-based Linux summit, 5th - 6th October 2022, Berlin
+ &lt;a class="anchor" href="#image-based-linux-summit-5th---6th-october-2022-berlin">#&lt;/a>
+&lt;/h1>
+&lt;p>The first image-based Linux summit took place on the 5th and the 6th of October, 2022. It was conducted as a loosely structured BoF-style event.
+The following parties were present at the summit (in no particular order):&lt;/p>
+&lt;ul>
+&lt;li>Distros / Entities: Ubuntu Core, Debian, GNOME OS, Fedora CoreOS, Endless OS, Arch Linux, SUSE, Flatcar, Microsoft, Amazon, Meta&lt;/li>
+&lt;li>Projects: systemd, image-builder/osbuild, mkosi, tpm2-software, System Transparency, buildstream, BTRFS, rpm-ostree&lt;/li>
+&lt;/ul>
+&lt;h2 id="actionables-and-tasks">
+ Actionables and tasks
+ &lt;a class="anchor" href="#actionables-and-tasks">#&lt;/a>
+&lt;/h2>
+&lt;p>Action items listed here can be found as &lt;strong>TODO #[x]&lt;/strong> in the full meeting minutes below, with [x] being the action item number.&lt;/p></description></item><item><title/><link>https://uapi-group.org/docs/minutes/2023-09-12__image-based-linux-summit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/minutes/2023-09-12__image-based-linux-summit/</guid><description>&lt;h1 id="image-based-linux-summit-berlin-12th-september-2023">
+ ﻿Image-Based Linux Summit Berlin 12th September 2023
+ &lt;a class="anchor" href="#image-based-linux-summit-berlin-12th-september-2023">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="attendees-projects">
+ Attendee&amp;rsquo;s projects
+ &lt;a class="anchor" href="#attendees-projects">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Systemd&lt;/li>
+&lt;li>Meta: mkosi, systemd, remote attestation&lt;/li>
+&lt;li>SUSE: Aeon/MicroOS/Tumbleweed&lt;/li>
+&lt;li>Redhat: image-builder/osbuild, systemd, systemd-boot&lt;/li>
+&lt;li>Microsoft: confidential containers, flatcar, Azure Boost, Mariner&lt;/li>
+&lt;li>Edgeless Systems: Constellation, confidential containers&lt;/li>
+&lt;li>NixOS: systemd-{repart,stub,boot,cryptenroll}, Tvix Store, Lanzaboote, UKIs, NixOS Bootspec,, PE binary manipulation in Rust&lt;/li>
+&lt;li>Canonical: Ubuntu Core, snaps, foundations/bootloader/package management&lt;/li>
+&lt;li>System Transparency: UKI, UAPI specs, systemd-cryptenroll, remote attestation, TPM eventlog, mkosi&lt;/li>
+&lt;li>Amazon Linux&lt;/li>
+&lt;li>Freedesktop-sdk&lt;/li>
+&lt;li>GNOME OS&lt;/li>
+&lt;li>carbonOS&lt;/li>
+&lt;/ul>
+&lt;h2 id="summary-of-last-years-progress">
+ Summary of Last Year’s Progress
+ &lt;a class="anchor" href="#summary-of-last-years-progress">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>UAPI Group established&lt;/li>
+&lt;li>Website! 
+ &lt;a href="https://uapi-group.org">https://uapi-group.org&lt;/a>&lt;/li>
+&lt;li>Github org 
+ &lt;a href="https://github.com/uapi-group">https://github.com/uapi-group&lt;/a>&lt;/li>
+&lt;li>Report on previous summit: 
+ &lt;a href="https://lwn.net/Articles/912774/">https://lwn.net/Articles/912774/&lt;/a>&lt;/li>
+&lt;li>Systemd:
+&lt;ul>
+&lt;li>systemd-boot/stub: addons support (only cmdline, dtb incoming)&lt;/li>
+&lt;li>Systemd-stub: confidential VM support&lt;/li>
+&lt;li>UKI: new sections in the spec for metadata (uname/sbat)&lt;/li>
+&lt;li>Ukify: build UKIs, embed measurements and signatures
+&lt;ul>
+&lt;li>Calls systemd-measure, sbsigntool&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Mkosi now supports UKI directly, building of initrds
+&lt;ul>
+&lt;li>Uses systemd-repart, unprivileged, can use from containers, UKIs support with PCR measurements bells and whistles, embed OS inside UKI (small img), massive refactoring, broke everything and fixed again (?), presets (multi-image layers in same build, as dependencies for sequential stages of build), initrd built directly without dracut, almost reproducible (WIP), improvements around secure boot signing, supports grubs (unprivileged, shim works if it is installed to /boot), credentials support in cfg file&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Systemd-measure: PCR11 measurements and signing for UKI&lt;/li>
+&lt;li>Pcrphases: advances the PCR during boot (initrd -&amp;gt; rootfs transition)&lt;/li>
+&lt;li>Kernel-install is C and has plugins for UKIs&lt;/li>
+&lt;li>Systemd-repart: running unprivileged, minimization of filesystem, support dm-verity, reproducibility (repart itself, but mkfs.* might not), direct writing of file system contents, subvolumes for btrfs (needs privileges)&lt;/li>
+&lt;li>Bootctl: garbage collection of /boot (bootctl unlink), delete kernels that are not referenced, bootctl cleanup for other files as well, bootctl identify/inspect&lt;/li>
+&lt;li>Early-boot detection of battery critical levels&lt;/li>
+&lt;li>Smbios support: pass kernel cmdline, credentials&lt;/li>
+&lt;li>AF_VSOCK support in systemd: sd-notify support to pass back state changes to hypervisor (ready, failed, finished)&lt;/li>
+&lt;li>Credentials: almost everything that takes config files takes credentials (no udev, no units)
+&lt;ul>
+&lt;li>Can now process credentials from systemd generators&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>RPM gained native support for sysusers&lt;/li>
+&lt;li>Softreboot
+&lt;ul>
+&lt;li>Skip kernel restart, jump to new rootfs&lt;/li>
+&lt;li>Pass state across via FD Store, retains /run&lt;/li>
+&lt;li>Can configure some services to survive&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>TPM: offline sealing
+&lt;ul>
+&lt;li>Get TPM public key, provision secrets from different machine&lt;/li>
+&lt;li>Confidential computing support: setup SRK before VM instantiation, using to seal secrets&lt;/li>
+&lt;li>Fully encrypted sessions, pin SRK, create SRK if not present already&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Confext: equivalent of sysext (system extension) but /etc&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Grub: patch sent for UKI support, under review
+&lt;ul>
+&lt;li>AI Luca: enquire about state&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>NixOS:
+&lt;ul>
+&lt;li>Working on Rust version of systemd-stub&lt;/li>
+&lt;li>Uses repart for DDI&lt;/li>
+&lt;li>Bootspec: high level config to support multiple bootloaders&lt;/li>
+&lt;li>Rust implementation of ukify: goal to do everything in-process without shelling out&lt;/li>
+&lt;li>Systemd-sysupdate + repart integration&lt;/li>
+&lt;li>tvix-store for serving content addressable parts of (system) images: some sort of blob protocol relying on Merkle trees / BLAKE3 constructions&lt;/li>
+&lt;li>We have a systemd-based initrd implementation finally with networkd&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Flatcar
+&lt;ul>
+&lt;li>Uses systemd-sysext for A/B updated OEM software (cloud vendor / virtualisation guest tools)&lt;/li>
+&lt;li>sysext-bakery gives simple scripts for users to build custom sysext images, prebuilt images published as github artifacts with systemd-sysupdate config (signing WIP), sysupdate can consume them&lt;/li>
+&lt;li>flatcar-reset tool: stage reset on next reboot, with optional regex to keep files around&lt;/li>
+&lt;li>/etc is now overlay mount, lowerdir is on read-only /usr/share/flatcar/etc, /etc remains writable (/etc is upperdir, unmounting overlayfs still results in a working system, needed to suppress a few tmpfile rules to prevent upcopies)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>OSBuild
+&lt;ul>
+&lt;li>Support for UKI (native implementation)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Ubuntu: TPM support by default on generic distro
+&lt;ul>
+&lt;li>Snapased: kernel updates, measurement updates&lt;/li>
+&lt;li>Uses systemd-stub&lt;/li>
+&lt;li>Systemd-based initrd in Ubuntu-core&lt;/li>
+&lt;li>Ubuntu-core initrd+kernel snap used for tpm-by-default desktop&lt;/li>
+&lt;li>Native upstream cryptsetup&lt;/li>
+&lt;li>Precalculate PCR measurements&lt;/li>
+&lt;li>White paper internal, not published yet&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>GNOME OS:
+&lt;ul>
+&lt;li>Sysupdate support, already used sd-boot&lt;/li>
+&lt;li>Repart on firstboot&lt;/li>
+&lt;li>UKI support, with dracut&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>SteamOS supports sysext too now&lt;/li>
+&lt;li>SUSE
+&lt;ul>
+&lt;li>Shim trusts signed systemd-boot in openSUSE&lt;/li>
+&lt;li>YaST support to install with systemd-boot in MicroOS (tooling works on Tumbleweed too)&lt;/li>
+&lt;li>PCR Oracle tool for PCR predictions&lt;/li>
+&lt;li>Aeon (formerly micro-os desktop), sd-boot, image-base-install, full FDE by default no option&lt;/li>
+&lt;li>Tumbleed installs everything into /usr (no longer /boot) work in progress on /etc too&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Anaconda installer
+&lt;ul>
+&lt;li>Supports sd-boot&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="topics">
+ Topics
+ &lt;a class="anchor" href="#topics">#&lt;/a>
+&lt;/h2>
+&lt;h3 id="not-covered">
+ Not covered
+ &lt;a class="anchor" href="#not-covered">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>Integrity of OS images, via Verity and so on.&lt;/li>
+&lt;li>Updating OSes safely and robustly in A/B fashion&lt;/li>
+&lt;li>Booting OSes in A/B fashion&lt;/li>
+&lt;li>Provisioning image-based OSes with credentials, parameters and similar&lt;/li>
+&lt;li>Signed kernels, root fs + SecureBoot&lt;/li>
+&lt;li>Hermetic /usr/ + Hermetic /etc/&lt;/li>
+&lt;li>TPM provisioning, enrolling, measurement, remote attestation&lt;/li>
+&lt;li>Composing/Modularity of OSes based on multiple images&lt;/li>
+&lt;li>Build systems for OS images&lt;/li>
+&lt;li>Version management, rollback control&lt;/li>
+&lt;li>Vendor/User Resource isolation&lt;/li>
+&lt;li>Reproducibility of the build process&lt;/li>
+&lt;li>Bootstrapability of build process (
+ &lt;a href="https://bootstrappable.org/">https://bootstrappable.org/&lt;/a>)&lt;/li>
+&lt;li>Secure configuration management (signed configuration updates)&lt;/li>
+&lt;li>OS Image formats&lt;/li>
+&lt;li>Unified kernels + pre-built initrd&lt;/li>
+&lt;li>Disk encryption in images&lt;/li>
+&lt;li>Novel Linux file system technology for immutable OS images (blobfs, …)&lt;/li>
+&lt;li>OS Factory Reset&lt;/li>
+&lt;li>Systemd-pcrlock&lt;/li>
+&lt;li>TPM event log&lt;/li>
+&lt;li>Securely pass cmdline to UEFI via UKI (we deprecated SystemdOptions UEFI var recently)&lt;/li>
+&lt;li>Shim&lt;/li>
+&lt;li>How to split up root vs home partition space
+&lt;ul>
+&lt;li>Use OPAL&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="covered">
+ Covered
+ &lt;a class="anchor" href="#covered">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>Sysext / confext and mutable /etc, /usr, and /opt (
+ &lt;a href="https://github.com/flatcar/Flatcar/issues/986#issuecomment-1571429705">https://github.com/flatcar/Flatcar/issues/986#issuecomment-1571429705&lt;/a> , 
+ &lt;a href="https://github.com/systemd/systemd/issues/24864#issuecomment-1576792335">https://github.com/systemd/systemd/issues/24864#issuecomment-1576792335&lt;/a> )
+&lt;ul>
+&lt;li>Currently sysext/confext overlay is R/O&lt;/li>
+&lt;li>Can we add a writable layer/mode (not default)&lt;/li>
+&lt;li>R/W can be ephemeral or persistent&lt;/li>
+&lt;li>OS layer at the top? Right now at the bottom of the stack&lt;/li>
+&lt;li>Fix it by symlinks! Always the answer&lt;/li>
+&lt;li>AI: add ordering guarantee to sysext spec&lt;/li>
+&lt;li>AI: rewrite config spec on uapi-group to remove XDG duplication&lt;/li>
+&lt;li>Ideally: overlayfs mode that allows creating new files, but not modify existing files from other layers&lt;/li>
+&lt;li>AI: Propose an extension to sysext and confext specs on uapi-group for mutable and ephemeral modes.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Hermetic /etc
+&lt;ul>
+&lt;li>SUSE adds support for libeconf in upstream projects&lt;/li>
+&lt;li>apache2/nginx still need files in /etc to work, part of openssh, complex configurations files (xml or so)&lt;/li>
+&lt;li>Fedora also has patches&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>/efi vs /boot vs /boot/efi vs /run/efi
+&lt;ul>
+&lt;li>filesystem on SUSE is rpm that creates base directories
+&lt;ul>
+&lt;li>Base-files on Debian/Ubuntu&lt;/li>
+&lt;li>Top-level directories are problematic as mountpoint for this&lt;/li>
+&lt;li>/run ? runtime object, but solves rpm problem, also there are assumptions in systemd about resources /run
+&lt;ul>
+&lt;li>Offline mounting also problematic, tools assume /run is not there before system is booted, ordering problem&lt;/li>
+&lt;li>/run mounted by container manager/init&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Ideally, use automount
+&lt;ul>
+&lt;li>Why do we even mount it? Because: bootctl/fwupd/kernel-install/logind(r/o)&lt;/li>
+&lt;li>Ideally only one tool touches bootloader after all updates are applied to disk&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Xbootldr partition vs esp, if both available then xbootldr needs go to /boot
+&lt;ul>
+&lt;li>The most important thing is where to put kernels&lt;/li>
+&lt;li>So if xbootldr partition, then mount it on /boot&lt;/li>
+&lt;li>If no xbootldr then ESP to /boot&lt;/li>
+&lt;li>So kernels are always installed to /boot&lt;/li>
+&lt;li>Places to put bootloader is not stable&lt;/li>
+&lt;li>Bind mount or symlink, but implementers of bls need to understand this&lt;/li>
+&lt;li>Spec for BLS: 
+ &lt;a href="https://uapi-group.org/specifications/specs/boot_loader_specification/#mount-points">https://uapi-group.org/specifications/specs/boot_loader_specification/#mount-points&lt;/a>
+&lt;ul>
+&lt;li>Conflicts with Discoverable Partitions Spec: 
+ &lt;a href="https://uapi-group.org/specifications/specs/discoverable_partitions_specification/">https://uapi-group.org/specifications/specs/discoverable_partitions_specification/&lt;/a> (explanation for ESP GUID table)&lt;/li>
+&lt;li>DPS says default is /boot, BLS says /efi&lt;/li>
+&lt;li>Tools do it the DPS way&lt;/li>
+&lt;li>Fix BLS? /boot as default&lt;/li>
+&lt;li>
+ &lt;a href="https://github.com/uapi-group/specifications/issues/35">https://github.com/uapi-group/specifications/issues/35&lt;/a>&lt;/li>
+&lt;li>AI: send PR and merge&lt;/li>
+&lt;li>Tools shouldn’t mount twice&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>/run/efi can be mount/bind mount/symlink to ESP?&lt;/li>
+&lt;li>APIs
+&lt;ul>
+&lt;li>bootctl -p or -x as API to find location of ESP&lt;/li>
+&lt;li>Bootupd as API for grub support for BLS in Fedora&lt;/li>
+&lt;li>Do we need new API?&lt;/li>
+&lt;li>/dev/-by symlinks? Install kernels ‘here’, bootloader ‘here’&lt;/li>
+&lt;li>Still need to dedup in readers&lt;/li>
+&lt;li>bootctl/kernel-install as multicall that can be called or provide service with varlink, works inherently with –image/–root&lt;/li>
+&lt;li>Bootctl-varlink.socket&lt;/li>
+&lt;li>AI Luca: open RFE on github.com/systemd/systemd&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Sd-boot recognizes what an EFI binary is via .sdmagic&lt;/li>
+&lt;li>Dual boot causes a lot of problems
+&lt;ul>
+&lt;li>Makes our lives complicated, do we really need it?&lt;/li>
+&lt;li>Developers need it for hw-related development&lt;/li>
+&lt;li>Not supposed to measure efi entries that are tried, only the one actually booted&lt;/li>
+&lt;li>Windows: set BootNext and reboot&lt;/li>
+&lt;li>Sd-boot supports it but only in ‘bitlocker mode’, should be made generic when switching OS&lt;/li>
+&lt;li>UEFI has boot counter in the spec, so writing to variables should be fine&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Talk about AWS/Azure/GCP IMDS (early-boot link-local networking metadata server) and credentials / generators / network config
+&lt;ul>
+&lt;li>Some previous discussion between Arian/Lennart: 
+ &lt;a href="https://gist.github.com/arianvp/22e1c5182eb6c17bbd8c1bbe823b516b">https://gist.github.com/arianvp/22e1c5182eb6c17bbd8c1bbe823b516b&lt;/a>&lt;/li>
+&lt;li>Networkd cloud-provider-based configuration: 
+ &lt;a href="https://github.com/systemd/systemd/issues/16547">https://github.com/systemd/systemd/issues/16547&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>VBE: 
+ &lt;a href="https://u-boot.readthedocs.io/en/latest/develop/vbe.html">https://u-boot.readthedocs.io/en/latest/develop/vbe.html&lt;/a> — alternative to UEFI for embedded systems, maybe more?
+&lt;ul>
+&lt;li>NixOS looking into this, for coreboot support&lt;/li>
+&lt;li>Specs covers boot flows, OS requests&lt;/li>
+&lt;li>Interoperates with UEFI&lt;/li>
+&lt;li>Other firmwares: tianocore/edk2, slimbootloader, LinuxBoot, u-boot, coreboot, SeaBIOS&lt;/li>
+&lt;li>Emulate uefi on bios
+&lt;ul>
+&lt;li>Nix has some shims to support UEFI variables&lt;/li>
+&lt;li>Uboot can be build as bios payload, with UEFI upper layer, store variables in TPE or text files on boot partition or just leave everything volatile&lt;/li>
+&lt;li>Google has KVM solution&lt;/li>
+&lt;li>Clover EFI bootloader for BIOS, see configuration&lt;/li>
+&lt;li>Question: is there a UEFI protocol to detect that persistent vars are actually ephemeral?&lt;/li>
+&lt;li>Fedora: proposal to drop bios support, but protests, 30% of machines bios-only, still hybrid&lt;/li>
+&lt;li>Amazon Linux 2023 has dual bios/uefi hybrid support&lt;/li>
+&lt;li>Hybrid images: tricky to support everything because of 512/2048/4096 partition headers. mkosi tried but gave in on El Torito support.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Provisioning systems for VMs
+&lt;ul>
+&lt;li>SMBIOS support in sd-boot/stub&lt;/li>
+&lt;li>Alternative: ACPI device that can send notifications
+&lt;ul>
+&lt;li>SMBIOS technically is static, although one field can change at least: suspend/resume field (int) for reason of change&lt;/li>
+&lt;li>Also data might not be ready when guest is booted&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>SMBIOS is already supported widely&lt;/li>
+&lt;li>ACPI needs a driver&lt;/li>
+&lt;li>Requirement: userspace needs to ask for data and wait synchronously, don’t want to boot and then data appears later&lt;/li>
+&lt;li>SMBIOS guarantees that data is already there&lt;/li>
+&lt;li>ACPI can generate data on the fly when requested&lt;/li>
+&lt;li>Systemd provides point at boot where we require data, hypervisor needs to provide it&lt;/li>
+&lt;li>Dracut has pre-existing infrastructure on this topic&lt;/li>
+&lt;li>Sd-stub already supports picking up resources from ESP, also reads smbios&lt;/li>
+&lt;li>New transaction in initrd, units that generate other units
+&lt;ul>
+&lt;li>Also needed to know if /root is tmpfs in installer image&lt;/li>
+&lt;li>New targets where to hook the metadata&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Network namespace + VRF for cloud-init and similar to get provisioning info&lt;/li>
+&lt;li>Amazon: provision user’s UEFI variable database&lt;/li>
+&lt;li>Addon: PE non-code binary that can be verified by shim/uefi, append kernel command lines&lt;/li>
+&lt;li>Credentials can be provisioned from /run in initrd to rootfs transition
+&lt;ul>
+&lt;li>At the new mid-initrd target, provisioning tools prepare creds in /run&lt;/li>
+&lt;li>Then systemd reloads and does second transition&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Credentials
+&lt;ul>
+&lt;li>Provision SSL cert via creds&lt;/li>
+&lt;li>Need to update it&lt;/li>
+&lt;li>How to do it at runtime?&lt;/li>
+&lt;li>If done live, atomicity is lost&lt;/li>
+&lt;li>Restart service? Use FD store to keep sockets and resources order&lt;/li>
+&lt;li>We will need conftext live reload&lt;/li>
+&lt;li>Mount “beneath” to replace mount point atomically&lt;/li>
+&lt;li>Can do the same for creds?&lt;/li>
+&lt;li>We have the semantics for systemctl ‘reload-or-restart’ already&lt;/li>
+&lt;li>We do not have good docs on fdstore&lt;/li>
+&lt;li>Do we want an API for “Hey what services depend on what credentials so I can restart them”&lt;/li>
+&lt;li>Future improvement: systemd-creds can encrypt to asymmetric TPM SRK so that creds can only read&lt;/li>
+&lt;li>Let&amp;rsquo;s document $CREDENTIALS_DIRECTORY as static for system services.by confidential VM&lt;/li>
+&lt;li>API to create/enumerate credentials is missing
+&lt;ul>
+&lt;li>Sd-creds as multi-call binary with varlink service&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Problem: reading creds requires looking at env var, but software doesn’t like the interpolation&lt;/li>
+&lt;li>AI Arianvp: change doc to document that creds path for system service is fixed with precise caveats and warnings to avoid being it misused&lt;/li>
+&lt;li>sd-ask-pwd: no solution for user services
+&lt;ul>
+&lt;li>More complex issue, needs integration with desktop managers
+&lt;ul>
+&lt;li>Tracking issue: 
+ &lt;a href="https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/6921">https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/6921&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Kernel keyring has advanced lately, very complex&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>TPM stuff
+&lt;ul>
+&lt;li>Currently involves PCR11 (kernel/uki) and PCR15 (system identity)&lt;/li>
+&lt;li>How to cover PCR 0-7 which are owned by firmware?&lt;/li>
+&lt;li>Answer: systemd-pcrlock&lt;/li>
+&lt;li>Instead of changing the superblock on fw update, change the policy in the TPM&lt;/li>
+&lt;li>Attach objects to the TPM policy, when changes are expected change policy objects&lt;/li>
+&lt;li>Disk encryption binds to policies, not measurements&lt;/li>
+&lt;li>.pcrlock files define component involved in boot, even after fw -&amp;gt; kernel transition, json format following TCG measurement log format (but not 100% the same)&lt;/li>
+&lt;li>Allows drop-ins and alternatives for components (eg: run multiple kernels)&lt;/li>
+&lt;li>Generates lock files from what system measured at some point via tpm log&lt;/li>
+&lt;li>If fwupd shipped the pcrlock file with an update then we wouldn’t need to measure on-the-fly, current LVFS stores result of pcr0, instead store measurement&lt;/li>
+&lt;li>Only vendor can know what firmware will measure, so vendor has to provide it&lt;/li>
+&lt;li>Pcrlock tool orders drop-ins by filenames&lt;/li>
+&lt;li>If fwupd doesn’t know what measurements are going to be, it can remove the pcrlock drop-ins that corresponds to the component&lt;/li>
+&lt;li>Pcrlock will recognize that there are holes, and remove that pcr/measurement from the policy&lt;/li>
+&lt;li>If info is there, secrets are always protected&lt;/li>
+&lt;li>If info is not there, secrets are not protected by those pcrs for one boot&lt;/li>
+&lt;li>Improvements: reboot twice to apply changed quickly and minimize window&lt;/li>
+&lt;li>Windows also reboots twice on unexpected fw update, but changes block device and re-enrolls in Bitlocker&lt;/li>
+&lt;li>Can lock against firmware, can deal with firmware updates, if vendors collaborates no ‘open’ policy window&lt;/li>
+&lt;li>Local/hw specific vs OS vendor (uki)&lt;/li>
+&lt;li>Also solves rollback protection&lt;/li>
+&lt;li>Recalculate automatically on reboot so that it always uses the most secure policy possible&lt;/li>
+&lt;li>Can generate from gpt, uki, pe, current event log&lt;/li>
+&lt;li>Trust-on-first-use model&lt;/li>
+&lt;li>Transparent log database with pcr values of known hardware - if anything changes in the uefi (option) they change - from TCG&lt;/li>
+&lt;li>How to recover from failure - recovery key? How to restore a usable policy? Reset TPM?
+&lt;ul>
+&lt;li>Can the same recovery key for LUKS2 be used?&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Ubuntu Core also implements a similar infrastructure
+&lt;ul>
+&lt;li>Changes the LUKS superblock on updates&lt;/li>
+&lt;li>Can be analyzed offline&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Systemd has event log, that works like TCG firmware event log, for measurements done at runtime, v255
+&lt;ul>
+&lt;li>Json-seq, not array but separator-separated blocks so that it can be append-only&lt;/li>
+&lt;li>Stored in systemd-specific dir so that it’s private&lt;/li>
+&lt;li>Would be good to allow other usespace app can append&lt;/li>
+&lt;li>But need atomic behaviour (file lock, append-only)&lt;/li>
+&lt;li>Public API dbus/varlink&lt;/li>
+&lt;li>AI Lennart: libsystemd sd_measure(⋅) which takes data and hash it for the consumer&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Kexec(/crashkernel): measure nonce so that it cannot be predicted and change policy, so that it works only on that kexec&lt;/li>
+&lt;li>Ubuntu Core stores encrypted object that allows to reset the TPM on factory reset
+&lt;ul>
+&lt;li>Systemd should have a hook for this&lt;/li>
+&lt;li>Ubuntu core code: 
+ &lt;a href="https://github.com/snapcore/secboot">https://github.com/snapcore/secboot&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Non-disk-encryption usage of TPM
+&lt;ul>
+&lt;li>VMs in GCP use TPM for remote attestation on container-optimized linux (fork of chromeos), not on generic linux distro, precalculate expected PCRs&lt;/li>
+&lt;li>System Transparency (
+ &lt;a href="https://www.system-transparency.org/">https://www.system-transparency.org/&lt;/a> ): remote attestation oss project. Code 
+ &lt;a href="https://git.glasklar.is/system-transparency/core">https://git.glasklar.is/system-transparency/core&lt;/a>&lt;/li>
+&lt;li>Attested TLS: developed for SGX - standardization happening, RATS, remote attestation for TLS&lt;/li>
+&lt;li>Bind confidential computing to remote attestation&lt;/li>
+&lt;li>Keylime uses TPM for remote attestation, integrated in MicroOS&lt;/li>
+&lt;li>Talos does &lt;something>&lt;/li>
+&lt;li>Build reproducibility helps for build systems attestation, but it is expensive, so many prefer attestation/authentication as an alternative&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Confidential computing
+&lt;ul>
+&lt;li>Amd sev vs intel tdx, amd uses tpm&lt;/li>
+&lt;li>Full vm confidential comp vs kata containers, but still needs measured boot&lt;/li>
+&lt;li>In Azure firmware does measurements in vTPM&lt;/li>
+&lt;li>Thread models driven by soc - intel/amd - no common specification&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Unified kernels + pre-built initrd
+&lt;ul>
+&lt;li>Pass initrd via PE binary, lose ordering guarantees because filenames are not trusted&lt;/li>
+&lt;li>Dtb addon patch adds matching based on content of dtb&lt;/li>
+&lt;li>.mucode for microcode section in UKI, and magically make it first in the generated cpio&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Systemd-sysusers and user users
+&lt;ul>
+&lt;li>A switch will be added to copy /etc/skel&lt;/li>
+&lt;li>Can also drop json blob for userdbd to pick up in /run/ for transient user user, never show up in /etc/passwd → also great for hermetic /usr with json blobs in /usr/lib/userdb/&lt;/li>
+&lt;li>pam_mkhomedir can also create the directory on first login&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Homed in openSUSE Aeon: many papercuts, mainly storage burden
+&lt;ul>
+&lt;li>Need to know a lot of stuff for provisioning ahead of time (like number of users)&lt;/li>
+&lt;li>Encrypted btrfs subvolume as a solution, don’t need to know size ahead of time&lt;/li>
+&lt;li>Lots of work going on in Gnome, lock session and remove disk keys from memory&lt;/li>
+&lt;li>Interactive resizing negotiating between users if disk needs to change (owner user will be authenticated and asked to agree)&lt;/li>
+&lt;li>SELinux policy for homed needs a little work&lt;/li>
+&lt;li>Fedora actively fixes systemd selinux issues if they are reported with logs&lt;/li>
+&lt;li>Some users in Nix also use homed, but with fixed user, also on Fedora there are some users but unofficial&lt;/li>
+&lt;li>Ongoing work in Gnome is to make it trivial to enable homed in distros&lt;/li>
+&lt;li>How to split space between /home and rootfs
+&lt;ul>
+&lt;li>New partition type in repart using dm-linear to add an extension for another partition on-the-fly&lt;/li>
+&lt;li>Android uses it, no measurable performance penalties for having many dm-linear extensions&lt;/li>
+&lt;li>/ as opal encrypted (cryptsetup will support in next version with LUKS2 for keys), then homed LUKS2+dm-crypt loopback&lt;/li>
+&lt;li>q devices&lt;/li>
+&lt;li>Homed could use creds for initial setup
+&lt;ul>
+&lt;li>Sysusers runs much earlier, homed need a lot of stuff set up, runs very late&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Why not just use ZFS?&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="action-items">
+ Action Items
+ &lt;a class="anchor" href="#action-items">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>allow opt-in creation of “normal” users via sysusers
+(Possibly use pam module to create the directory on first login?)&lt;/li>
+&lt;li>bootctl -X (name TBD) to print all paths containing boot loader entries[a][b]&lt;/li>
+&lt;li>bootctl status &amp;ndash;json&lt;/li>
+&lt;li>Link sd-boot BootNext generalization github ticket 
+ &lt;a href="https://github.com/systemd/systemd/issues/22390">https://github.com/systemd/systemd/issues/22390&lt;/a>&lt;/li>
+&lt;li>Arian sends documentation PR about credential path for system services&lt;/li>
+&lt;li>AI: fix incompatibility w.r.t. Mount points between BLS and DPS&lt;/li>
+&lt;li>AI: ask shim to cap sd-stub’s PCRs (os vendor name or so)&lt;/li>
+&lt;li>AI: start issue or so to track hermetic-usr work-in-progress&lt;/li>
+&lt;li>AI: create spec for drop-in style config management&lt;/li>
+&lt;li>AI: add ordering guarantee to sysext spec&lt;/li>
+&lt;li>AI: Propose an extension to sysext and confext specs on uapi-group for mutable and ephemeral modes.&lt;/li>
+&lt;/ul></description></item><item><title/><link>https://uapi-group.org/docs/minutes/2024-09-24__image-based-linux-summit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/minutes/2024-09-24__image-based-linux-summit/</guid><description>&lt;h1 id="image-based-linux-summit-berlin-24th-september-2024">
+ ﻿Image-Based Linux Summit Berlin 24th September 2024
+ &lt;a class="anchor" href="#image-based-linux-summit-berlin-24th-september-2024">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="attendees-projects">
+ Attendee&amp;rsquo;s projects
+ &lt;a class="anchor" href="#attendees-projects">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>systemd&lt;/li>
+&lt;li>mkosi&lt;/li>
+&lt;li>SUSE: MicroOS/Tumbleweed&lt;/li>
+&lt;li>Red Hat: 
+ &lt;a href="https://osbuild.org">image-builder/osbuild&lt;/a>, 
+ &lt;a href="https://github.com/containers/bootc">bootc&lt;/a>, systemd, systemd-boot&lt;/li>
+&lt;li>Microsoft: confidential containers, Flatcar, Azure Boost, Mariner/Azure Linux&lt;/li>
+&lt;li>Edgeless Systems: Constellation, 
+ &lt;a href="https://github.com/edgelesssys/contrast">Contrast&lt;/a> (confidential containers), 
+ &lt;a href="https://github.com/edgelesssys/uplosi">uplosi&lt;/a>&lt;/li>
+&lt;li>NixOS: systemd-{repart,stub,boot,cryptenroll}, tvix-store, 
+ &lt;a href="https://github.com/nix-community/lanzaboote">Lanzaboote&lt;/a>, UKIs, 
+ &lt;a href="https://github.com/NixOS/rfcs/blob/master/rfcs/0125-bootspec.md">NixOS Bootspec&lt;/a>, PE binary manipulation in Rust&lt;/li>
+&lt;li>Canonical: Ubuntu Core, snaps, foundations/bootloader/package management&lt;/li>
+&lt;li>System Transparency: UKI, UAPI specs, systemd-cryptenroll, remote attestation, TPM eventlog, mkosi&lt;/li>
+&lt;li>Freedesktop-sdk&lt;/li>
+&lt;li>GNOME OS&lt;/li>
+&lt;li>Pengutronix: OE/Yocto, nspawn, RAUC, verity, OPTEE&lt;/li>
+&lt;li>Arch Linux: sbctl/go-uefi, signstar, mkinitcpio, arch-install-scripts&lt;/li>
+&lt;li>
+ &lt;a href="https://postmarketos.org/">PostmarketOS&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="summary-of-last-years-progress">
+ Summary of Last Year’s Progress
+ &lt;a class="anchor" href="#summary-of-last-years-progress">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Flatcar:
+&lt;ul>
+&lt;li>Sysexts widely adopted: In-system (shipped with OS), optional but system dependent (updated in lock-step with OS, like podman/ZFS), Custom / user provided (updated from custom servers via sysupdate)&lt;/li>
+&lt;li>Composable OS is more flexible, some traction with contributors, even vendors (Akamai)&lt;/li>
+&lt;li>Mutable sysexts feature available in systemd-256 and newer. Slowly trickling into distros.&lt;/li>
+&lt;li>OS test suite keeps finding bugs in LTS kernel patch-level updates 😅&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>NixOS:
+&lt;ul>
+&lt;li>Systemd-repart integration to build NixOS images
+&lt;ul>
+&lt;li>Recent dm-verity support for &lt;code>/nix/store&lt;/code> (incl. offline Secure Boot signing support)&lt;/li>
+&lt;li>UKI available by default&lt;/li>
+&lt;li>
+ &lt;a href="https://github.com/nikstur/userborn">https://github.com/nikstur/userborn&lt;/a> like sysusers but can create “normal” users and “remove” users&lt;/li>
+&lt;li>
+ &lt;a href="https://github.com/nikstur/nix-store-veritysetup-generator">https://github.com/nikstur/nix-store-veritysetup-generator&lt;/a> for &lt;code>storehash&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Edgeless:
+&lt;ul>
+&lt;li>Not much progress on 
+ &lt;a href="https://github.com/uapi-group/specifications/issues/70">package manager lockfile proposal&lt;/a>&lt;/li>
+&lt;li>Talk about reproducible OS image builds with mkosi @ fosdem (
+ &lt;a href="https://github.com/edgelesssys/reproducible-mkosi">repo&lt;/a>)&lt;/li>
+&lt;li>uplosi tool for uploading OS images to cloud provider, can pre-calc PCRs for measured boot (started pre-systemd-measure)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>openSUSE MicroOS
+&lt;ul>
+&lt;li>systemd soft-reboot with transactional-update (switching btrfs root subvolume)&lt;/li>
+&lt;li>Full disk encryption with systemd-pcrlock / signed policies (TPM and FIDO2)&lt;/li>
+&lt;li>Working on BLS support on all architectures&lt;/li>
+&lt;li>Systemd-boot integration in YaST2 Installer and all relevant tooling&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>GNOME OS
+&lt;ul>
+&lt;li>Significant investment in integrating systemd-homed with GNOME (WIP)&lt;/li>
+&lt;li>systemd-sysupdate integration with the GUI app center (GNOME Software)&lt;/li>
+&lt;li>Various improvements to systemd-sysupdate (optional components, bug fixes)&lt;/li>
+&lt;li>Integration of systemd-sysext into GNOME’s CI pipelines - testing system components as easy as Flatpaks for apps&lt;/li>
+&lt;li>Switch to ukify, drop dracut&lt;/li>
+&lt;li>We now use systemd main branch&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>systemd
+&lt;ul>
+&lt;li>Tons of stuff, see ASG Thursday&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>LPC
+&lt;ul>
+&lt;li>Uapi wishlist room 
+ &lt;a href="https://uapi-group.org/kernel-features/">https://uapi-group.org/kernel-features/&lt;/a>
+&lt;ul>
+&lt;li>contributions welcome (via PR)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Session on initrd changes
+&lt;ul>
+&lt;li>Initrd are quite large with UKIs, need to rm -rf content, tons of work to do, unnecessary&lt;/li>
+&lt;li>We have some agreement on umounting initrd from the host&lt;/li>
+&lt;li>New root filesystem type as the immutable / (single inode) that can stay around, initrd mounted on top, so it can be removed&lt;/li>
+&lt;li>Page-aligned erofs images packed in uncompressed cpio, kernel could zero-copy use them, so we avoid copying/uncompressing on boot&lt;/li>
+&lt;li>No agreement on immutable via erofs&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>mkosi
+&lt;ul>
+&lt;li>Now fully unprivileged (fs generation via systemd-repart)
+&lt;ul>
+&lt;li>BTRFS work ongoing to do offline compressing/subvolumes&lt;/li>
+&lt;li>No more bubblewrap/newuidmap&lt;/li>
+&lt;li>mkosi-sandbox instead of bubblewrap&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>More scripts (version, config)&lt;/li>
+&lt;li>Mkosi-initrd as an easy to use tool to build initrds locally&lt;/li>
+&lt;li>Various new distributions
+&lt;ul>
+&lt;li>Azure Linux&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>OpenSSL engine support for HSM signing&lt;/li>
+&lt;li>(signed) shim, systemd-boot, grub support&lt;/li>
+&lt;li>Sysupdate support&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Red Hat Image Builder / osbuild
+&lt;ul>
+&lt;li>dm-verity support
+&lt;ul>
+&lt;li>not yet used in the base image, for automotive use cases&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>bootc-image-builder: 
+ &lt;a href="https://github.com/osbuild/bootc-image-builder/">https://github.com/osbuild/bootc-image-builder/&lt;/a>
+&lt;ul>
+&lt;li>based on rpm-ostree&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+ &lt;a href="https://uapi-group.org">https://uapi-group.org&lt;/a>
+&lt;ul>
+&lt;li>FOSDEM CFP open, will prep a proposal Image Based devroom&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Kernel: IPE LSM is now upstream (in v6.12), image-based distros can do code integrity
+&lt;ul>
+&lt;li>not yet for scripts, there’s ongoing work for that&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="topics">
+ Topics
+ &lt;a class="anchor" href="#topics">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Dual-booting DPS distros, DPS partition ownership (
+ &lt;a href="https://github.com/uapi-group/specifications/pull/117">https://github.com/uapi-group/specifications/pull/117&lt;/a>)
+&lt;ul>
+&lt;li>New installer for GNOME OS, no longer supports &lt;code>/etc/fstab&lt;/code>&lt;/li>
+&lt;li>Cannot identify which root/usr partition belongs to which distribution&lt;/li>
+&lt;li>home/srv are shareable&lt;/li>
+&lt;li>two instances of the same os is not supported&lt;/li>
+&lt;li>rootfs discovery is done on pattern matching on labels (implemented in sysupdated, not in the spec yet)&lt;/li>
+&lt;li>corresponding /var partition is found via hashing of the machine-id
+&lt;ul>
+&lt;li>related: mkosi images with integrated /var currently needs a fixed machine-id&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Q: Who has adopted DPS in production?
+&lt;ul>
+&lt;li>Emil: not adopted in SteamOS, as not the full partition set could be discovered&lt;/li>
+&lt;li>We can add label-based matching/filtering. There is an open PR for that.&lt;/li>
+&lt;li>Need backward compat, if there are no labels do the autodiscovery&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>People do want to use F39 and want to try F40 and maybe go back, so multiple versions of the same OS can be useful&lt;/li>
+&lt;li>Pick the rootfs, then the rest is derived (home shared, var hashed by machine-id)&lt;/li>
+&lt;li>Comment: It’s hard to specify &lt;code>root=&lt;/code> with UKI
+&lt;ul>
+&lt;li>Solution: new credential, TPM locked&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;code>/etc/os-release&lt;/code> add new field, or re-purpose IMAGE_ID&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Generic, stateless OpenPGP verification of distribution artifacts (repositories, packages, installation media, updates, etc.)
+&lt;ul>
+&lt;li>Links:
+&lt;ul>
+&lt;li>
+ &lt;a href="https://github.com/uapi-group/specifications/issues/115">https://github.com/uapi-group/specifications/issues/115&lt;/a>&lt;/li>
+&lt;li>
+ &lt;a href="https://github.com/systemd/mkosi/issues/3042">https://github.com/systemd/mkosi/issues/3042&lt;/a>&lt;/li>
+&lt;li>
+ &lt;a href="https://codeberg.org/heiko/rsop">https://codeberg.org/heiko/rsop&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Tons of pitfalls, gpg not standard compliant anymore, is not stateless with regards to keyrings&lt;/li>
+&lt;li>Would be great to have stateless (no keyring) thingy for signatures&lt;/li>
+&lt;li>why not PKCS#7&lt;/li>
+&lt;li>Apt has global &lt;code>trusted.gpg.d&lt;/code> directory, being phased out, specified inline in the src line&lt;/li>
+&lt;li>seems similar to how distros handle TLS certificates differently&lt;/li>
+&lt;li>systemd currently could use this for verity authentication and downloading&lt;/li>
+&lt;li>suggestion: write a UAPI spec (agnostic with regards to OpenPGP or PKCS#7 or SSH?)
+&lt;ul>
+&lt;li>PKCS#7 is x509 so that additional things can be added, like application-specific purpose extensions&lt;/li>
+&lt;li>
+ &lt;a href="https://datatracker.ietf.org/doc/html/rfc5280#section-4.2.1.12">https://datatracker.ietf.org/doc/html/rfc5280#section-4.2.1.12&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Spec says where to put keys, how to name them&lt;/li>
+&lt;li>Key need a purpose, path specifies it, so that a key cannot be used to add trust to another key, only to a repo&lt;/li>
+&lt;li>Should support the usual &lt;code>/usr/&lt;/code>, &lt;code>/etc/&lt;/code>, &lt;code>/run/&lt;/code> priorities&lt;/li>
+&lt;li>Directory structure should be used to find the right key (apt key or sysupdate key), but key policy should be inside the key (signing key or bla key)
+&lt;ul>
+&lt;li>find key type from the file name suffix&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Not turn it into a Certificate Store thing, like openssl&lt;/li>
+&lt;li>Have a way to find a private key corresponding to a public key&lt;/li>
+&lt;li>Reserve some OIDs for usage, or define usage extension fields&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>would like to add a security feature (BPF LSM) to reject any access to an unauthenticated FS
+&lt;ul>
+&lt;li>dm-verity/dm-crypt or fixed list (sys, proc, …)&lt;/li>
+&lt;li>also reject any dev nodes outside of /dev
+&lt;ul>
+&lt;li>chromeos has something similar&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Reject &lt;code>AF_UNIX&lt;/code> sockets in &lt;code>/etc/&lt;/code> or &lt;code>/usr/&lt;/code>&lt;/li>
+&lt;li>Any other “no-brainer” security policies we should add globally?&lt;/li>
+&lt;li>TODO: file RFE on systemd to track list of policies&lt;/li>
+&lt;li>BPF LSMs are often closed-source currently&lt;/li>
+&lt;li>Make program visible in BPF FS when loaded, so you can do &lt;code>ConditionPathExists=/sys/filesystem/bpf&lt;/code> (TODO: fix this)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Think about the relation between FIDO2 + TPM2 (tpm2+fido2 as PIN, TPM2 and FIDO2 as recovery key)
+&lt;ul>
+&lt;li>No two factor auth, it’s either TPM or FIDO&lt;/li>
+&lt;li>Chromeos makes the tpm send a challenge to the fido device, then the TPM reveals the encryption key
+&lt;ul>
+&lt;li>could likely also be used with PKCS#7 HSMs&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>SSS (Shamir Secret Sharing) support was being worked on, but keys are combined in software on the CPU, so the spooks can get at you&lt;/li>
+&lt;li>SSH agent could also use this scheme&lt;/li>
+&lt;li>TPM policy expresses that there must be a challenge-answer&lt;/li>
+&lt;li>Q: use this for remote proof of identity?
+&lt;ul>
+&lt;li>we have PCR15, which includes machine-id and could have other identity identifiers&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>immutable without significantly raising the bar for contributors
+&lt;ul>
+&lt;li>
+ &lt;a href="https://gitlab.com/postmarketOS/postmarketos/-/issues/62#note_2095562422">https://gitlab.com/postmarketOS/postmarketos/-/issues/62#note_2095562422&lt;/a>&lt;/li>
+&lt;li>How to deliver an immutable system without raising complexity&lt;/li>
+&lt;li>Need to figure out how to build image
+&lt;ul>
+&lt;li>Image build efficiency: composefs&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Q: how about sysexts?
+&lt;ul>
+&lt;li>Thilo: there are plans to load sysexts very early (initramfs). Also can create systexts on the fly - using mutable overlays and capturing the writes in a separate “working” directory, then building a new sysext from that&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>perhaps do an overlayfs and keep a list of user-installed packages?&lt;/li>
+&lt;li>This completely breaks the security model
+&lt;ul>
+&lt;li>For developers, it makes sense for a “break glass” mechanism to do things locally&lt;/li>
+&lt;li>For users, the update mechanism should be designed with security in mind and do transactional updates&lt;/li>
+&lt;li>Think hard on whether the immutable system is the right approach for the use case&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>a way would be to use local keys to build images locally. but uses the full image workflow.&lt;/li>
+&lt;li>They currently use apk and install packages into an overlayfs, purely additive. the overlayfs would become incompatible on update, so nuke it.&lt;/li>
+&lt;li>This kind of issue will become bigger when moving to UKI.
+&lt;ul>
+&lt;li>Seems like using measured boot is much more interesting than secure boot.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Perhaps mkosi approach, keep a list of packages and generate a locally signed sysext. then refresh the sysext
+&lt;ul>
+&lt;li>Just build the full image locally, no need for sysext if you can sign everything yourself&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>maybe have a “developer mode” like chromeos. there is an entry in the systemd todo list
+&lt;ul>
+&lt;li>gnome os is looking at this as well&lt;/li>
+&lt;li>have an explicit knob in the TPM for this&lt;/li>
+&lt;li>NIXOS has a similar mode&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>On qualcomm phones there is no way to have a fTPM in TrustZone&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>systemd on musl
+&lt;ul>
+&lt;li>
+ &lt;a href="https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/">https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/&lt;/a>&lt;/li>
+&lt;li>pmOS is for smartphones, they have a high number of contributors relative to the number of users&lt;/li>
+&lt;li>Tons of patches&lt;/li>
+&lt;li>We merged some patches
+&lt;ul>
+&lt;li>they (adelie folks) use s6 parts to support group shadow stuff that’s required by systemd&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>have a shim library when using systemd on musl
+&lt;ul>
+&lt;li>&lt;code>pidfd_spawn&lt;/code>, shadow/gshadow, &lt;code>printf&lt;/code> string formatter, detected by pkgconfig&lt;/li>
+&lt;li>Maintain shadow parser and printf in parallel with musl&lt;/li>
+&lt;li>needs to be done by libc experts&lt;/li>
+&lt;li>systemd adds more nss stuff (userdb), might be considered advanced use cases&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>locale support in musl is problematic (tests fail)
+&lt;ul>
+&lt;li>there is conditional execution of tests in systemd already (e.g. when running in a container)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Q: how is pmOS handling network
+&lt;ul>
+&lt;li>A: NetworkManager, due to switching between mobile and wifi&lt;/li>
+&lt;li>GUIs are also deeply integrated with NetworkManager&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>be careful with musl on memory constrained systems, as they don’t release memory back to the OS&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Missing functionality for managing &lt;code>/etc/&lt;/code> as a writable confext
+&lt;ul>
+&lt;li>Persisting &lt;code>/etc/machine-id&lt;/code>&lt;/li>
+&lt;li>Deriving the machine-id for &lt;code>/var/&lt;/code>, even though &lt;code>/var/&lt;/code> is probably storing the mutable &lt;code>/etc/&lt;/code> context&lt;/li>
+&lt;li>Handling presets. Store them in &lt;code>/usr/&lt;/code> somehow?&lt;/li>
+&lt;li>Possible solution: Just mount &lt;code>/var/&lt;/code> from initrd? (Who does this actually affect, and do they use image-based / confexts / whatever?)&lt;/li>
+&lt;li>Move mounts that exist on &lt;code>/etc/&lt;/code> when reapplying, writable &lt;code>/etc/&lt;/code> on top of the stack&lt;/li>
+&lt;li>Overlayfs works by using the superblock for each elements, pins it, and doesn’t look at the VFS at all, so it needs to be handled by the confext layer&lt;/li>
+&lt;li>How to handle cases where only &lt;code>/var/&lt;/code> should be persisted?
+&lt;ul>
+&lt;li>repart uses the ephemeral machine-id to create &lt;code>/var/&lt;/code>&lt;/li>
+&lt;li>there is now also &lt;code>systemd.machine-id=firmware&lt;/code>&lt;/li>
+&lt;li>Could add a mechanism to persist machine-id via tpm (NV index, allows factory reset) or system credential&lt;/li>
+&lt;li>could also use the &lt;code>/var/&lt;/code> partition UUID as machine-id?
+&lt;ul>
+&lt;li>problematic from the security perspective, needs some authentication&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>perhaps reopen the discussion to mount &lt;code>/var/&lt;/code> early (in the initramfs)
+&lt;ul>
+&lt;li>MicroOS already mounts &lt;code>/var/&lt;/code> (and &lt;code>/etc/&lt;/code> overlay) in the initrd&lt;/li>
+&lt;li>things are a bit tricky around soft-reboot because there is no initrd&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Support for CC-based (confidential computing) runtime measurements (i.e. &amp;ldquo;PCRs&amp;rdquo;) in systemd-stub, systemd-pcr*
+&lt;ul>
+&lt;li>Most systems have vTPM&lt;/li>
+&lt;li>Should systemd support this if it detects CVM?
+&lt;ul>
+&lt;li>problematic for Intel, as they do it differently compared to everyone else
+&lt;ul>
+&lt;li>looks like they will move to a TPM API as well&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>separate PCRs are required for disk encryption via TPM policies, not needed for remote attestation&lt;/li>
+&lt;li>sd stub already supports some CC measurement log&lt;/li>
+&lt;li>Use case: runtime generalised measurements
+&lt;ul>
+&lt;li>Stuff we build in systemd are not ima based&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Industry largely is accepting that vTPM is the interface to provide to the OS
+&lt;ul>
+&lt;li>If userspace uses the 4 intel registers to map to the 4 PCRs systemd uses, this could be hacked to work&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>for very minimal/fixed userspace, tpm might not be needed, as everything can be measured at the start&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Unpriv container support/mountfsd
+&lt;ul>
+&lt;li>newuidmap is bad&lt;/li>
+&lt;li>We have mountfsd/nsresourced&lt;/li>
+&lt;li>Doesn’t work with containers in the home directory&lt;/li>
+&lt;li>Extend mountfsd to get file descriptor of directory instead of image file&lt;/li>
+&lt;li>Predefine 65k users for containers, no dynamic, no system specific, always the same, statically&lt;/li>
+&lt;li>mountfsd enforces that the setup matches, then checks the parent inode to check that the caller owns it, then set up id mapped mount&lt;/li>
+&lt;li>Dynamic ranges get mapped to this static range&lt;/li>
+&lt;li>Homed already uses id mapping, kernel doesn’t allow nesting. This will be fixed in the kernel to allow multiple mappings.&lt;/li>
+&lt;li>FreeIPA has existing systems with large amounts of mapping, want to make it configurable
+&lt;ul>
+&lt;li>But if OCI tarballs have to be built offline, no way to synchronise them&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Mountfsd also needs to learn to delete them, as unpriv users cannot delete files they do not own&lt;/li>
+&lt;li>Once available this may be used for mkosi too&lt;/li>
+&lt;li>IPC is via a varlink unix socket, so they could be used in containers as well via a bind mount&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Partition resizing discussion
+&lt;ul>
+&lt;li>Should repart start resizing filesystems on its own?&lt;/li>
+&lt;li>There’s nothing to resize vfat. What do we do if we want to grow the ESP?&lt;/li>
+&lt;li>Gnome OS wants to use repart for the installer&lt;/li>
+&lt;li>don’t resize ESP. use xbootloader&lt;/li>
+&lt;li>Android uses dm-linear to runtime-merge partitions&lt;/li>
+&lt;li>DPS GPT flag for extension partition to concatenate them with dm-linear
+&lt;ul>
+&lt;li>Difficult to implement in repart for the allocation algorithm&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>related: fuchsia has a 
+ &lt;a href="https://fuchsia.dev/fuchsia-src/concepts/filesystems/blobfs">blobfs&lt;/a>, which makes everything accessible via a rootfs&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Confext dm-crypt+dm-verity loop
+&lt;ul>
+&lt;li>End goal: being able to reason about every single inode on the system, with different owners/signers per component&lt;/li>
+&lt;li>Agree with this, an issue with composefs because of the multiple layers&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Hermetic &lt;code>/usr/&lt;/code> + Hermetic &lt;code>/etc/&lt;/code>
+&lt;ul>
+&lt;li>Easy parts done for MicroOS&lt;/li>
+&lt;li>Some projects can’t have their files split, some refuse patches (some quite rudely)&lt;/li>
+&lt;li>glibc would take patches, but they don’t want to do the work and it needs to be reimplemented in glibc&lt;/li>
+&lt;li>MicroOS currently targets putting everything in &lt;code>/usr/etc/&lt;/code> and only using that as a fallback if sysadmins don’t put a file in &lt;code>/etc/&lt;/code> (
+ &lt;a href="https://github.com/openSUSE/libnss_usrfiles">libnss_usrfiles&lt;/a>)&lt;/li>
+&lt;li>tmpfiles + &lt;code>/usr/share/factory/etc/&lt;/code> + symlinks seems to work great&lt;/li>
+&lt;li>suggest using volatile /etc and have an allow list for specific stuff&lt;/li>
+&lt;li>for the base os we should be fine now (on fedora), except &lt;code>/etc/services&lt;/code>
+&lt;ul>
+&lt;li>MicroOS doesn’t have &lt;code>/etc/services&lt;/code> any more&lt;/li>
+&lt;li>related: &lt;code>/etc/protocols&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;code>/etc/shells&lt;/code> is read by many things directly
+&lt;ul>
+&lt;li>use tmpfiles to create a symlink&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>for glibc, most important is ldconfig, services, nsswitch.conf
+&lt;ul>
+&lt;li>
+ &lt;a href="https://github.com/systemd/systemd/pull/34535">https://github.com/systemd/systemd/pull/34535&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+ &lt;a href="https://github.com/authselect/authselect/pull/380">https://github.com/authselect/authselect/pull/380&lt;/a>&lt;/li>
+&lt;li>it would be nice if overlayfs had a way to “reveal” (config) files from the lower layers
+&lt;ul>
+&lt;li>you can diff between upper and lower layers&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Do we need a arewehermeticyet page? (there’s no “.yet” tld though)
+&lt;ul>
+&lt;li>Yes&lt;/li>
+&lt;li>Tracker: 
+ &lt;a href="https://github.com/uapi-group/specifications/issues/76">https://github.com/uapi-group/specifications/issues/76&lt;/a> (is now a pinned issue)&lt;/li>
+&lt;li>maybe complain about packages which place files in &lt;code>/etc/&lt;/code>?&lt;/li>
+&lt;li>How to test whether packages?&lt;/li>
+&lt;li>nix patches all packages which write to &lt;code>/etc/&lt;/code>, can be used as a list of affected packages&lt;/li>
+&lt;li>list of stuff that needs to be in &lt;code>/etc/&lt;/code> on Arch Linux: 
+ &lt;a href="https://github.com/systemd/particleos/blob/main/mkosi.extra/usr/lib/tmpfiles.d/etc.conf">https://github.com/systemd/particleos/blob/main/mkosi.extra/usr/lib/tmpfiles.d/etc.conf&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>also relates to random top-level paths (mount points in &lt;code>/&lt;/code>, container usecases, &lt;code>/opt/&lt;/code>)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>OS Factory Reset
+&lt;ul>
+&lt;li>What to do with user content on the ESP (credentials, self-signed UKIs)?&lt;/li>
+&lt;li>Original patch set for factory reset became purge, which then tried to delete home directories, which made some people unhappy
+&lt;ul>
+&lt;li>
+ &lt;a href="https://github.com/systemd/systemd/pull/24983">https://github.com/systemd/systemd/pull/24983&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Need to factory reset TPM
+&lt;ul>
+&lt;li>There is an API for userspace to request this on reboot&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>There should be a way to request factory reset from the boot menu
+&lt;ul>
+&lt;li>that then triggers repart factory reset, TPM reset and something like bootctl factory-reset&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Should we have global directories to sort things by owner?&lt;/li>
+&lt;li>Undecidable whether e.g. nVidia drivers should be removed or not, might be required for graphics to work, but maybe the factory reset was initiated to get rid of them&lt;/li>
+&lt;li>let’s add a vendor directory that does not get deleted&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>systemd-pcrlock
+&lt;ul>
+&lt;li>Canonical wrote a whitepaper on PCR-based unlock, but it has not been published yet&lt;/li>
+&lt;li>TODO: ask to get it published&lt;/li>
+&lt;li>SUSE has adopted pcrlock
+&lt;ul>
+&lt;li>Their older Dell laptops don’t support NV index policies&lt;/li>
+&lt;li>The problem will resolve itself by waiting, until then we need graceful fallbacks&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Order of measurement is deterministic by PCR, but not globally across all PCRs&lt;/li>
+&lt;li>Golden measurements supported, provided by vendor (in &lt;code>/usr/&lt;/code>), derive the rest from hardware
+&lt;ul>
+&lt;li>some laptop vendors provide PCR0 values for LFVS, but the actual measurement values would be better&lt;/li>
+&lt;li>Ideally would supply measurements in the json format for other PCRs touched to the firmware&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>pcrlock is not very user friendly
+&lt;ul>
+&lt;li>Should have documentation pointing users to the obvious defaults that they should pick&lt;/li>
+&lt;li>&lt;code>--lock=auto&lt;/code> option like cryptenroll&lt;/li>
+&lt;li>pcrlock status, like bootctl show what local hardware supports&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>pcrlock in combination with signed pcr policies is fixed in v257 via key sharding&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Recovery key fallback
+&lt;ul>
+&lt;li>Windows doesn’t do much user-friendly stuff, nobody knows their bitlocker recovery key&lt;/li>
+&lt;li>GNOME OS: show GUI when measurements change, to tell the user ‘something’ happened, which PCR is different&lt;/li>
+&lt;li>pcrlock will find a measurement that it can’t make sense of in the log&lt;/li>
+&lt;li>No verb to machine-readable output, can be added&lt;/li>
+&lt;li>This is the remote attestation problem, as you cannot trust the output of a machine booting a compromised kernel&lt;/li>
+&lt;li>There was a bluetooth based project to tie this to a phone (FOSDEM ?? Ultrablue)
+&lt;ul>
+&lt;li>
+ &lt;a href="https://github.com/ANSSI-FR/ultrablue">https://github.com/ANSSI-FR/ultrablue&lt;/a>&lt;/li>
+&lt;li>User-friendly Lightweight TPM Remote Attestation over Bluetooth 
+ &lt;a href="https://archive.fosdem.org/2023/schedule/event/image_linux_secureboot_ultrablue/">https://archive.fosdem.org/2023/schedule/event/image_linux_secureboot_ultrablue/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Delivering credentials via systemd-creds to initrd for non-UKI systems (type#1)?
+&lt;ul>
+&lt;li>Define UEFI protocol to pass sidecars to sd-stub, which will look for it together with the filesystem-based ones&lt;/li>
+&lt;li>Ostree adds a new menu entry on each system update&lt;/li>
+&lt;li>Btrfs creates a new snapshot on any change to the rootfs (update, config changes, etc)&lt;/li>
+&lt;li>Nixos creates a new entry every time the system config changes&lt;/li>
+&lt;li>Can a credential be used instead of the kernel command line?
+&lt;ul>
+&lt;li>Problem is GUI: we need a chooser in the menu&lt;/li>
+&lt;li>By opening up the kernel command line choice, we need to ensure we are not opening up a security hole to let a user access the root user&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="action-items">
+ Action Items
+ &lt;a class="anchor" href="#action-items">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>file RFE on systemd to track list of BPF LSM filesystem lockdown policies&lt;/li>
+&lt;li>Make program visible in BPF FS when loaded, so you can do &lt;code>ConditionPathExists=/sys/filesystem/bpf&lt;/code>&lt;/li>
+&lt;li>ask for Canonical whitepaper on PCR-based unlock to be published&lt;/li>
+&lt;li>writeup for LWN, send draft to group&lt;/li>
+&lt;li>CFP for FOSDEM for image-based devroom&lt;/li>
+&lt;li>organise 4th summit next year
+&lt;ul>
+&lt;li>
+ &lt;a href="https://www.bmw-berlin-marathon.com/en/">CHECK BERLIN MARATHON DATES&lt;/a>&lt;/li>
+&lt;li>Try after ASG, if we can do ASG Tue/Wed&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>mastodon posts about systemd v257 features&lt;/li>
+&lt;li>add stuff to kernel features wishlist&lt;/li>
+&lt;li>file “user friendly pcrlock” issue&lt;/li>
+&lt;li>&lt;code>uki.d&lt;/code> vs &lt;code>uki.vendor.d&lt;/code> dropins for factory reset&lt;/li>
+&lt;li>create PR for certificate directory structure&lt;/li>
+&lt;li>make suggestions on other projects to invite (use Signal)&lt;/li>
+&lt;/ul></description></item><item><title/><link>https://uapi-group.org/docs/minutes/2025-10-02__image-based-linux-summit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/minutes/2025-10-02__image-based-linux-summit/</guid><description>&lt;h1 id="image-based-linux-summit-berlin-october-2nd-2025">
+ Image-Based Linux Summit Berlin October 2nd 2025
+ &lt;a class="anchor" href="#image-based-linux-summit-berlin-october-2nd-2025">#&lt;/a>
+&lt;/h1>
+&lt;p>🖼️ 🐧 🗻 🥙&lt;/p>
+&lt;h1 id="attendees-projects">
+ Attendee&amp;rsquo;s projects
+ &lt;a class="anchor" href="#attendees-projects">#&lt;/a>
+&lt;/h1>
+&lt;ul>
+&lt;li>systemd&lt;/li>
+&lt;li>mkosi&lt;/li>
+&lt;li>SUSE: MicroOS/Tumbleweed&lt;/li>
+&lt;li>Red Hat: 
+ &lt;a href="https://osbuild.org">image-builder/osbuild&lt;/a>, 
+ &lt;a href="https://github.com/containers/bootc">bootc&lt;/a>, systemd, systemd-boot, composefs&lt;/li>
+&lt;li>Fedora: 
+ &lt;a href="https://docs.fedoraproject.org/en-US/bootc/getting-started/">Bootc&lt;/a>, 
+ &lt;a href="https://fedoraproject.org/coreos/">CoreOS&lt;/a>, 
+ &lt;a href="https://fedoraproject.org/atomic-desktops/">Atomic Desktops (Silverblue, Kinoite)&lt;/a>&lt;/li>
+&lt;li>Microsoft: confidential containers, 
+ &lt;a href="https://www.flatcar.org/">Flatcar&lt;/a>, Azure Boost&lt;/li>
+&lt;li>NixOS: systemd-{repart,stub,boot,cryptenroll}, 
+ &lt;a href="https://snix.dev/about/">snix-store&lt;/a>, 
+ &lt;a href="https://github.com/nix-community/lanzaboote">Lanzaboote&lt;/a>, UKIs, 
+ &lt;a href="https://github.com/NixOS/rfcs/blob/master/rfcs/0125-bootspec.md">NixOS Bootspec&lt;/a>, 
+ &lt;a href="https://github.com/nikstur/userborn">userborn&lt;/a>, 
+ &lt;a href="https://github.com/cloud-gouv/securix">Sécurix&lt;/a>&lt;/li>
+&lt;li>Canonical: Ubuntu Core, snaps, foundations/bootloader/package management&lt;/li>
+&lt;li>Freedesktop-sdk&lt;/li>
+&lt;li>GNOME OS&lt;/li>
+&lt;li>Arch Linux: sbctl/go-uefi, signstar(os), mkinitcpio, arch-install-scripts, devtools, buildbtw / vmexec, voa&lt;/li>
+&lt;li>postmarketOS: mkosi and immutable images, dev tooling&lt;/li>
+&lt;li>Devicetree selection for OS installers&lt;/li>
+&lt;li>Cockpit 
+ &lt;a href="https://github.com/cockpit-project/cockpit">https://github.com/cockpit-project/cockpit&lt;/a>&lt;/li>
+&lt;li>test.thing 
+ &lt;a href="https://codeberg.org/lis/test.thing">https://codeberg.org/lis/test.thing&lt;/a>&lt;/li>
+&lt;li>composefs-rs 
+ &lt;a href="https://github.com/containers/composefs-rs">https://github.com/containers/composefs-rs&lt;/a>&lt;/li>
+&lt;li>Aeon Desktop 
+ &lt;a href="https://aeondesktop.org">https://aeondesktop.org&lt;/a>&lt;/li>
+&lt;li>tik 
+ &lt;a href="https://github.com/sysrich/tik">https://github.com/sysrich/tik&lt;/a>&lt;/li>
+&lt;li>Meta (image builders)&lt;/li>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;h2 id="summary-of-last-years-progress">
+ Summary of Last Year’s Progress
+ &lt;a class="anchor" href="#summary-of-last-years-progress">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Systemd: factory-reset (including TPM), varlinkified lots of building blocks for the installer so GUI progs can call into this IPC to prep disks, UKIs: multi profiles (pcrlock TBD), DTB auto selection, netbooting plus image-based stuff (pxeboot replacement), repart: verity autosizing, verity copyblocks, offline signing, systemd-sbsign for signing EFI and more stuff, with providers support and offline support, fsverity support&lt;/li>
+&lt;li>SUSE: sd-boot for MicroOS, Tumbleweed uses BLS, TPM-based FDE in the YaST2 installer, fido2 + tpm2 integration being worked on, sysext support in MicroOS, building MicroOS images with mkosi as root, non-root is WIP, util-linux follows config spec, glib will support it with 2.87.0 too, prototypes to remove SUID from everywhere, new systemd socket activated daemons, one to read and one to modify passwd and shadow entries, simple PAM module making use of it, TIK installer repart based for everything, aeon tpm encrypted by default, fully image-based&lt;/li>
+&lt;li>Composefs: rewrote in rust, can pull OCI images, or local filesystems repos, can use systemd-repart, integrated in bootc project, moving away from ostree, focusing on flow for secure boot signing and bootchain security, UKI and systemd-boot support in bootc&lt;/li>
+&lt;li>Fedora: sysusers.d migration completed for all migrated mostly done in rpm inline as many are based on RPM macros, getting closer to have sd-boot signed, almost finished moving Fedora CoreOS to bootc, focusing on remote attestation, experiment with sysext for Atomic Desktops and CoreOS, not official yet, works well&lt;/li>
+&lt;li>Ubuntu: experimental TPM based FDE for ubuntu classic, ubuntu core IOT related and does it already, many issues with firmwares so verification work, will be ported to classic, to handle common error cases, adding dm-verity for snaps, investigated using DDIs as backend&lt;br>
+(
+ &lt;a href="https://ubuntu.com/summit">https://ubuntu.com/summit&lt;/a> might be the place to evangalize, Oct 23-24), collaboration with azure for tpm-based CVM, no bootloader, nullboot (
+ &lt;a href="https://github.com/canonical/nullboot">https://github.com/canonical/nullboot&lt;/a>) manages the efi entries directly, uses shim → uki managing efi entries&lt;/li>
+&lt;li>GNOME OS: sd-boot, sysupdate, worked on new installer using repart, pcrlock enabled by default, more testing this summer, issues like fw updates clearing the TPM (not uefi capsule based), problems keeping things unlocked (no recovery key setup sometimes, needs UX improvement), wired up gnome ci to produce sysext images from PRs for easy testing, btrfs installer that does not reboot, puts root btrfs in zram device, encrypt and open luks, then btrfs moves to the disk from the zram (
+ &lt;a href="https://cfp.all-systems-go.io/all-systems-go-2025/talk/QRJVL3/">https://cfp.all-systems-go.io/all-systems-go-2025/talk/QRJVL3/&lt;/a>)&lt;/li>
+&lt;li>Arch: worked on stateless verification of artifacts that works with openpgp but extendable (ssh, x509, etc), added to UAPI specs, image based signing enclave using mkosi,&lt;/li>
+&lt;li>NixOS:
+&lt;ul>
+&lt;li>dm-verity support in builder (puts Nix Store on /usr/nix/store then bind-mounts to /nix/store). Uses veritysetup generator and verity autosizing.&lt;/li>
+&lt;li>Removed Perl from mandatory system closure before, 
+ &lt;a href="https://github.com/NixOS/nixpkgs/issues/428908">now removed bash&lt;/a>.&lt;/li>
+&lt;li>
+ &lt;a href="https://github.com/legionus/kbd/issues/138">Convinced kbd to use .note.dlopen()&lt;/a>.
+&lt;ul>
+&lt;li>
+ &lt;a href="http://github.com/logrotate/logrotate/issues/681">Proposed to logrotate&lt;/a> as well but unconvinced we will succeed&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Happy about 
+ &lt;a href="https://github.com/util-linux/util-linux/pull/3680">mount --beneath support in util-linux&lt;/a>. Used for /etc/ overlay so when system updated it is done atomically&lt;/li>
+&lt;li>Tried very hard to use the systemd (sysusers and userdbd (no uid allocation) and homed (not declarative, always prompted)) for declarative user management. After 6 months gave up (skill issue?) and developed 
+ &lt;a href="https://github.com/nikstur/userborn">Userborn&lt;/a>.
+&lt;ul>
+&lt;li>Couldn&amp;rsquo;t get homed to be fully declarative&lt;/li>
+&lt;li>userdbd drop-in files are missing uid allocation and prevention of UID re-use&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Lanzaboote: not much progress except on admin/CI work, we are moving to a new git hosting and infra, we hope to resume efforts to be feature parity with stub at that moment. A lot are using it, 2 users claimed having burned their motherboard.&lt;/li>
+&lt;li>snix-store: a &amp;ldquo;CA Nix store&amp;rdquo; for any data, used increasingly, at a slow pace.&lt;/li>
+&lt;li>Sécurix: a French government-lead project to have a framework to build NixOS hardened workstations with minimal infrastructure, ships with an installer, ships with Lanzaboote, made for teams with an built-in static inventory. Interest to extend to more parties. Semantics not yet image-based.
+&lt;ul>
+&lt;li>remaining funny problem: laptops are multi-user, we need to provision disk encryption for all the users who use security keys&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>systemd on embedded devices:
+&lt;ul>
+&lt;li>16MB of libraries among 1.3MB of libsystemd.so, 2.2MB of libsystemd-core, 4.2MB of libsystemd-shared, 1.1MB of systemd generators, 1MB of udev, 5.4MB of systemd binaries&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>systemd-pcrlock: we built our own tool to predict pcrlock-like files but we wonder if pcrlock should know how to predict things based on an event log for hardware and a systemd-repart manifest, this works perfectly&lt;/li>
+&lt;li>machine identity and LoadCredentials: currently, we cannot use socket based LC because reloading rotated credentials is not perfect&lt;/li>
+&lt;li>Appetite for multi-level security in Spectrum (QubesOS alternative in NixOS): 
+ &lt;a href="https://git.sr.ht/~alip/syd">https://git.sr.ht/~alip/syd&lt;/a> a competitor to systemd hardening / sandboxing options&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Flatcar: operationalizing sysexts, building/publishing/hosting: 
+ &lt;a href="https://extensions.flatcar.org/">https://extensions.flatcar.org/&lt;/a>
+&lt;ul>
+&lt;li>more APIs/hooks for sysexts to make services merge/unmerge aware&lt;/li>
+&lt;li>mutable confexts for a migration path from a fully writable to immutable setup, incl. Auto-generating / capturing confexts on the fly&lt;/li>
+&lt;li>more productization for secure boot
+&lt;ul>
+&lt;li>allow third party keys into sb database so that 3P sysext images can be used&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="topics-discussed">
+ Topics discussed
+ &lt;a class="anchor" href="#topics-discussed">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Lennart: Lsm-bpf policies implemented by systemd
+&lt;ul>
+&lt;li>
+&lt;p>How to forbid abstract UNIX sockets in service units&lt;/p></description></item></channel></rss>

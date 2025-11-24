@@ -1,8 +1,131 @@
-<!doctype html><html lang=en dir=ltr><head><meta name=generator content="Hugo 0.104.3"><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=description content="Image-Based Linux Summit Berlin October 2nd 2025 # 🖼️ 🐧 🗻 🥙
-Attendee&rsquo;s projects # systemd mkosi SUSE: MicroOS/Tumbleweed Red Hat: image-builder/osbuild, bootc, systemd, systemd-boot, composefs Fedora: Bootc, CoreOS, Atomic Desktops (Silverblue, Kinoite) Microsoft: confidential containers, Flatcar, Azure Boost NixOS: systemd-{repart,stub,boot,cryptenroll}, snix-store, Lanzaboote, UKIs, NixOS Bootspec, userborn, Sécurix Canonical: Ubuntu Core, snaps, foundations/bootloader/package management Freedesktop-sdk GNOME OS Arch Linux: sbctl/go-uefi, signstar(os), mkinitcpio, arch-install-scripts, devtools, buildbtw / vmexec, voa postmarketOS: mkosi and immutable images, dev tooling Devicetree selection for OS installers Cockpit https://github."><meta name=theme-color content="#FFFFFF"><meta property="og:title" content><meta property="og:description" content="Image-Based Linux Summit Berlin October 2nd 2025 # 🖼️ 🐧 🗻 🥙
-Attendee&rsquo;s projects # systemd mkosi SUSE: MicroOS/Tumbleweed Red Hat: image-builder/osbuild, bootc, systemd, systemd-boot, composefs Fedora: Bootc, CoreOS, Atomic Desktops (Silverblue, Kinoite) Microsoft: confidential containers, Flatcar, Azure Boost NixOS: systemd-{repart,stub,boot,cryptenroll}, snix-store, Lanzaboote, UKIs, NixOS Bootspec, userborn, Sécurix Canonical: Ubuntu Core, snaps, foundations/bootloader/package management Freedesktop-sdk GNOME OS Arch Linux: sbctl/go-uefi, signstar(os), mkinitcpio, arch-install-scripts, devtools, buildbtw / vmexec, voa postmarketOS: mkosi and immutable images, dev tooling Devicetree selection for OS installers Cockpit https://github."><meta property="og:type" content="article"><meta property="og:url" content="https://uapi-group.org/docs/minutes/2025-10-02__image-based-linux-summit/"><meta property="article:section" content="minutes"><title>2025 10 02 Image Based Linux Summit | UAPI group generic documents and meeting minutes</title><link rel=manifest href=/docs/manifest.json><link rel=icon href=/docs/favicon.png type=image/x-icon><link rel=stylesheet href=/docs/book.min.f716a89e40b01f033146ee402497165ac5bcf8935948094dceafbcb19f6f3c8d.css integrity="sha256-9xaonkCwHwMxRu5AJJcWWsW8+JNZSAlNzq+8sZ9vPI0="><script defer src=/docs/en.search.min.13b5df7a8b5539bcefafc40e2a485fab0b9de1515338065301dd02fd0b5d34dc.js integrity="sha256-E7XfeotVObzvr8QOKkhfqwud4VFTOAZTAd0C/QtdNNw="></script></head><body dir=ltr><input type=checkbox class="hidden toggle" id=menu-control>
-<input type=checkbox class="hidden toggle" id=toc-control><main class="container flex"><aside class=book-menu><div class=book-menu-content><nav><h2 class=book-brand><a href=/docs><span>UAPI group generic documents and meeting minutes</span></a></h2><div class=book-search><input type=text id=book-search-input placeholder=Search aria-label=Search maxlength=64 data-hotkeys=s/><div class="book-search-spinner hidden"></div><ul id=book-search-results></ul></div><ul><li><a href=https://uapi-group.org/>⬅️ Back to top</a></li><li>⸻</li></ul><ul><li><span>Conferences</span><ul><li><a href=https://uapi-group.org/docs/conferences/2023-02-04__fosdem-devroom/>2023 02 04 Fosdem Devroom</a></li><li><a href=https://uapi-group.org/docs/conferences/2023-02-05_fosdem-kernel-devroom/>2023 02 05 Fosdem Kernel Devroom</a></li><li><a href=https://uapi-group.org/docs/conferences/2023-09-13__all-systems-go/>2023 09 13 All Systems Go</a></li><li><a href=https://uapi-group.org/docs/conferences/2024-02-04_fosdem-kernel-devroom/>2024 02 04 Fosdem Kernel Devroom</a></li><li><a href=https://uapi-group.org/docs/conferences/2024-09-18__lpc-uapi-mc/>2024 09 18 Lpc Uapi MC</a></li><li><a href=https://uapi-group.org/docs/conferences/2024-09-25__all-systems-go/>2024 09 25 All Systems Go</a></li><li><a href=https://uapi-group.org/docs/conferences/2025-02-01_fosdem-kernel-devroom/>2025 02 01 Fosdem Kernel Devroom</a></li><li><a href=https://uapi-group.org/docs/conferences/2025-02-02__fosdem-devroom/>2025 02 02 Fosdem Devroom</a></li><li><a href=https://uapi-group.org/docs/conferences/2025-09-30__all-systems-go/>2025 09 30 All Systems Go</a></li><li><a href=https://uapi-group.org/docs/conferences/2026-01-31_fosdem-kernel-devroom/>2026 01 31 Fosdem Kernel Devroom</a></li></ul></li><li><span>Minutes</span><ul><li><a href=https://uapi-group.org/docs/minutes/2022-10-05__image-based-linux-summit/>2022 10 05 Image Based Linux Summit</a></li><li><a href=https://uapi-group.org/docs/minutes/2023-09-12__image-based-linux-summit/>2023 09 12 Image Based Linux Summit</a></li><li><a href=https://uapi-group.org/docs/minutes/2024-09-24__image-based-linux-summit/>2024 09 24 Image Based Linux Summit</a></li><li><a href=https://uapi-group.org/docs/minutes/2025-10-02__image-based-linux-summit/ class=active>2025 10 02 Image Based Linux Summit</a></li></ul></li></ul><ul><li>⸻</li><li><a href=https://github.com/uapi-group/docs target=_blank rel=noopener>Collaborate on Github</a></li></ul></nav><script>(function(){var e=document.querySelector("aside.book-menu nav");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script></div></aside><div class=book-page><header class=book-header><div class="flex align-center justify-between"><label for=menu-control><img src=/docs/svg/menu.svg class=book-icon alt=Menu></label>
-<strong>2025 10 02 Image Based Linux Summit</strong>
+<!doctype html><html lang=en dir=ltr><head><meta name=generator content="Hugo 0.147.8"><meta charset=UTF-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=description content="
+  Image-Based Linux Summit Berlin October 2nd 2025
+  #
+
+🖼️ 🐧 🗻 🥙
+
+  Attendee&rsquo;s projects
+  #
+
+
+systemd
+mkosi
+SUSE: MicroOS/Tumbleweed
+Red Hat: 
+  image-builder/osbuild, 
+  bootc, systemd, systemd-boot, composefs
+Fedora: 
+  Bootc, 
+  CoreOS, 
+  Atomic Desktops (Silverblue, Kinoite)
+Microsoft: confidential containers, 
+  Flatcar, Azure Boost
+NixOS: systemd-{repart,stub,boot,cryptenroll}, 
+  snix-store, 
+  Lanzaboote, UKIs, 
+  NixOS Bootspec, 
+  userborn, 
+  Sécurix
+Canonical: Ubuntu Core, snaps, foundations/bootloader/package management
+Freedesktop-sdk
+GNOME OS
+Arch Linux: sbctl/go-uefi, signstar(os), mkinitcpio, arch-install-scripts, devtools, buildbtw / vmexec, voa
+postmarketOS: mkosi and immutable images, dev tooling
+Devicetree selection for OS installers
+Cockpit 
+  https://github.com/cockpit-project/cockpit
+test.thing 
+  https://codeberg.org/lis/test.thing
+composefs-rs 
+  https://github.com/containers/composefs-rs
+Aeon Desktop 
+  https://aeondesktop.org
+tik 
+  https://github.com/sysrich/tik
+Meta (image builders)
+
+
+
+  Summary of Last Year’s Progress
+  #
+
+
+Systemd: factory-reset (including TPM), varlinkified lots of building blocks for the installer so GUI progs can call into this IPC to prep disks, UKIs: multi profiles (pcrlock TBD), DTB auto selection, netbooting plus image-based stuff (pxeboot replacement), repart: verity autosizing, verity copyblocks, offline signing, systemd-sbsign for signing EFI and more stuff, with providers support and offline support, fsverity support
+SUSE: sd-boot for MicroOS, Tumbleweed uses BLS, TPM-based FDE in the YaST2 installer, fido2 + tpm2 integration being worked on, sysext support in MicroOS, building MicroOS images with mkosi as root, non-root is WIP, util-linux follows config spec, glib will support it with 2.87.0 too, prototypes to remove SUID from everywhere, new systemd socket activated daemons, one to read and one to modify passwd and shadow entries, simple PAM module making use of it, TIK installer repart based for everything, aeon tpm encrypted by default, fully image-based
+Composefs: rewrote in rust, can pull OCI images, or local filesystems repos, can use systemd-repart, integrated in bootc project, moving away from ostree, focusing on flow for secure boot signing and bootchain security, UKI and systemd-boot support in bootc
+Fedora: sysusers.d migration completed for all migrated mostly done in rpm inline as many are based on RPM macros, getting closer to have sd-boot signed, almost finished moving Fedora CoreOS to bootc, focusing on remote attestation, experiment with sysext for Atomic Desktops and CoreOS, not official yet, works well
+Ubuntu: experimental TPM based FDE for ubuntu classic, ubuntu core IOT related and does it already, many issues with firmwares so verification work, will be ported to classic, to handle common error cases, adding dm-verity for snaps, investigated using DDIs as backend
+(
+  https://ubuntu.com/summit might be the place to evangalize, Oct 23-24), collaboration with azure for tpm-based CVM, no bootloader, nullboot (
+  https://github.com/canonical/nullboot) manages the efi entries directly, uses shim → uki managing efi entries
+GNOME OS: sd-boot, sysupdate, worked on new installer using repart, pcrlock enabled by default, more testing this summer, issues like fw updates clearing the TPM (not uefi capsule based), problems keeping things unlocked (no recovery key setup sometimes, needs UX improvement), wired up gnome ci to produce sysext images from PRs for easy testing, btrfs installer that does not reboot, puts root btrfs in zram device, encrypt and open luks, then btrfs moves to the disk from the zram (
+  https://cfp.all-systems-go.io/all-systems-go-2025/talk/QRJVL3/)
+Arch: worked on stateless verification of artifacts that works with openpgp but extendable (ssh, x509, etc), added to UAPI specs, image based signing enclave using mkosi,
+NixOS:
+
+dm-verity support in builder (puts Nix Store on /usr/nix/store then bind-mounts to /nix/store). Uses veritysetup generator and verity autosizing.
+Removed Perl from mandatory system closure before, 
+  now removed bash.
+
+  Convinced kbd to use .note.dlopen().
+
+
+  Proposed to logrotate as well but unconvinced we will succeed
+
+
+Happy about 
+  mount --beneath support in util-linux. Used for /etc/ overlay so when system updated it is done atomically
+Tried very hard to use the systemd (sysusers and userdbd (no uid allocation) and homed (not declarative, always prompted)) for declarative user management. After 6 months gave up (skill issue?) and developed 
+  Userborn.
+
+Couldn&rsquo;t get homed to be fully declarative
+userdbd drop-in files are missing uid allocation and prevention of UID re-use
+
+
+Lanzaboote: not much progress except on admin/CI work, we are moving to a new git hosting and infra, we hope to resume efforts to be feature parity with stub at that moment. A lot are using it, 2 users claimed having burned their motherboard.
+snix-store: a &ldquo;CA Nix store&rdquo; for any data, used increasingly, at a slow pace.
+Sécurix: a French government-lead project to have a framework to build NixOS hardened workstations with minimal infrastructure, ships with an installer, ships with Lanzaboote, made for teams with an built-in static inventory. Interest to extend to more parties. Semantics not yet image-based.
+
+remaining funny problem: laptops are multi-user, we need to provision disk encryption for all the users who use security keys
+
+
+systemd on embedded devices:
+
+16MB of libraries among 1.3MB of libsystemd.so, 2.2MB of libsystemd-core, 4.2MB of libsystemd-shared, 1.1MB of systemd generators, 1MB of udev, 5.4MB of systemd binaries
+
+
+systemd-pcrlock: we built our own tool to predict pcrlock-like files but we wonder if pcrlock should know how to predict things based on an event log for hardware and a systemd-repart manifest, this works perfectly
+machine identity and LoadCredentials: currently, we cannot use socket based LC because reloading rotated credentials is not perfect
+Appetite for multi-level security in Spectrum (QubesOS alternative in NixOS): 
+  https://git.sr.ht/~alip/syd a competitor to systemd hardening / sandboxing options
+
+
+Flatcar: operationalizing sysexts, building/publishing/hosting: 
+  https://extensions.flatcar.org/
+
+more APIs/hooks for sysexts to make services merge/unmerge aware
+mutable confexts for a migration path from a fully writable to immutable setup, incl. Auto-generating / capturing confexts on the fly
+more productization for secure boot
+
+allow third party keys into sb database so that 3P sysext images can be used
+
+
+
+
+
+
+  Topics discussed
+  #
+
+
+Lennart: Lsm-bpf policies implemented by systemd
+
+
+How to forbid abstract UNIX sockets in service units"><meta name=theme-color content="#FFFFFF"><meta property="og:url" content="https://uapi-group.org/docs/minutes/2025-10-02__image-based-linux-summit/"><meta property="og:site_name" content="UAPI group generic documents and meeting minutes"><meta property="og:title" content="UAPI group generic documents and meeting minutes"><meta property="og:description" content="Image-Based Linux Summit Berlin October 2nd 2025 # 🖼️ 🐧 🗻 🥙
+Attendee’s projects # systemd mkosi SUSE: MicroOS/Tumbleweed Red Hat: image-builder/osbuild, bootc, systemd, systemd-boot, composefs Fedora: Bootc, CoreOS, Atomic Desktops (Silverblue, Kinoite) Microsoft: confidential containers, Flatcar, Azure Boost NixOS: systemd-{repart,stub,boot,cryptenroll}, snix-store, Lanzaboote, UKIs, NixOS Bootspec, userborn, Sécurix Canonical: Ubuntu Core, snaps, foundations/bootloader/package management Freedesktop-sdk GNOME OS Arch Linux: sbctl/go-uefi, signstar(os), mkinitcpio, arch-install-scripts, devtools, buildbtw / vmexec, voa postmarketOS: mkosi and immutable images, dev tooling Devicetree selection for OS installers Cockpit https://github.com/cockpit-project/cockpit test.thing https://codeberg.org/lis/test.thing composefs-rs https://github.com/containers/composefs-rs Aeon Desktop https://aeondesktop.org tik https://github.com/sysrich/tik Meta (image builders) Summary of Last Year’s Progress # Systemd: factory-reset (including TPM), varlinkified lots of building blocks for the installer so GUI progs can call into this IPC to prep disks, UKIs: multi profiles (pcrlock TBD), DTB auto selection, netbooting plus image-based stuff (pxeboot replacement), repart: verity autosizing, verity copyblocks, offline signing, systemd-sbsign for signing EFI and more stuff, with providers support and offline support, fsverity support SUSE: sd-boot for MicroOS, Tumbleweed uses BLS, TPM-based FDE in the YaST2 installer, fido2 + tpm2 integration being worked on, sysext support in MicroOS, building MicroOS images with mkosi as root, non-root is WIP, util-linux follows config spec, glib will support it with 2.87.0 too, prototypes to remove SUID from everywhere, new systemd socket activated daemons, one to read and one to modify passwd and shadow entries, simple PAM module making use of it, TIK installer repart based for everything, aeon tpm encrypted by default, fully image-based Composefs: rewrote in rust, can pull OCI images, or local filesystems repos, can use systemd-repart, integrated in bootc project, moving away from ostree, focusing on flow for secure boot signing and bootchain security, UKI and systemd-boot support in bootc Fedora: sysusers.d migration completed for all migrated mostly done in rpm inline as many are based on RPM macros, getting closer to have sd-boot signed, almost finished moving Fedora CoreOS to bootc, focusing on remote attestation, experiment with sysext for Atomic Desktops and CoreOS, not official yet, works well Ubuntu: experimental TPM based FDE for ubuntu classic, ubuntu core IOT related and does it already, many issues with firmwares so verification work, will be ported to classic, to handle common error cases, adding dm-verity for snaps, investigated using DDIs as backend
+( https://ubuntu.com/summit might be the place to evangalize, Oct 23-24), collaboration with azure for tpm-based CVM, no bootloader, nullboot ( https://github.com/canonical/nullboot) manages the efi entries directly, uses shim → uki managing efi entries GNOME OS: sd-boot, sysupdate, worked on new installer using repart, pcrlock enabled by default, more testing this summer, issues like fw updates clearing the TPM (not uefi capsule based), problems keeping things unlocked (no recovery key setup sometimes, needs UX improvement), wired up gnome ci to produce sysext images from PRs for easy testing, btrfs installer that does not reboot, puts root btrfs in zram device, encrypt and open luks, then btrfs moves to the disk from the zram ( https://cfp.all-systems-go.io/all-systems-go-2025/talk/QRJVL3/) Arch: worked on stateless verification of artifacts that works with openpgp but extendable (ssh, x509, etc), added to UAPI specs, image based signing enclave using mkosi, NixOS: dm-verity support in builder (puts Nix Store on /usr/nix/store then bind-mounts to /nix/store). Uses veritysetup generator and verity autosizing. Removed Perl from mandatory system closure before, now removed bash. Convinced kbd to use .note.dlopen(). Proposed to logrotate as well but unconvinced we will succeed Happy about mount --beneath support in util-linux. Used for /etc/ overlay so when system updated it is done atomically Tried very hard to use the systemd (sysusers and userdbd (no uid allocation) and homed (not declarative, always prompted)) for declarative user management. After 6 months gave up (skill issue?) and developed Userborn. Couldn’t get homed to be fully declarative userdbd drop-in files are missing uid allocation and prevention of UID re-use Lanzaboote: not much progress except on admin/CI work, we are moving to a new git hosting and infra, we hope to resume efforts to be feature parity with stub at that moment. A lot are using it, 2 users claimed having burned their motherboard. snix-store: a “CA Nix store” for any data, used increasingly, at a slow pace. Sécurix: a French government-lead project to have a framework to build NixOS hardened workstations with minimal infrastructure, ships with an installer, ships with Lanzaboote, made for teams with an built-in static inventory. Interest to extend to more parties. Semantics not yet image-based. remaining funny problem: laptops are multi-user, we need to provision disk encryption for all the users who use security keys systemd on embedded devices: 16MB of libraries among 1.3MB of libsystemd.so, 2.2MB of libsystemd-core, 4.2MB of libsystemd-shared, 1.1MB of systemd generators, 1MB of udev, 5.4MB of systemd binaries systemd-pcrlock: we built our own tool to predict pcrlock-like files but we wonder if pcrlock should know how to predict things based on an event log for hardware and a systemd-repart manifest, this works perfectly machine identity and LoadCredentials: currently, we cannot use socket based LC because reloading rotated credentials is not perfect Appetite for multi-level security in Spectrum (QubesOS alternative in NixOS): https://git.sr.ht/~alip/syd a competitor to systemd hardening / sandboxing options Flatcar: operationalizing sysexts, building/publishing/hosting: https://extensions.flatcar.org/ more APIs/hooks for sysexts to make services merge/unmerge aware mutable confexts for a migration path from a fully writable to immutable setup, incl. Auto-generating / capturing confexts on the fly more productization for secure boot allow third party keys into sb database so that 3P sysext images can be used Topics discussed # Lennart: Lsm-bpf policies implemented by systemd How to forbid abstract UNIX sockets in service units"><meta property="og:locale" content="en_us"><meta property="og:type" content="article"><meta property="article:section" content="minutes"><title>2025 10 02 Image Based Linux Summit | UAPI group generic documents and meeting minutes</title><link rel=manifest href=/docs/manifest.json><link rel=icon href=/docs/favicon.png type=image/x-icon><link rel=stylesheet href=/docs/book.min.3c3310df1da3aa3033f55b28b0c1d3d84b1068b4c151601ce8e78f9e72169463.css integrity="sha256-PDMQ3x2jqjAz9VsosMHT2EsQaLTBUWAc6OePnnIWlGM="><script defer src=/docs/en.search.min.03523148eac0f4f5ea2aeda2eda94decf9ba146a144253858f4487ea7a62806b.js integrity="sha256-A1IxSOrA9PXqKu2i7alN7Pm6FGoUQlOFj0SH6npigGs="></script></head><body dir=ltr><input type=checkbox class="hidden toggle" id=menu-control>
+<input type=checkbox class="hidden toggle" id=toc-control><main class="container flex"><aside class=book-menu><div class=book-menu-content><nav><h2 class=book-brand><a href=/docs><span>UAPI group generic documents and meeting minutes</span></a></h2><div class=book-search><input type=text id=book-search-input placeholder=Search aria-label=Search maxlength=64 data-hotkeys=s/><div class="book-search-spinner hidden"></div><ul id=book-search-results></ul></div><ul><li><a href=https://uapi-group.org/>⬅️ Back to top</a></li><li>⸻</li></ul><ul><li><span>Conferences</span><ul><li><a href=https://uapi-group.org/docs/conferences/2023-02-04__fosdem-devroom/>2023 02 04 Fosdem Devroom</a></li><li><a href=https://uapi-group.org/docs/conferences/2023-02-05_fosdem-kernel-devroom/>2023 02 05 Fosdem Kernel Devroom</a></li><li><a href=https://uapi-group.org/docs/conferences/2023-09-13__all-systems-go/>2023 09 13 All Systems Go</a></li><li><a href=https://uapi-group.org/docs/conferences/2024-02-04_fosdem-kernel-devroom/>2024 02 04 Fosdem Kernel Devroom</a></li><li><a href=https://uapi-group.org/docs/conferences/2024-09-18__lpc-uapi-mc/>2024 09 18 Lpc Uapi MC</a></li><li><a href=https://uapi-group.org/docs/conferences/2024-09-25__all-systems-go/>2024 09 25 All Systems Go</a></li><li><a href=https://uapi-group.org/docs/conferences/2025-02-01_fosdem-kernel-devroom/>2025 02 01 Fosdem Kernel Devroom</a></li><li><a href=https://uapi-group.org/docs/conferences/2025-02-02__fosdem-devroom/>2025 02 02 Fosdem Devroom</a></li><li><a href=https://uapi-group.org/docs/conferences/2025-09-30__all-systems-go/>2025 09 30 All Systems Go</a></li><li><a href=https://uapi-group.org/docs/conferences/2026-01-31_fosdem-kernel-devroom/>2026 01 31 Fosdem Kernel Devroom</a></li></ul></li><li><span>Minutes</span><ul><li><a href=https://uapi-group.org/docs/minutes/2022-10-05__image-based-linux-summit/>2022 10 05 Image Based Linux Summit</a></li><li><a href=https://uapi-group.org/docs/minutes/2023-09-12__image-based-linux-summit/>2023 09 12 Image Based Linux Summit</a></li><li><a href=https://uapi-group.org/docs/minutes/2024-09-24__image-based-linux-summit/>2024 09 24 Image Based Linux Summit</a></li><li><a href=https://uapi-group.org/docs/minutes/2025-10-02__image-based-linux-summit/ class=active>2025 10 02 Image Based Linux Summit</a></li></ul></li></ul><ul><li>⸻</li><li><a href=https://github.com/uapi-group/docs target=_blank rel=noopener>Collaborate on Github</a></li></ul></nav><script>(function(){var e=document.querySelector("aside.book-menu nav");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script></div></aside><div class=book-page><header class=book-header><div class="flex align-center justify-between"><label for=menu-control><img src=/docs/svg/menu.svg class=book-icon alt=Menu>
+</label><strong>2025 10 02 Image Based Linux Summit</strong>
 <label for=toc-control><img src=/docs/svg/toc.svg class=book-icon alt="Table of Contents"></label></div><aside class="hidden clearfix"><nav id=TableOfContents><ul><li><a href=#summary-of-last-years-progress>Summary of Last Year’s Progress</a></li><li><a href=#topics-discussed>Topics discussed</a></li></ul></nav></aside></header><article class=markdown><h1 id=image-based-linux-summit-berlin-october-2nd-2025>Image-Based Linux Summit Berlin October 2nd 2025
 <a class=anchor href=#image-based-linux-summit-berlin-october-2nd-2025>#</a></h1><p>🖼️ 🐧 🗻 🥙</p><h1 id=attendees-projects>Attendee&rsquo;s projects
 <a class=anchor href=#attendees-projects>#</a></h1><ul><li>systemd</li><li>mkosi</li><li>SUSE: MicroOS/Tumbleweed</li><li>Red Hat:
