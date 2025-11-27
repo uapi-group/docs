@@ -27,7 +27,7 @@ theme = "hugo-book"
   BookSection = '*'
   BookRepo = 'https://github.com/uapi-group/docs'
   BookCommitPath = 'commit'
-  BookEditPath = 'edit/main'
+  BookEditLink = '{{ .Site.Params.BookRepo }}/edit/main/{{ .Path }}'
   BookIndexPage = 'README.md'
 
 [modules]
