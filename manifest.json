@@ -1,14 +1,14 @@
 {
   "name": "UAPI group generic documents and meeting minutes",
   "short_name": "UAPI group generic documents and meeting minutes",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/docs/",
+  "scope": "/docs/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/favicon.svg",
+      "src": "/docs/favicon.svg",
       "sizes": "512x512"
     }
   ]

@@ -1,25 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Minutes on UAPI group generic documents and meeting minutes</title><link>https://uapi-group.org/docs/minutes/</link><description>Recent content in Minutes on UAPI group generic documents and meeting minutes</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://uapi-group.org/docs/minutes/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://uapi-group.org/docs/minutes/2022-10-05__image-based-linux-summit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/minutes/2022-10-05__image-based-linux-summit/</guid><description>&lt;h1 id="image-based-linux-summit-5th---6th-october-2022-berlin">
- Image-based Linux summit, 5th - 6th October 2022, Berlin
- &lt;a class="anchor" href="#image-based-linux-summit-5th---6th-october-2022-berlin">#&lt;/a>
-&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Minutes on UAPI group generic documents and meeting minutes</title><link>https://uapi-group.org/docs/minutes/</link><description>Recent content in Minutes on UAPI group generic documents and meeting minutes</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://uapi-group.org/docs/minutes/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://uapi-group.org/docs/minutes/2022-10-05__image-based-linux-summit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/minutes/2022-10-05__image-based-linux-summit/</guid><description>&lt;h1 id="image-based-linux-summit-5th---6th-october-2022-berlin">Image-based Linux summit, 5th - 6th October 2022, Berlin&lt;a class="anchor" href="#image-based-linux-summit-5th---6th-october-2022-berlin">#&lt;/a>&lt;/h1>
 &lt;p>The first image-based Linux summit took place on the 5th and the 6th of October, 2022. It was conducted as a loosely structured BoF-style event.
 The following parties were present at the summit (in no particular order):&lt;/p>
 &lt;ul>
 &lt;li>Distros / Entities: Ubuntu Core, Debian, GNOME OS, Fedora CoreOS, Endless OS, Arch Linux, SUSE, Flatcar, Microsoft, Amazon, Meta&lt;/li>
 &lt;li>Projects: systemd, image-builder/osbuild, mkosi, tpm2-software, System Transparency, buildstream, BTRFS, rpm-ostree&lt;/li>
 &lt;/ul>
-&lt;h2 id="actionables-and-tasks">
- Actionables and tasks
- &lt;a class="anchor" href="#actionables-and-tasks">#&lt;/a>
-&lt;/h2>
-&lt;p>Action items listed here can be found as &lt;strong>TODO #[x]&lt;/strong> in the full meeting minutes below, with [x] being the action item number.&lt;/p></description></item><item><title/><link>https://uapi-group.org/docs/minutes/2023-09-12__image-based-linux-summit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/minutes/2023-09-12__image-based-linux-summit/</guid><description>&lt;h1 id="image-based-linux-summit-berlin-12th-september-2023">
- ﻿Image-Based Linux Summit Berlin 12th September 2023
- &lt;a class="anchor" href="#image-based-linux-summit-berlin-12th-september-2023">#&lt;/a>
-&lt;/h1>
-&lt;h2 id="attendees-projects">
- Attendee&amp;rsquo;s projects
- &lt;a class="anchor" href="#attendees-projects">#&lt;/a>
-&lt;/h2>
+&lt;h2 id="actionables-and-tasks">Actionables and tasks&lt;a class="anchor" href="#actionables-and-tasks">#&lt;/a>&lt;/h2>
+&lt;p>Action items listed here can be found as &lt;strong>TODO #[x]&lt;/strong> in the full meeting minutes below, with [x] being the action item number.&lt;/p></description></item><item><title/><link>https://uapi-group.org/docs/minutes/2023-09-12__image-based-linux-summit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/minutes/2023-09-12__image-based-linux-summit/</guid><description>&lt;h1 id="image-based-linux-summit-berlin-12th-september-2023">﻿Image-Based Linux Summit Berlin 12th September 2023&lt;a class="anchor" href="#image-based-linux-summit-berlin-12th-september-2023">#&lt;/a>&lt;/h1>
+&lt;h2 id="attendees-projects">Attendee&amp;rsquo;s projects&lt;a class="anchor" href="#attendees-projects">#&lt;/a>&lt;/h2>
 &lt;ul>
 &lt;li>Systemd&lt;/li>
 &lt;li>Meta: mkosi, systemd, remote attestation&lt;/li>
@@ -35,18 +23,12 @@ The following parties were present at the summit (in no particular order):&lt;/p
 &lt;li>GNOME OS&lt;/li>
 &lt;li>carbonOS&lt;/li>
 &lt;/ul>
-&lt;h2 id="summary-of-last-years-progress">
- Summary of Last Year’s Progress
- &lt;a class="anchor" href="#summary-of-last-years-progress">#&lt;/a>
-&lt;/h2>
+&lt;h2 id="summary-of-last-years-progress">Summary of Last Year’s Progress&lt;a class="anchor" href="#summary-of-last-years-progress">#&lt;/a>&lt;/h2>
 &lt;ul>
 &lt;li>UAPI Group established&lt;/li>
-&lt;li>Website! 
- &lt;a href="https://uapi-group.org">https://uapi-group.org&lt;/a>&lt;/li>
-&lt;li>Github org 
- &lt;a href="https://github.com/uapi-group">https://github.com/uapi-group&lt;/a>&lt;/li>
-&lt;li>Report on previous summit: 
- &lt;a href="https://lwn.net/Articles/912774/">https://lwn.net/Articles/912774/&lt;/a>&lt;/li>
+&lt;li>Website! &lt;a href="https://uapi-group.org">https://uapi-group.org&lt;/a>&lt;/li>
+&lt;li>Github org &lt;a href="https://github.com/uapi-group">https://github.com/uapi-group&lt;/a>&lt;/li>
+&lt;li>Report on previous summit: &lt;a href="https://lwn.net/Articles/912774/">https://lwn.net/Articles/912774/&lt;/a>&lt;/li>
 &lt;li>Systemd:
 &lt;ul>
 &lt;li>systemd-boot/stub: addons support (only cmdline, dtb incoming)&lt;/li>
@@ -156,14 +138,8 @@ The following parties were present at the summit (in no particular order):&lt;/p
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="topics">
- Topics
- &lt;a class="anchor" href="#topics">#&lt;/a>
-&lt;/h2>
-&lt;h3 id="not-covered">
- Not covered
- &lt;a class="anchor" href="#not-covered">#&lt;/a>
-&lt;/h3>
+&lt;h2 id="topics">Topics&lt;a class="anchor" href="#topics">#&lt;/a>&lt;/h2>
+&lt;h3 id="not-covered">Not covered&lt;a class="anchor" href="#not-covered">#&lt;/a>&lt;/h3>
 &lt;ul>
 &lt;li>Integrity of OS images, via Verity and so on.&lt;/li>
 &lt;li>Updating OSes safely and robustly in A/B fashion&lt;/li>
@@ -177,8 +153,7 @@ The following parties were present at the summit (in no particular order):&lt;/p
 &lt;li>Version management, rollback control&lt;/li>
 &lt;li>Vendor/User Resource isolation&lt;/li>
 &lt;li>Reproducibility of the build process&lt;/li>
-&lt;li>Bootstrapability of build process (
- &lt;a href="https://bootstrappable.org/">https://bootstrappable.org/&lt;/a>)&lt;/li>
+&lt;li>Bootstrapability of build process (&lt;a href="https://bootstrappable.org/">https://bootstrappable.org/&lt;/a>)&lt;/li>
 &lt;li>Secure configuration management (signed configuration updates)&lt;/li>
 &lt;li>OS Image formats&lt;/li>
 &lt;li>Unified kernels + pre-built initrd&lt;/li>
@@ -195,14 +170,9 @@ The following parties were present at the summit (in no particular order):&lt;/p
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h3 id="covered">
- Covered
- &lt;a class="anchor" href="#covered">#&lt;/a>
-&lt;/h3>
+&lt;h3 id="covered">Covered&lt;a class="anchor" href="#covered">#&lt;/a>&lt;/h3>
 &lt;ul>
-&lt;li>Sysext / confext and mutable /etc, /usr, and /opt (
- &lt;a href="https://github.com/flatcar/Flatcar/issues/986#issuecomment-1571429705">https://github.com/flatcar/Flatcar/issues/986#issuecomment-1571429705&lt;/a> , 
- &lt;a href="https://github.com/systemd/systemd/issues/24864#issuecomment-1576792335">https://github.com/systemd/systemd/issues/24864#issuecomment-1576792335&lt;/a> )
+&lt;li>Sysext / confext and mutable /etc, /usr, and /opt (&lt;a href="https://github.com/flatcar/Flatcar/issues/986#issuecomment-1571429705">https://github.com/flatcar/Flatcar/issues/986#issuecomment-1571429705&lt;/a> , &lt;a href="https://github.com/systemd/systemd/issues/24864#issuecomment-1576792335">https://github.com/systemd/systemd/issues/24864#issuecomment-1576792335&lt;/a> )
 &lt;ul>
 &lt;li>Currently sysext/confext overlay is R/O&lt;/li>
 &lt;li>Can we add a writable layer/mode (not default)&lt;/li>
@@ -250,16 +220,13 @@ The following parties were present at the summit (in no particular order):&lt;/p
 &lt;li>So kernels are always installed to /boot&lt;/li>
 &lt;li>Places to put bootloader is not stable&lt;/li>
 &lt;li>Bind mount or symlink, but implementers of bls need to understand this&lt;/li>
-&lt;li>Spec for BLS: 
- &lt;a href="https://uapi-group.org/specifications/specs/boot_loader_specification/#mount-points">https://uapi-group.org/specifications/specs/boot_loader_specification/#mount-points&lt;/a>
+&lt;li>Spec for BLS: &lt;a href="https://uapi-group.org/specifications/specs/boot_loader_specification/#mount-points">https://uapi-group.org/specifications/specs/boot_loader_specification/#mount-points&lt;/a>
 &lt;ul>
-&lt;li>Conflicts with Discoverable Partitions Spec: 
- &lt;a href="https://uapi-group.org/specifications/specs/discoverable_partitions_specification/">https://uapi-group.org/specifications/specs/discoverable_partitions_specification/&lt;/a> (explanation for ESP GUID table)&lt;/li>
+&lt;li>Conflicts with Discoverable Partitions Spec: &lt;a href="https://uapi-group.org/specifications/specs/discoverable_partitions_specification/">https://uapi-group.org/specifications/specs/discoverable_partitions_specification/&lt;/a> (explanation for ESP GUID table)&lt;/li>
 &lt;li>DPS says default is /boot, BLS says /efi&lt;/li>
 &lt;li>Tools do it the DPS way&lt;/li>
 &lt;li>Fix BLS? /boot as default&lt;/li>
-&lt;li>
- &lt;a href="https://github.com/uapi-group/specifications/issues/35">https://github.com/uapi-group/specifications/issues/35&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/uapi-group/specifications/issues/35">https://github.com/uapi-group/specifications/issues/35&lt;/a>&lt;/li>
 &lt;li>AI: send PR and merge&lt;/li>
 &lt;li>Tools shouldn’t mount twice&lt;/li>
 &lt;/ul>
@@ -294,14 +261,11 @@ The following parties were present at the summit (in no particular order):&lt;/p
 &lt;/li>
 &lt;li>Talk about AWS/Azure/GCP IMDS (early-boot link-local networking metadata server) and credentials / generators / network config
 &lt;ul>
-&lt;li>Some previous discussion between Arian/Lennart: 
- &lt;a href="https://gist.github.com/arianvp/22e1c5182eb6c17bbd8c1bbe823b516b">https://gist.github.com/arianvp/22e1c5182eb6c17bbd8c1bbe823b516b&lt;/a>&lt;/li>
-&lt;li>Networkd cloud-provider-based configuration: 
- &lt;a href="https://github.com/systemd/systemd/issues/16547">https://github.com/systemd/systemd/issues/16547&lt;/a>&lt;/li>
+&lt;li>Some previous discussion between Arian/Lennart: &lt;a href="https://gist.github.com/arianvp/22e1c5182eb6c17bbd8c1bbe823b516b">https://gist.github.com/arianvp/22e1c5182eb6c17bbd8c1bbe823b516b&lt;/a>&lt;/li>
+&lt;li>Networkd cloud-provider-based configuration: &lt;a href="https://github.com/systemd/systemd/issues/16547">https://github.com/systemd/systemd/issues/16547&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>VBE: 
- &lt;a href="https://u-boot.readthedocs.io/en/latest/develop/vbe.html">https://u-boot.readthedocs.io/en/latest/develop/vbe.html&lt;/a> — alternative to UEFI for embedded systems, maybe more?
+&lt;li>VBE: &lt;a href="https://u-boot.readthedocs.io/en/latest/develop/vbe.html">https://u-boot.readthedocs.io/en/latest/develop/vbe.html&lt;/a> — alternative to UEFI for embedded systems, maybe more?
 &lt;ul>
 &lt;li>NixOS looking into this, for coreboot support&lt;/li>
 &lt;li>Specs covers boot flows, OS requests&lt;/li>
@@ -381,8 +345,7 @@ The following parties were present at the summit (in no particular order):&lt;/p
 &lt;ul>
 &lt;li>More complex issue, needs integration with desktop managers
 &lt;ul>
-&lt;li>Tracking issue: 
- &lt;a href="https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/6921">https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/6921&lt;/a>&lt;/li>
+&lt;li>Tracking issue: &lt;a href="https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/6921">https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/6921&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>Kernel keyring has advanced lately, very complex&lt;/li>
@@ -442,16 +405,13 @@ The following parties were present at the summit (in no particular order):&lt;/p
 &lt;li>Ubuntu Core stores encrypted object that allows to reset the TPM on factory reset
 &lt;ul>
 &lt;li>Systemd should have a hook for this&lt;/li>
-&lt;li>Ubuntu core code: 
- &lt;a href="https://github.com/snapcore/secboot">https://github.com/snapcore/secboot&lt;/a>&lt;/li>
+&lt;li>Ubuntu core code: &lt;a href="https://github.com/snapcore/secboot">https://github.com/snapcore/secboot&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>Non-disk-encryption usage of TPM
 &lt;ul>
 &lt;li>VMs in GCP use TPM for remote attestation on container-optimized linux (fork of chromeos), not on generic linux distro, precalculate expected PCRs&lt;/li>
-&lt;li>System Transparency (
- &lt;a href="https://www.system-transparency.org/">https://www.system-transparency.org/&lt;/a> ): remote attestation oss project. Code 
- &lt;a href="https://git.glasklar.is/system-transparency/core">https://git.glasklar.is/system-transparency/core&lt;/a>&lt;/li>
+&lt;li>System Transparency (&lt;a href="https://www.system-transparency.org/">https://www.system-transparency.org/&lt;/a> ): remote attestation oss project. Code &lt;a href="https://git.glasklar.is/system-transparency/core">https://git.glasklar.is/system-transparency/core&lt;/a>&lt;/li>
 &lt;li>Attested TLS: developed for SGX - standardization happening, RATS, remote attestation for TLS&lt;/li>
 &lt;li>Bind confidential computing to remote attestation&lt;/li>
 &lt;li>Keylime uses TPM for remote attestation, integrated in MicroOS&lt;/li>
@@ -510,17 +470,13 @@ The following parties were present at the summit (in no particular order):&lt;/p
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="action-items">
- Action Items
- &lt;a class="anchor" href="#action-items">#&lt;/a>
-&lt;/h2>
+&lt;h2 id="action-items">Action Items&lt;a class="anchor" href="#action-items">#&lt;/a>&lt;/h2>
 &lt;ul>
 &lt;li>allow opt-in creation of “normal” users via sysusers
 (Possibly use pam module to create the directory on first login?)&lt;/li>
 &lt;li>bootctl -X (name TBD) to print all paths containing boot loader entries[a][b]&lt;/li>
 &lt;li>bootctl status &amp;ndash;json&lt;/li>
-&lt;li>Link sd-boot BootNext generalization github ticket 
- &lt;a href="https://github.com/systemd/systemd/issues/22390">https://github.com/systemd/systemd/issues/22390&lt;/a>&lt;/li>
+&lt;li>Link sd-boot BootNext generalization github ticket &lt;a href="https://github.com/systemd/systemd/issues/22390">https://github.com/systemd/systemd/issues/22390&lt;/a>&lt;/li>
 &lt;li>Arian sends documentation PR about credential path for system services&lt;/li>
 &lt;li>AI: fix incompatibility w.r.t. Mount points between BLS and DPS&lt;/li>
 &lt;li>AI: ask shim to cap sd-stub’s PCRs (os vendor name or so)&lt;/li>
@@ -528,41 +484,25 @@ The following parties were present at the summit (in no particular order):&lt;/p
 &lt;li>AI: create spec for drop-in style config management&lt;/li>
 &lt;li>AI: add ordering guarantee to sysext spec&lt;/li>
 &lt;li>AI: Propose an extension to sysext and confext specs on uapi-group for mutable and ephemeral modes.&lt;/li>
-&lt;/ul></description></item><item><title/><link>https://uapi-group.org/docs/minutes/2024-09-24__image-based-linux-summit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/minutes/2024-09-24__image-based-linux-summit/</guid><description>&lt;h1 id="image-based-linux-summit-berlin-24th-september-2024">
- ﻿Image-Based Linux Summit Berlin 24th September 2024
- &lt;a class="anchor" href="#image-based-linux-summit-berlin-24th-september-2024">#&lt;/a>
-&lt;/h1>
-&lt;h2 id="attendees-projects">
- Attendee&amp;rsquo;s projects
- &lt;a class="anchor" href="#attendees-projects">#&lt;/a>
-&lt;/h2>
+&lt;/ul></description></item><item><title/><link>https://uapi-group.org/docs/minutes/2024-09-24__image-based-linux-summit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/minutes/2024-09-24__image-based-linux-summit/</guid><description>&lt;h1 id="image-based-linux-summit-berlin-24th-september-2024">﻿Image-Based Linux Summit Berlin 24th September 2024&lt;a class="anchor" href="#image-based-linux-summit-berlin-24th-september-2024">#&lt;/a>&lt;/h1>
+&lt;h2 id="attendees-projects">Attendee&amp;rsquo;s projects&lt;a class="anchor" href="#attendees-projects">#&lt;/a>&lt;/h2>
 &lt;ul>
 &lt;li>systemd&lt;/li>
 &lt;li>mkosi&lt;/li>
 &lt;li>SUSE: MicroOS/Tumbleweed&lt;/li>
-&lt;li>Red Hat: 
- &lt;a href="https://osbuild.org">image-builder/osbuild&lt;/a>, 
- &lt;a href="https://github.com/containers/bootc">bootc&lt;/a>, systemd, systemd-boot&lt;/li>
+&lt;li>Red Hat: &lt;a href="https://osbuild.org">image-builder/osbuild&lt;/a>, &lt;a href="https://github.com/containers/bootc">bootc&lt;/a>, systemd, systemd-boot&lt;/li>
 &lt;li>Microsoft: confidential containers, Flatcar, Azure Boost, Mariner/Azure Linux&lt;/li>
-&lt;li>Edgeless Systems: Constellation, 
- &lt;a href="https://github.com/edgelesssys/contrast">Contrast&lt;/a> (confidential containers), 
- &lt;a href="https://github.com/edgelesssys/uplosi">uplosi&lt;/a>&lt;/li>
-&lt;li>NixOS: systemd-{repart,stub,boot,cryptenroll}, tvix-store, 
- &lt;a href="https://github.com/nix-community/lanzaboote">Lanzaboote&lt;/a>, UKIs, 
- &lt;a href="https://github.com/NixOS/rfcs/blob/master/rfcs/0125-bootspec.md">NixOS Bootspec&lt;/a>, PE binary manipulation in Rust&lt;/li>
+&lt;li>Edgeless Systems: Constellation, &lt;a href="https://github.com/edgelesssys/contrast">Contrast&lt;/a> (confidential containers), &lt;a href="https://github.com/edgelesssys/uplosi">uplosi&lt;/a>&lt;/li>
+&lt;li>NixOS: systemd-{repart,stub,boot,cryptenroll}, tvix-store, &lt;a href="https://github.com/nix-community/lanzaboote">Lanzaboote&lt;/a>, UKIs, &lt;a href="https://github.com/NixOS/rfcs/blob/master/rfcs/0125-bootspec.md">NixOS Bootspec&lt;/a>, PE binary manipulation in Rust&lt;/li>
 &lt;li>Canonical: Ubuntu Core, snaps, foundations/bootloader/package management&lt;/li>
 &lt;li>System Transparency: UKI, UAPI specs, systemd-cryptenroll, remote attestation, TPM eventlog, mkosi&lt;/li>
 &lt;li>Freedesktop-sdk&lt;/li>
 &lt;li>GNOME OS&lt;/li>
 &lt;li>Pengutronix: OE/Yocto, nspawn, RAUC, verity, OPTEE&lt;/li>
 &lt;li>Arch Linux: sbctl/go-uefi, signstar, mkinitcpio, arch-install-scripts&lt;/li>
-&lt;li>
- &lt;a href="https://postmarketos.org/">PostmarketOS&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://postmarketos.org/">PostmarketOS&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="summary-of-last-years-progress">
- Summary of Last Year’s Progress
- &lt;a class="anchor" href="#summary-of-last-years-progress">#&lt;/a>
-&lt;/h2>
+&lt;h2 id="summary-of-last-years-progress">Summary of Last Year’s Progress&lt;a class="anchor" href="#summary-of-last-years-progress">#&lt;/a>&lt;/h2>
 &lt;ul>
 &lt;li>Flatcar:
 &lt;ul>
@@ -578,20 +518,16 @@ The following parties were present at the summit (in no particular order):&lt;/p
 &lt;ul>
 &lt;li>Recent dm-verity support for &lt;code>/nix/store&lt;/code> (incl. offline Secure Boot signing support)&lt;/li>
 &lt;li>UKI available by default&lt;/li>
-&lt;li>
- &lt;a href="https://github.com/nikstur/userborn">https://github.com/nikstur/userborn&lt;/a> like sysusers but can create “normal” users and “remove” users&lt;/li>
-&lt;li>
- &lt;a href="https://github.com/nikstur/nix-store-veritysetup-generator">https://github.com/nikstur/nix-store-veritysetup-generator&lt;/a> for &lt;code>storehash&lt;/code>&lt;/li>
+&lt;li>&lt;a href="https://github.com/nikstur/userborn">https://github.com/nikstur/userborn&lt;/a> like sysusers but can create “normal” users and “remove” users&lt;/li>
+&lt;li>&lt;a href="https://github.com/nikstur/nix-store-veritysetup-generator">https://github.com/nikstur/nix-store-veritysetup-generator&lt;/a> for &lt;code>storehash&lt;/code>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>Edgeless:
 &lt;ul>
-&lt;li>Not much progress on 
- &lt;a href="https://github.com/uapi-group/specifications/issues/70">package manager lockfile proposal&lt;/a>&lt;/li>
-&lt;li>Talk about reproducible OS image builds with mkosi @ fosdem (
- &lt;a href="https://github.com/edgelesssys/reproducible-mkosi">repo&lt;/a>)&lt;/li>
+&lt;li>Not much progress on &lt;a href="https://github.com/uapi-group/specifications/issues/70">package manager lockfile proposal&lt;/a>&lt;/li>
+&lt;li>Talk about reproducible OS image builds with mkosi @ fosdem (&lt;a href="https://github.com/edgelesssys/reproducible-mkosi">repo&lt;/a>)&lt;/li>
 &lt;li>uplosi tool for uploading OS images to cloud provider, can pre-calc PCRs for measured boot (started pre-systemd-measure)&lt;/li>
 &lt;/ul>
 &lt;/li>
@@ -620,8 +556,7 @@ The following parties were present at the summit (in no particular order):&lt;/p
 &lt;/li>
 &lt;li>LPC
 &lt;ul>
-&lt;li>Uapi wishlist room 
- &lt;a href="https://uapi-group.org/kernel-features/">https://uapi-group.org/kernel-features/&lt;/a>
+&lt;li>Uapi wishlist room &lt;a href="https://uapi-group.org/kernel-features/">https://uapi-group.org/kernel-features/&lt;/a>
 &lt;ul>
 &lt;li>contributions welcome (via PR)&lt;/li>
 &lt;/ul>
@@ -665,16 +600,14 @@ The following parties were present at the summit (in no particular order):&lt;/p
 &lt;li>not yet used in the base image, for automotive use cases&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>bootc-image-builder: 
- &lt;a href="https://github.com/osbuild/bootc-image-builder/">https://github.com/osbuild/bootc-image-builder/&lt;/a>
+&lt;li>bootc-image-builder: &lt;a href="https://github.com/osbuild/bootc-image-builder/">https://github.com/osbuild/bootc-image-builder/&lt;/a>
 &lt;ul>
 &lt;li>based on rpm-ostree&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>
- &lt;a href="https://uapi-group.org">https://uapi-group.org&lt;/a>
+&lt;li>&lt;a href="https://uapi-group.org">https://uapi-group.org&lt;/a>
 &lt;ul>
 &lt;li>FOSDEM CFP open, will prep a proposal Image Based devroom&lt;/li>
 &lt;/ul>
@@ -685,13 +618,9 @@ The following parties were present at the summit (in no particular order):&lt;/p
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="topics">
- Topics
- &lt;a class="anchor" href="#topics">#&lt;/a>
-&lt;/h2>
+&lt;h2 id="topics">Topics&lt;a class="anchor" href="#topics">#&lt;/a>&lt;/h2>
 &lt;ul>
-&lt;li>Dual-booting DPS distros, DPS partition ownership (
- &lt;a href="https://github.com/uapi-group/specifications/pull/117">https://github.com/uapi-group/specifications/pull/117&lt;/a>)
+&lt;li>Dual-booting DPS distros, DPS partition ownership (&lt;a href="https://github.com/uapi-group/specifications/pull/117">https://github.com/uapi-group/specifications/pull/117&lt;/a>)
 &lt;ul>
 &lt;li>New installer for GNOME OS, no longer supports &lt;code>/etc/fstab&lt;/code>&lt;/li>
 &lt;li>Cannot identify which root/usr partition belongs to which distribution&lt;/li>
@@ -724,12 +653,9 @@ The following parties were present at the summit (in no particular order):&lt;/p
 &lt;ul>
 &lt;li>Links:
 &lt;ul>
-&lt;li>
- &lt;a href="https://github.com/uapi-group/specifications/issues/115">https://github.com/uapi-group/specifications/issues/115&lt;/a>&lt;/li>
-&lt;li>
- &lt;a href="https://github.com/systemd/mkosi/issues/3042">https://github.com/systemd/mkosi/issues/3042&lt;/a>&lt;/li>
-&lt;li>
- &lt;a href="https://codeberg.org/heiko/rsop">https://codeberg.org/heiko/rsop&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/uapi-group/specifications/issues/115">https://github.com/uapi-group/specifications/issues/115&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/systemd/mkosi/issues/3042">https://github.com/systemd/mkosi/issues/3042&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://codeberg.org/heiko/rsop">https://codeberg.org/heiko/rsop&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>Tons of pitfalls, gpg not standard compliant anymore, is not stateless with regards to keyrings&lt;/li>
@@ -741,8 +667,7 @@ The following parties were present at the summit (in no particular order):&lt;/p
 &lt;li>suggestion: write a UAPI spec (agnostic with regards to OpenPGP or PKCS#7 or SSH?)
 &lt;ul>
 &lt;li>PKCS#7 is x509 so that additional things can be added, like application-specific purpose extensions&lt;/li>
-&lt;li>
- &lt;a href="https://datatracker.ietf.org/doc/html/rfc5280#section-4.2.1.12">https://datatracker.ietf.org/doc/html/rfc5280#section-4.2.1.12&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://datatracker.ietf.org/doc/html/rfc5280#section-4.2.1.12">https://datatracker.ietf.org/doc/html/rfc5280#section-4.2.1.12&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>Spec says where to put keys, how to name them&lt;/li>
@@ -793,8 +718,7 @@ The following parties were present at the summit (in no particular order):&lt;/p
 &lt;/li>
 &lt;li>immutable without significantly raising the bar for contributors
 &lt;ul>
-&lt;li>
- &lt;a href="https://gitlab.com/postmarketOS/postmarketos/-/issues/62#note_2095562422">https://gitlab.com/postmarketOS/postmarketos/-/issues/62#note_2095562422&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://gitlab.com/postmarketOS/postmarketos/-/issues/62#note_2095562422">https://gitlab.com/postmarketOS/postmarketos/-/issues/62#note_2095562422&lt;/a>&lt;/li>
 &lt;li>How to deliver an immutable system without raising complexity&lt;/li>
 &lt;li>Need to figure out how to build image
 &lt;ul>
@@ -838,8 +762,7 @@ The following parties were present at the summit (in no particular order):&lt;/p
 &lt;/li>
 &lt;li>systemd on musl
 &lt;ul>
-&lt;li>
- &lt;a href="https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/">https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/">https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/&lt;/a>&lt;/li>
 &lt;li>pmOS is for smartphones, they have a high number of contributors relative to the number of users&lt;/li>
 &lt;li>Tons of patches&lt;/li>
 &lt;li>We merged some patches
@@ -956,8 +879,7 @@ The following parties were present at the summit (in no particular order):&lt;/p
 &lt;li>Difficult to implement in repart for the allocation algorithm&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>related: fuchsia has a 
- &lt;a href="https://fuchsia.dev/fuchsia-src/concepts/filesystems/blobfs">blobfs&lt;/a>, which makes everything accessible via a rootfs&lt;/li>
+&lt;li>related: fuchsia has a &lt;a href="https://fuchsia.dev/fuchsia-src/concepts/filesystems/blobfs">blobfs&lt;/a>, which makes everything accessible via a rootfs&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>Confext dm-crypt+dm-verity loop
@@ -971,8 +893,7 @@ The following parties were present at the summit (in no particular order):&lt;/p
 &lt;li>Easy parts done for MicroOS&lt;/li>
 &lt;li>Some projects can’t have their files split, some refuse patches (some quite rudely)&lt;/li>
 &lt;li>glibc would take patches, but they don’t want to do the work and it needs to be reimplemented in glibc&lt;/li>
-&lt;li>MicroOS currently targets putting everything in &lt;code>/usr/etc/&lt;/code> and only using that as a fallback if sysadmins don’t put a file in &lt;code>/etc/&lt;/code> (
- &lt;a href="https://github.com/openSUSE/libnss_usrfiles">libnss_usrfiles&lt;/a>)&lt;/li>
+&lt;li>MicroOS currently targets putting everything in &lt;code>/usr/etc/&lt;/code> and only using that as a fallback if sysadmins don’t put a file in &lt;code>/etc/&lt;/code> (&lt;a href="https://github.com/openSUSE/libnss_usrfiles">libnss_usrfiles&lt;/a>)&lt;/li>
 &lt;li>tmpfiles + &lt;code>/usr/share/factory/etc/&lt;/code> + symlinks seems to work great&lt;/li>
 &lt;li>suggest using volatile /etc and have an allow list for specific stuff&lt;/li>
 &lt;li>for the base os we should be fine now (on fedora), except &lt;code>/etc/services&lt;/code>
@@ -988,12 +909,10 @@ The following parties were present at the summit (in no particular order):&lt;/p
 &lt;/li>
 &lt;li>for glibc, most important is ldconfig, services, nsswitch.conf
 &lt;ul>
-&lt;li>
- &lt;a href="https://github.com/systemd/systemd/pull/34535">https://github.com/systemd/systemd/pull/34535&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/systemd/systemd/pull/34535">https://github.com/systemd/systemd/pull/34535&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>
- &lt;a href="https://github.com/authselect/authselect/pull/380">https://github.com/authselect/authselect/pull/380&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/authselect/authselect/pull/380">https://github.com/authselect/authselect/pull/380&lt;/a>&lt;/li>
 &lt;li>it would be nice if overlayfs had a way to “reveal” (config) files from the lower layers
 &lt;ul>
 &lt;li>you can diff between upper and lower layers&lt;/li>
@@ -1002,13 +921,11 @@ The following parties were present at the summit (in no particular order):&lt;/p
 &lt;li>Do we need a arewehermeticyet page? (there’s no “.yet” tld though)
 &lt;ul>
 &lt;li>Yes&lt;/li>
-&lt;li>Tracker: 
- &lt;a href="https://github.com/uapi-group/specifications/issues/76">https://github.com/uapi-group/specifications/issues/76&lt;/a> (is now a pinned issue)&lt;/li>
+&lt;li>Tracker: &lt;a href="https://github.com/uapi-group/specifications/issues/76">https://github.com/uapi-group/specifications/issues/76&lt;/a> (is now a pinned issue)&lt;/li>
 &lt;li>maybe complain about packages which place files in &lt;code>/etc/&lt;/code>?&lt;/li>
 &lt;li>How to test whether packages?&lt;/li>
 &lt;li>nix patches all packages which write to &lt;code>/etc/&lt;/code>, can be used as a list of affected packages&lt;/li>
-&lt;li>list of stuff that needs to be in &lt;code>/etc/&lt;/code> on Arch Linux: 
- &lt;a href="https://github.com/systemd/particleos/blob/main/mkosi.extra/usr/lib/tmpfiles.d/etc.conf">https://github.com/systemd/particleos/blob/main/mkosi.extra/usr/lib/tmpfiles.d/etc.conf&lt;/a>&lt;/li>
+&lt;li>list of stuff that needs to be in &lt;code>/etc/&lt;/code> on Arch Linux: &lt;a href="https://github.com/systemd/particleos/blob/main/mkosi.extra/usr/lib/tmpfiles.d/etc.conf">https://github.com/systemd/particleos/blob/main/mkosi.extra/usr/lib/tmpfiles.d/etc.conf&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>also relates to random top-level paths (mount points in &lt;code>/&lt;/code>, container usecases, &lt;code>/opt/&lt;/code>)&lt;/li>
@@ -1019,8 +936,7 @@ The following parties were present at the summit (in no particular order):&lt;/p
 &lt;li>What to do with user content on the ESP (credentials, self-signed UKIs)?&lt;/li>
 &lt;li>Original patch set for factory reset became purge, which then tried to delete home directories, which made some people unhappy
 &lt;ul>
-&lt;li>
- &lt;a href="https://github.com/systemd/systemd/pull/24983">https://github.com/systemd/systemd/pull/24983&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/systemd/systemd/pull/24983">https://github.com/systemd/systemd/pull/24983&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>Need to factory reset TPM
@@ -1074,10 +990,8 @@ The following parties were present at the summit (in no particular order):&lt;/p
 &lt;li>This is the remote attestation problem, as you cannot trust the output of a machine booting a compromised kernel&lt;/li>
 &lt;li>There was a bluetooth based project to tie this to a phone (FOSDEM ?? Ultrablue)
 &lt;ul>
-&lt;li>
- &lt;a href="https://github.com/ANSSI-FR/ultrablue">https://github.com/ANSSI-FR/ultrablue&lt;/a>&lt;/li>
-&lt;li>User-friendly Lightweight TPM Remote Attestation over Bluetooth 
- &lt;a href="https://archive.fosdem.org/2023/schedule/event/image_linux_secureboot_ultrablue/">https://archive.fosdem.org/2023/schedule/event/image_linux_secureboot_ultrablue/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/ANSSI-FR/ultrablue">https://github.com/ANSSI-FR/ultrablue&lt;/a>&lt;/li>
+&lt;li>User-friendly Lightweight TPM Remote Attestation over Bluetooth &lt;a href="https://archive.fosdem.org/2023/schedule/event/image_linux_secureboot_ultrablue/">https://archive.fosdem.org/2023/schedule/event/image_linux_secureboot_ultrablue/&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
@@ -1097,10 +1011,7 @@ The following parties were present at the summit (in no particular order):&lt;/p
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="action-items">
- Action Items
- &lt;a class="anchor" href="#action-items">#&lt;/a>
-&lt;/h2>
+&lt;h2 id="action-items">Action Items&lt;a class="anchor" href="#action-items">#&lt;/a>&lt;/h2>
 &lt;ul>
 &lt;li>file RFE on systemd to track list of BPF LSM filesystem lockdown policies&lt;/li>
 &lt;li>Make program visible in BPF FS when loaded, so you can do &lt;code>ConditionPathExists=/sys/filesystem/bpf&lt;/code>&lt;/li>
@@ -1109,8 +1020,7 @@ The following parties were present at the summit (in no particular order):&lt;/p
 &lt;li>CFP for FOSDEM for image-based devroom&lt;/li>
 &lt;li>organise 4th summit next year
 &lt;ul>
-&lt;li>
- &lt;a href="https://www.bmw-berlin-marathon.com/en/">CHECK BERLIN MARATHON DATES&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.bmw-berlin-marathon.com/en/">CHECK BERLIN MARATHON DATES&lt;/a>&lt;/li>
 &lt;li>Try after ASG, if we can do ASG Tue/Wed&lt;/li>
 &lt;/ul>
 &lt;/li>
@@ -1120,85 +1030,52 @@ The following parties were present at the summit (in no particular order):&lt;/p
 &lt;li>&lt;code>uki.d&lt;/code> vs &lt;code>uki.vendor.d&lt;/code> dropins for factory reset&lt;/li>
 &lt;li>create PR for certificate directory structure&lt;/li>
 &lt;li>make suggestions on other projects to invite (use Signal)&lt;/li>
-&lt;/ul></description></item><item><title/><link>https://uapi-group.org/docs/minutes/2025-10-02__image-based-linux-summit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/minutes/2025-10-02__image-based-linux-summit/</guid><description>&lt;h1 id="image-based-linux-summit-berlin-october-2nd-2025">
- Image-Based Linux Summit Berlin October 2nd 2025
- &lt;a class="anchor" href="#image-based-linux-summit-berlin-october-2nd-2025">#&lt;/a>
-&lt;/h1>
+&lt;/ul></description></item><item><title/><link>https://uapi-group.org/docs/minutes/2025-10-02__image-based-linux-summit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://uapi-group.org/docs/minutes/2025-10-02__image-based-linux-summit/</guid><description>&lt;h1 id="image-based-linux-summit-berlin-october-2nd-2025">Image-Based Linux Summit Berlin October 2nd 2025&lt;a class="anchor" href="#image-based-linux-summit-berlin-october-2nd-2025">#&lt;/a>&lt;/h1>
 &lt;p>🖼️ 🐧 🗻 🥙&lt;/p>
-&lt;h1 id="attendees-projects">
- Attendee&amp;rsquo;s projects
- &lt;a class="anchor" href="#attendees-projects">#&lt;/a>
-&lt;/h1>
+&lt;h1 id="attendees-projects">Attendee&amp;rsquo;s projects&lt;a class="anchor" href="#attendees-projects">#&lt;/a>&lt;/h1>
 &lt;ul>
 &lt;li>systemd&lt;/li>
 &lt;li>mkosi&lt;/li>
 &lt;li>SUSE: MicroOS/Tumbleweed&lt;/li>
-&lt;li>Red Hat: 
- &lt;a href="https://osbuild.org">image-builder/osbuild&lt;/a>, 
- &lt;a href="https://github.com/containers/bootc">bootc&lt;/a>, systemd, systemd-boot, composefs&lt;/li>
-&lt;li>Fedora: 
- &lt;a href="https://docs.fedoraproject.org/en-US/bootc/getting-started/">Bootc&lt;/a>, 
- &lt;a href="https://fedoraproject.org/coreos/">CoreOS&lt;/a>, 
- &lt;a href="https://fedoraproject.org/atomic-desktops/">Atomic Desktops (Silverblue, Kinoite)&lt;/a>&lt;/li>
-&lt;li>Microsoft: confidential containers, 
- &lt;a href="https://www.flatcar.org/">Flatcar&lt;/a>, Azure Boost&lt;/li>
-&lt;li>NixOS: systemd-{repart,stub,boot,cryptenroll}, 
- &lt;a href="https://snix.dev/about/">snix-store&lt;/a>, 
- &lt;a href="https://github.com/nix-community/lanzaboote">Lanzaboote&lt;/a>, UKIs, 
- &lt;a href="https://github.com/NixOS/rfcs/blob/master/rfcs/0125-bootspec.md">NixOS Bootspec&lt;/a>, 
- &lt;a href="https://github.com/nikstur/userborn">userborn&lt;/a>, 
- &lt;a href="https://github.com/cloud-gouv/securix">Sécurix&lt;/a>&lt;/li>
+&lt;li>Red Hat: &lt;a href="https://osbuild.org">image-builder/osbuild&lt;/a>, &lt;a href="https://github.com/containers/bootc">bootc&lt;/a>, systemd, systemd-boot, composefs&lt;/li>
+&lt;li>Fedora: &lt;a href="https://docs.fedoraproject.org/en-US/bootc/getting-started/">Bootc&lt;/a>, &lt;a href="https://fedoraproject.org/coreos/">CoreOS&lt;/a>, &lt;a href="https://fedoraproject.org/atomic-desktops/">Atomic Desktops (Silverblue, Kinoite)&lt;/a>&lt;/li>
+&lt;li>Microsoft: confidential containers, &lt;a href="https://www.flatcar.org/">Flatcar&lt;/a>, Azure Boost&lt;/li>
+&lt;li>NixOS: systemd-{repart,stub,boot,cryptenroll}, &lt;a href="https://snix.dev/about/">snix-store&lt;/a>, &lt;a href="https://github.com/nix-community/lanzaboote">Lanzaboote&lt;/a>, UKIs, &lt;a href="https://github.com/NixOS/rfcs/blob/master/rfcs/0125-bootspec.md">NixOS Bootspec&lt;/a>, &lt;a href="https://github.com/nikstur/userborn">userborn&lt;/a>, &lt;a href="https://github.com/cloud-gouv/securix">Sécurix&lt;/a>&lt;/li>
 &lt;li>Canonical: Ubuntu Core, snaps, foundations/bootloader/package management&lt;/li>
 &lt;li>Freedesktop-sdk&lt;/li>
 &lt;li>GNOME OS&lt;/li>
 &lt;li>Arch Linux: sbctl/go-uefi, signstar(os), mkinitcpio, arch-install-scripts, devtools, buildbtw / vmexec, voa&lt;/li>
 &lt;li>postmarketOS: mkosi and immutable images, dev tooling&lt;/li>
 &lt;li>Devicetree selection for OS installers&lt;/li>
-&lt;li>Cockpit 
- &lt;a href="https://github.com/cockpit-project/cockpit">https://github.com/cockpit-project/cockpit&lt;/a>&lt;/li>
-&lt;li>test.thing 
- &lt;a href="https://codeberg.org/lis/test.thing">https://codeberg.org/lis/test.thing&lt;/a>&lt;/li>
-&lt;li>composefs-rs 
- &lt;a href="https://github.com/containers/composefs-rs">https://github.com/containers/composefs-rs&lt;/a>&lt;/li>
-&lt;li>Aeon Desktop 
- &lt;a href="https://aeondesktop.org">https://aeondesktop.org&lt;/a>&lt;/li>
-&lt;li>tik 
- &lt;a href="https://github.com/sysrich/tik">https://github.com/sysrich/tik&lt;/a>&lt;/li>
+&lt;li>Cockpit &lt;a href="https://github.com/cockpit-project/cockpit">https://github.com/cockpit-project/cockpit&lt;/a>&lt;/li>
+&lt;li>test.thing &lt;a href="https://codeberg.org/lis/test.thing">https://codeberg.org/lis/test.thing&lt;/a>&lt;/li>
+&lt;li>composefs-rs &lt;a href="https://github.com/containers/composefs-rs">https://github.com/containers/composefs-rs&lt;/a>&lt;/li>
+&lt;li>Aeon Desktop &lt;a href="https://aeondesktop.org">https://aeondesktop.org&lt;/a>&lt;/li>
+&lt;li>tik &lt;a href="https://github.com/sysrich/tik">https://github.com/sysrich/tik&lt;/a>&lt;/li>
 &lt;li>Meta (image builders)&lt;/li>
 &lt;li>&lt;/li>
 &lt;/ul>
-&lt;h2 id="summary-of-last-years-progress">
- Summary of Last Year’s Progress
- &lt;a class="anchor" href="#summary-of-last-years-progress">#&lt;/a>
-&lt;/h2>
+&lt;h2 id="summary-of-last-years-progress">Summary of Last Year’s Progress&lt;a class="anchor" href="#summary-of-last-years-progress">#&lt;/a>&lt;/h2>
 &lt;ul>
 &lt;li>Systemd: factory-reset (including TPM), varlinkified lots of building blocks for the installer so GUI progs can call into this IPC to prep disks, UKIs: multi profiles (pcrlock TBD), DTB auto selection, netbooting plus image-based stuff (pxeboot replacement), repart: verity autosizing, verity copyblocks, offline signing, systemd-sbsign for signing EFI and more stuff, with providers support and offline support, fsverity support&lt;/li>
 &lt;li>SUSE: sd-boot for MicroOS, Tumbleweed uses BLS, TPM-based FDE in the YaST2 installer, fido2 + tpm2 integration being worked on, sysext support in MicroOS, building MicroOS images with mkosi as root, non-root is WIP, util-linux follows config spec, glib will support it with 2.87.0 too, prototypes to remove SUID from everywhere, new systemd socket activated daemons, one to read and one to modify passwd and shadow entries, simple PAM module making use of it, TIK installer repart based for everything, aeon tpm encrypted by default, fully image-based&lt;/li>
 &lt;li>Composefs: rewrote in rust, can pull OCI images, or local filesystems repos, can use systemd-repart, integrated in bootc project, moving away from ostree, focusing on flow for secure boot signing and bootchain security, UKI and systemd-boot support in bootc&lt;/li>
 &lt;li>Fedora: sysusers.d migration completed for all migrated mostly done in rpm inline as many are based on RPM macros, getting closer to have sd-boot signed, almost finished moving Fedora CoreOS to bootc, focusing on remote attestation, experiment with sysext for Atomic Desktops and CoreOS, not official yet, works well&lt;/li>
 &lt;li>Ubuntu: experimental TPM based FDE for ubuntu classic, ubuntu core IOT related and does it already, many issues with firmwares so verification work, will be ported to classic, to handle common error cases, adding dm-verity for snaps, investigated using DDIs as backend&lt;br>
-(
- &lt;a href="https://ubuntu.com/summit">https://ubuntu.com/summit&lt;/a> might be the place to evangalize, Oct 23-24), collaboration with azure for tpm-based CVM, no bootloader, nullboot (
- &lt;a href="https://github.com/canonical/nullboot">https://github.com/canonical/nullboot&lt;/a>) manages the efi entries directly, uses shim → uki managing efi entries&lt;/li>
-&lt;li>GNOME OS: sd-boot, sysupdate, worked on new installer using repart, pcrlock enabled by default, more testing this summer, issues like fw updates clearing the TPM (not uefi capsule based), problems keeping things unlocked (no recovery key setup sometimes, needs UX improvement), wired up gnome ci to produce sysext images from PRs for easy testing, btrfs installer that does not reboot, puts root btrfs in zram device, encrypt and open luks, then btrfs moves to the disk from the zram (
- &lt;a href="https://cfp.all-systems-go.io/all-systems-go-2025/talk/QRJVL3/">https://cfp.all-systems-go.io/all-systems-go-2025/talk/QRJVL3/&lt;/a>)&lt;/li>
+(&lt;a href="https://ubuntu.com/summit">https://ubuntu.com/summit&lt;/a> might be the place to evangalize, Oct 23-24), collaboration with azure for tpm-based CVM, no bootloader, nullboot (&lt;a href="https://github.com/canonical/nullboot">https://github.com/canonical/nullboot&lt;/a>) manages the efi entries directly, uses shim → uki managing efi entries&lt;/li>
+&lt;li>GNOME OS: sd-boot, sysupdate, worked on new installer using repart, pcrlock enabled by default, more testing this summer, issues like fw updates clearing the TPM (not uefi capsule based), problems keeping things unlocked (no recovery key setup sometimes, needs UX improvement), wired up gnome ci to produce sysext images from PRs for easy testing, btrfs installer that does not reboot, puts root btrfs in zram device, encrypt and open luks, then btrfs moves to the disk from the zram (&lt;a href="https://cfp.all-systems-go.io/all-systems-go-2025/talk/QRJVL3/">https://cfp.all-systems-go.io/all-systems-go-2025/talk/QRJVL3/&lt;/a>)&lt;/li>
 &lt;li>Arch: worked on stateless verification of artifacts that works with openpgp but extendable (ssh, x509, etc), added to UAPI specs, image based signing enclave using mkosi,&lt;/li>
 &lt;li>NixOS:
 &lt;ul>
 &lt;li>dm-verity support in builder (puts Nix Store on /usr/nix/store then bind-mounts to /nix/store). Uses veritysetup generator and verity autosizing.&lt;/li>
-&lt;li>Removed Perl from mandatory system closure before, 
- &lt;a href="https://github.com/NixOS/nixpkgs/issues/428908">now removed bash&lt;/a>.&lt;/li>
-&lt;li>
- &lt;a href="https://github.com/legionus/kbd/issues/138">Convinced kbd to use .note.dlopen()&lt;/a>.
+&lt;li>Removed Perl from mandatory system closure before, &lt;a href="https://github.com/NixOS/nixpkgs/issues/428908">now removed bash&lt;/a>.&lt;/li>
+&lt;li>&lt;a href="https://github.com/legionus/kbd/issues/138">Convinced kbd to use .note.dlopen()&lt;/a>.
 &lt;ul>
-&lt;li>
- &lt;a href="http://github.com/logrotate/logrotate/issues/681">Proposed to logrotate&lt;/a> as well but unconvinced we will succeed&lt;/li>
+&lt;li>&lt;a href="http://github.com/logrotate/logrotate/issues/681">Proposed to logrotate&lt;/a> as well but unconvinced we will succeed&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>Happy about 
- &lt;a href="https://github.com/util-linux/util-linux/pull/3680">mount --beneath support in util-linux&lt;/a>. Used for /etc/ overlay so when system updated it is done atomically&lt;/li>
-&lt;li>Tried very hard to use the systemd (sysusers and userdbd (no uid allocation) and homed (not declarative, always prompted)) for declarative user management. After 6 months gave up (skill issue?) and developed 
- &lt;a href="https://github.com/nikstur/userborn">Userborn&lt;/a>.
+&lt;li>Happy about &lt;a href="https://github.com/util-linux/util-linux/pull/3680">mount --beneath support in util-linux&lt;/a>. Used for /etc/ overlay so when system updated it is done atomically&lt;/li>
+&lt;li>Tried very hard to use the systemd (sysusers and userdbd (no uid allocation) and homed (not declarative, always prompted)) for declarative user management. After 6 months gave up (skill issue?) and developed &lt;a href="https://github.com/nikstur/userborn">Userborn&lt;/a>.
 &lt;ul>
 &lt;li>Couldn&amp;rsquo;t get homed to be fully declarative&lt;/li>
 &lt;li>userdbd drop-in files are missing uid allocation and prevention of UID re-use&lt;/li>
@@ -1218,12 +1095,10 @@ The following parties were present at the summit (in no particular order):&lt;/p
 &lt;/li>
 &lt;li>systemd-pcrlock: we built our own tool to predict pcrlock-like files but we wonder if pcrlock should know how to predict things based on an event log for hardware and a systemd-repart manifest, this works perfectly&lt;/li>
 &lt;li>machine identity and LoadCredentials: currently, we cannot use socket based LC because reloading rotated credentials is not perfect&lt;/li>
-&lt;li>Appetite for multi-level security in Spectrum (QubesOS alternative in NixOS): 
- &lt;a href="https://git.sr.ht/~alip/syd">https://git.sr.ht/~alip/syd&lt;/a> a competitor to systemd hardening / sandboxing options&lt;/li>
+&lt;li>Appetite for multi-level security in Spectrum (QubesOS alternative in NixOS): &lt;a href="https://git.sr.ht/~alip/syd">https://git.sr.ht/~alip/syd&lt;/a> a competitor to systemd hardening / sandboxing options&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>Flatcar: operationalizing sysexts, building/publishing/hosting: 
- &lt;a href="https://extensions.flatcar.org/">https://extensions.flatcar.org/&lt;/a>
+&lt;li>Flatcar: operationalizing sysexts, building/publishing/hosting: &lt;a href="https://extensions.flatcar.org/">https://extensions.flatcar.org/&lt;/a>
 &lt;ul>
 &lt;li>more APIs/hooks for sysexts to make services merge/unmerge aware&lt;/li>
 &lt;li>mutable confexts for a migration path from a fully writable to immutable setup, incl. Auto-generating / capturing confexts on the fly&lt;/li>
@@ -1235,10 +1110,7 @@ The following parties were present at the summit (in no particular order):&lt;/p
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="topics-discussed">
- Topics discussed
- &lt;a class="anchor" href="#topics-discussed">#&lt;/a>
-&lt;/h2>
+&lt;h2 id="topics-discussed">Topics discussed&lt;a class="anchor" href="#topics-discussed">#&lt;/a>&lt;/h2>
 &lt;ul>
 &lt;li>Lennart: Lsm-bpf policies implemented by systemd
 &lt;ul>
