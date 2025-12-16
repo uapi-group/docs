@@ -1,6 +1,6 @@
-baseURL = "https://uapi-group.org/docs"
+baseURL = "https://uapi-group.org/conferences"
 languageCode = "en-us"
-title = "UAPI group generic documents and meeting minutes"
+title = "Conferences and Minutes"
 theme = "hugo-book"
 
 [[menu.before]]
@@ -10,7 +10,7 @@ theme = "hugo-book"
 
 [[menu.after]]
   name = "Collaborate on Github"
-  url = "https://github.com/uapi-group/docs"
+  url = "https://github.com/uapi-group/conferences"
   weight = 11
 
 [markup.goldmark.renderer]
@@ -19,7 +19,7 @@ theme = "hugo-book"
 [params]
   BookPortableLinks = true
   BookSection = '*'
-  BookRepo = 'https://github.com/uapi-group/docs'
+  BookRepo = 'https://github.com/uapi-group/conferences'
   BookCommitPath = 'commit'
   BookEditLink = '{{ .Site.Params.BookRepo }}/edit/main/{{ .Path }}'
   BookIndexPage = 'README.md'
