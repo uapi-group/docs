@@ -9,7 +9,7 @@ theme = "hugo-book"
   weight = 1
 
 [[menu.after]]
-  name = "Collaborate on Github"
+  name = "Source repo for this page"
   url = "https://github.com/uapi-group/conferences"
   weight = 11
 
